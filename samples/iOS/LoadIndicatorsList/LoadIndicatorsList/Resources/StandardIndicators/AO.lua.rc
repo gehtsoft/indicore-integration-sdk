@@ -1,0 +1,254 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Awesome Oscillator
+description=Shows the market momentum of a recent number of periods compared to the momentum of a larger number of previous periods.
+param_FM_name=Fast MA periods
+param_FM_description=The number of periods to calculate the fast moving average.
+param_SM_name=Slow MA periods
+param_SM_description=The number of periods to calculate the slow moving average.
+param_GO_name=Upper bar
+param_GO_desc=upper bar
+param_RO_name=Lower bar
+param_RO_desc=lower bar
+assert_FMLessSM=Number of periods for the fast MA must be less than for the slow MA.
+
+[rus]
+codepage=1251
+name=Чудесный осциллятор
+description=Показывает движение рынка за недавние периоды в сравнении с движением за большее количество предыдущих периодов.
+param_FM_name=Периоды для быстрого MA
+param_FM_description=Количество периодов для расчета быстрого скользящего среднего.
+param_SM_name=Периоды для медленного MA
+param_SM_description=Количество периодов для расчета медленного скользящего среднего.
+param_GO_name=верхнего бара
+param_GO_desc=верхнего бара
+param_RO_name=нижнего бара
+param_RO_desc=нижнего бара
+assert_FMLessSM=Количество периодов для быстрого MA должно быть меньше, чем для медленного MA.
+
+[ara]
+codepage=1256
+name=مؤشر الـ Awesome Oscillator
+description=يبين الزخم في السوق لعدد الفترات الاخيرة مقارنة مع الزخم لعدد أكبر من الفترات السابقة.
+param_FM_name=فترات MA السريع
+param_FM_description=عدد الفترات لحساب المتوسط المتحرك السريع.
+param_SM_name=فترات MA البطيئ
+param_SM_description=عدد الفترات لحساب المتوسط المتحرك البطيء.
+param_GO_name=الشريط العلوي
+param_GO_desc=الشريط العلوي
+param_RO_name=الشريط السفلي
+param_RO_desc=الشريط السفلي
+assert_FMLessSM=يجب أن عدد فترات الـ MA السريع أقل من عدد فترات الـ MA البطيء
+
+[chs]
+codepage=936
+name=动量震荡指标
+description=显示最近时期数目与以前较大时期数目的市场动力
+param_FM_name=快MA时期
+param_FM_description=计算快平均时期数目
+param_SM_name=慢MA时期
+param_SM_description=计算慢平均时期数目
+param_GO_name=上棒线
+param_GO_desc=上棒线
+param_RO_name=下棒线
+param_RO_desc=下棒线
+assert_FMLessSM=快MA必须少于慢MA时期数目
+
+[cht]
+codepage=950
+name=動量震盪指標
+description=顯示最近時期數目與以前較大時期數目的市場動力
+param_FM_name=快MA時期
+param_FM_description=計算快平均時期數目
+param_SM_name=慢MA時期
+param_SM_description=計算慢平均時期數目
+param_GO_name=上棒線
+param_GO_desc=上棒線
+param_RO_name=下棒線
+param_RO_desc=下棒線
+assert_FMLessSM=快MA必須少於慢MA時期數目
+
+[cze]
+codepage=1250
+name=Awesome Oscilátor
+description=Zobrazí momentum trhu za nedávnou časovou periodu a porovná ho s delší historií
+param_FM_name=Periody pro rychlý klouzavý průměr
+param_FM_description=Počet period pro výpočet rychlého klouzavého průměru.
+param_SM_name=Periody pro pomalý klouzavý průměr
+param_SM_description=Počet period pro výpočet pomalého klouzavého průměru.
+param_GO_name=Horní sloupec
+param_GO_desc=horní sloupec
+param_RO_name=Spodní sloupec
+param_RO_desc=spodní sloupec
+assert_FMLessSM=Počet period pro rychlý klouzavý průměr musí být nižší, než pro pomalý klouzavý průměr
+
+[deu]
+codepage=1252
+name=Awesome Oscillator
+description=Zeigt das Marktmomentum einer Anzahl von kurz zurückliegenden Perioden im Vergleich zu einer größeren Anzahl vorhergehender Perioden.
+param_FM_name=Fast MA Perioden
+param_FM_description=Die Anzahl der Perioden um den Fast Moving Average zu berechnen
+param_SM_name=Slow MA Perioden
+param_SM_description=Die Anzahl der Perioden um den Slow Moving Average zu berechnen
+param_GO_name=Oberer Balken
+param_GO_desc=Oberer Balken
+param_RO_name=Unterer Balken
+param_RO_desc=Unterer Balken
+assert_FMLessSM=Anzahl der Perioden für den Fast MA muss geringer sein als für den Slow MA
+
+[fra]
+codepage=1252
+name=Oscillateur Awesome
+description=Montre le Momemtum du marché d'un nombre de périodes récentes comparé au Momemtum d'un plus grand nombre de périodes précédentes
+param_FM_name=Périodes MA rapide
+param_FM_description=Le nombre de périodes pour calculer une moyenne mobile rapide
+param_SM_name=Périodes MA lente
+param_SM_description=Le nombre de périodes pour calculer une moyenne mobile lente
+param_GO_name=Barre supérieure
+param_GO_desc=barre supérieure
+param_RO_name=Barre inférieure
+param_RO_desc=barre inférieure
+assert_FMLessSM=Le nombre de périodes pour la MA rapide doit être inférieur à celui de la MA lente
+
+[gre]
+codepage=1253
+name=Ταλαντωντής Awesome
+description=Δείχνει την ορμή της αγοράς συγκρίνοντας έναν πρόσφατο αριθμό περιόδων, με έναν μεγαλύτερο αριθμό προγούμενων περιόδων.
+param_FM_name=Περίοδοι γρήγορου ΚΜΟ
+param_FM_description=Ο αριθμός των περιόδων που υπολογίζεται ο γρήγορος κινητός μέσος όρος.
+param_SM_name=Περίοδοι αργού ΚΜΟ
+param_SM_description=Ο αριθμός των περιόδων που υπολογίζεται ο αργός κινητός μέσος όρος.
+param_GO_name=Άνω ράβδος
+param_GO_desc=άνω ράβδος
+param_RO_name=Κάτω ράβδος
+param_RO_desc=κάτω ράβδος
+assert_FMLessSM=Ο αριθμός των περιόδων για τον γρήγορο ΚΜΟ πρέπει να είναι μικρότερος από αυτόν για τον αργό ΚΜΟ.
+
+[heb]
+codepage=1255
+name=מתנד Awesome
+description=מראה את עוצמת המומנטום בתקופות האחרונות בהשוואה למומנטום במספר רב יותר תקופות לפני כן.
+param_FM_name=תקופות ממוצע נע מהיר
+param_FM_description=מספר התקופות לחישוב הממוצע הנע המהיר.
+param_SM_name=תקופות ממוצע נע איטי
+param_SM_description=מספר התקופות לחישוב הממוצע הנע האיטי.
+param_GO_name=עמודה עליונה
+param_GO_desc=עמודה עליונה
+param_RO_name=עמודה תחתונה
+param_RO_desc=עמודה תחתונה
+assert_FMLessSM=מספר התקופות עבור הממוצע הנע המהיר חייב להיות נמוך ממספר התקופות עבור הממוצע הנע האיטי.
+
+[ita]
+codepage=1252
+name=Oscillatore Awesome
+description=Mostra il momentum di mercato di un recente numero di periodi comparato con il momentum di un maggior numero di periodi precedent.
+param_FM_name=MA veloce
+param_FM_description=Il numero di periodi per calcolare la media mobile veloce di una media di prezzi
+param_SM_name=MA lenta
+param_SM_description=Il numero di periodi per calcolare la media mobile lenta di una media di prezzi
+param_GO_name=Barra superiore
+param_GO_desc=barra superiore
+param_RO_name=Barra inferiore
+param_RO_desc=barra inferiore
+assert_FMLessSM=Numero di periodi della MA veloce deve essere inferiore alla MA lenta
+
+[jpn]
+codepage=932
+name=Awesome Oscillator
+description=直近の値動きと、それまでの値動きを比較し、マーケットの騰勢を推し量るモメンタム系指標です。
+param_FM_name=Fast MA 期間
+param_FM_description=Fast Moving Averageを計算する期間
+param_SM_name=Slow MA 期間
+param_SM_description=Slow Moving Averageを計算する期間
+param_GO_name=上部バー
+param_GO_desc=上部バー
+param_RO_name=下部バー
+param_RO_desc=下部バー
+assert_FMLessSM=Fast MAの期間数はSlow MAの期間数よりも小さくなくてはならない
+
+[tur]
+codepage=1254
+name=Awesome Osilatör
+description=Daha fazla sayıdaki geçmiş periyotların momentumuna kıyasla son periyotların piyasa momentumunu gösterir.
+param_FM_name=Hızlı HO periyotları
+param_FM_description=Hızlı hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_SM_name=Yavaş HO periyotları
+param_SM_description=Yavaş hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_GO_name=Üst çubuk
+param_GO_desc=üst çubuk
+param_RO_name=Alt çubuk
+param_RO_desc=alt çubuk
+assert_FMLessSM=Hızlı MA periyot sayısı yavaş MA periyot sayısından daha az olmalı.
+
+[pol]
+codepage=1250
+name=Awesome Oscillator
+description=Pokazuje impet rynku obecnej liczby okresów w porównaniu do impetu większej liczby poprzednich okresów.
+param_FM_name=Okresy szybkiej MA
+param_FM_description=Liczba okresów do kalkulacji szybkiej średniej kroczącej.
+param_SM_name=Okresy wolnej MA
+param_SM_description=Liczba okresów do kalkulacji wolnej średniej kroczącej.
+param_GO_name=Górny słupek
+param_GO_desc=górny słupek
+param_RO_name=Dolny słupek
+param_RO_desc=dolny słupek
+assert_FMLessSM=Liczba okresów szybkiej MA musi być mniejsza niż wolnej MA.
+
+[por]
+codepage=1252
+name=Oscilador Awesome
+description=Mostra o movimento de mercado de vários períodos recentes, em comparação com o movimento de um maior número de períodos anteriores.
+param_FM_name=Períodos de MM rápida
+param_FM_description=O número de períodos para calcular a média móvel rápida.
+param_SM_name=Períodos de MM lenta
+param_SM_description=O número de períodos para calcular a média móvel lenta.
+param_GO_name=Barra superior
+param_GO_desc=barra superior
+param_RO_name=Barra inferior
+param_RO_desc=barra inferior
+assert_FMLessSM=O número de períodos da MM rápida tem de ser inferior ao da MM lenta.
+
+[esp]
+codepage=1252
+name=Oscilador awesome
+description=Muestra el momentum del mercado de un periodos de reciente numero a comparación de un mayor numero de previos periodos
+param_FM_name=Periodos rápidos MA
+param_FM_description=Numero de periodos para calcular el promedio móvil rápido
+param_SM_name=Periodos lento MA
+param_SM_description=Numero de periodos para calcular el promedio móvil lento
+param_GO_name=Barra superior
+param_GO_desc=barra superior
+param_RO_name=Barra inferior
+param_RO_desc=barra inferior
+assert_FMLessSM=Numero de periodos para el MA rápido debe de ser menor que el MA lento
+
+[hun]
+codepage=0
+name=Szuper Oscillátor
+description=Egy piaci időtáv momentumát hasonlítja össze a egy nagyobb időtáv momentumával.
+param_FM_name=Gyors mozgóátlag periódusa
+param_FM_description=Beállíthatja a gyors mozgóátlag periódusa értékét.
+param_SM_name=Lassú mozgóátlag periódusa
+param_SM_description=Beállíthatja a lassú mozgóátlag periódusa értékét.
+param_GO_name=Felső oszlop
+param_GO_desc=felső oszlop
+param_RO_name=Alsó oszlop
+param_RO_desc=alsó oszlop
+assert_FMLessSM=A gyors mozgóátlag periódusai számának kisebbnek kell lennie, mint a lassú mozgóátlag periódusai számának.
+
+[kor]
+codepage=949
+name=
+description=
+param_FM_name=
+param_FM_description=
+param_SM_name=
+param_SM_description=
+param_GO_name=
+param_GO_desc=
+param_RO_name=
+param_RO_desc=
+assert_FMLessSM=
+

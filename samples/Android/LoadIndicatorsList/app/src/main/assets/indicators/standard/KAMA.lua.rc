@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Kaufman's Adaptive Moving Average
+description=Is an exponential style average with a smoothing that varies according to recent data.
+param_KAMA_line_name=Kaufman's Adaptive Moving Average line
+
+[ara]
+codepage=1256
+name=مؤشر الكاوفمان للمعدل المتحرك المتئقلم
+description=و هو معدل مضاعف يحتوي على تنظيم يعتمد على أخر البيانات
+param_KAMA_line_name=خط مؤشر الكاوفمان للمعدل المتحرك المتئقلم
+
+[chs]
+codepage=936
+name=Kaufman适应性移动平均
+description=利用近期数据平滑过的指数平均线
+param_KAMA_line_name=Kaufman适应性移动平均线
+
+[cht]
+codepage=950
+name=Kaufman適應性移動平均
+description=利用近期數據平滑過的指數平均線
+param_KAMA_line_name=Kaufman適應性移動平均線
+
+[ctt]
+codepage=950
+name=Kaufman適應性移動平均
+description=利用近期數據平滑過的指數平均線
+param_KAMA_line_name=
+
+[deu]
+codepage=1252
+name=Kaufman Adaptiver gleitender Durchschnitt
+description=Ein exponentieller Durchschnitt mit einer nach aktueller Datei variierten Glättung.
+param_KAMA_line_name=Kaufman Adaptiven Gleitenden Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil Adaptante de Kaufman
+description=Es un estilo de promedio exponencial con una nivelación que varia con la información más reciente.
+param_KAMA_line_name=línea media móvil adaptante de Kaufman.
+
+[fra]
+codepage=1252
+name=Moyenne mobile adaptative de Kaufman
+description=Est une moyenne de style exponentielle avec un lissage qui varie selon des données récentes.
+param_KAMA_line_name=ligne de la moyenne mobile adaptative Kaufman
+
+[jpn]
+codepage=932
+name=カウフマン・アダプティブ移動平均線
+description=は最近のデータに基づいて変化する平滑効果を持った、指数的なスタイルの平均です。
+param_KAMA_line_name=Kaufman Adaptive Moving Averageライン
+
+[kor]
+codepage=949
+name=KAMA (적합 이동평균)
+description=현재의 데이터에 따라 부드러워(smoothing) 지는 기하급수적인 평균
+param_KAMA_line_name=
+
+[rus]
+codepage=1251
+name=Адаптивное скользящее среднее Кауфмана
+description=Экспоненциальное среднее со сглаживанием, зависящим от последних данных.
+param_KAMA_line_name=линии адаптивного скользящего среднего Кауфмана
+
+[tur]
+codepage=1254
+name=Kaufman Uyarlamalı Hareketli Ortalama
+description=Son verilere göre çeşitlilik gösteren düzeltmeleri içeren üstel bir ortalama türüdür.
+param_KAMA_line_name=Kaufman Uyarlamalı Hareketli Ortalama çizgi
+
+[ita]
+codepage=1252
+name=Kaufman Adaptive Moving Average
+description=E' una media stile esponenziale con uno smoothing ratio che varia in base ai dati recenti
+param_KAMA_line_name=linea Kaufman Adaptive Moving Average
+
+[heb]
+codepage=1255
+name=הממוצע הנע האדפטיבי של קאופמן
+description=ממוצע נע אקספוננציאלי המשתנה בהתאם לנתונים האחרונים.
+param_KAMA_line_name=קו הממוצע הנע האדפטיבי של קאופמן
+
+[pol]
+codepage=1250
+name=Adaptacyjna średnia krocząca Kaufmana
+description=Eksponencjalna średnia krocząca ze zmiennym stopniem wygładzania
+param_KAMA_line_name=linii adaptacyjnej średniej kroczącej Kaufmana
+
+[cze]
+codepage=1250
+name=Kaufmanův přizpůsobivý klouzavý průměr
+description=Je vyhlazený exponenciální klouzavý průměr, který reflektuje nejnovější data.
+param_KAMA_line_name=linky Kaufmanova přizpůsobivého klouzavého průměru
+
+[por]
+codepage=1252
+name=Media Móvel Adaptativa de Kaufman
+description=É um estilo de média exponencial com um nivelamento que varia de acordo com dados recentes.
+param_KAMA_line_name=Linha da Media Móvel Adaptativa de Kaufman
+
+[gre]
+codepage=1253
+name=Kaufman Adaptive Moving Average
+description=Είναι ένας μέσος όρος εκθετικού τύπου με εξομάλυνση που αλλάζει ανάλογα με τα πρόσφατα δεδομένα.
+param_KAMA_line_name=γραμμής του Kaufman Adaptive Moving Average
+
+[hun]
+codepage=0
+name=Kaufman Adaptív Mozgóátlag
+description=Exponenciális típusú mozgóátlag amely a friss adatok függvényében kerül simításra. 
+param_KAMA_line_name=Kaufman Adaptive Mozgóátlag
+

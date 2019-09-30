@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Average Directional Index
+description=Determines the strength of a prevailing trend.
+param_ADX_line_name=Average Directional Index line
+
+[ara]
+codepage=1256
+name=مؤشر معدل المتوجه
+description=تحديد القوة في الاتجاه السائد
+param_ADX_line_name=الخط الخاص بالدليل الاتجاهي المتوسطي
+
+[chs]
+codepage=936
+name=平均移动方向指数
+description=决定当前趋势的强弱
+param_ADX_line_name=平均移动方向指数线
+
+[cht]
+codepage=950
+name=平均移動方向指數
+description=決定當前趨勢的強弱
+param_ADX_line_name=平均移動方向指數線
+
+[ctt]
+codepage=950
+name=平均移動方向指數
+description=決定當前趨勢的強弱
+param_ADX_line_name=
+
+[deu]
+codepage=1252
+name=Average directional movement index
+description=Bewertet die Nachhaltigkeit einer vorwiegenden Tendenz
+param_ADX_line_name=Durchsnitt Richtungsindex Linie
+
+[esp]
+codepage=1252
+name=Índice de promedio direccional (ADX)
+description=Determina la fuerza de una tendencia predominante
+param_ADX_line_name=línea del índice promedio direccional
+
+[fra]
+codepage=1252
+name=Indice de Mouvement directionnel moyen
+description=Détermine la force d'une tendance dominante
+param_ADX_line_name=ligne de l'Indice de Direction Moyenne
+
+[jpn]
+codepage=932
+name=アベレージ・ディレクショナル指数
+description=トレンドの強さを表す指数
+param_ADX_line_name=アベレージ・ディレクショナル指数
+
+[kor]
+codepage=949
+name=ADX (평균 방향이동지표)
+description=유력한 경향 강도 측정
+param_ADX_line_name=
+
+[rus]
+codepage=1251
+name=Индекс среднего направления движения
+description=Показывает силу преобладающего тренда.
+param_ADX_line_name=линии индекса среднего направления движения
+
+[tur]
+codepage=1254
+name=Ortalama Yönelim Endeksi
+description=Varolan trendin gücünü gösterir.
+param_ADX_line_name=Ortalama Yönelim Endeksi çizgi
+
+[ita]
+codepage=1252
+name=Average Directional Index
+description=Determina la forza del trend prevalente.
+param_ADX_line_name=Linea indice direzionale medio
+
+[heb]
+codepage=1255
+name=מדד התנועה הממוצעת
+description=מודד את עוצמתה של המגמה השלטת
+param_ADX_line_name=הקו של מדד הכיווניות הממוצעת
+
+[pol]
+codepage=1250
+name=Indeks przeciętnego ruchu kierunkowego
+description=Określa siłę obecnego trendu
+param_ADX_line_name=linii Average Directional Index
+
+[cze]
+codepage=1250
+name=ADX
+description=Vymezuje sílu převládajícího trendu
+param_ADX_line_name=linky Average Directional Index
+
+[por]
+codepage=1252
+name=Índice de Média Direcional
+description=Determina a força de uma tendência predominante.
+param_ADX_line_name=Linha do Índice da Média Direcional
+
+[gre]
+codepage=1253
+name=Average Directional Index(ADX)
+description=Προσδιορίζει τη δύναμη μιας υπερισχύουσας τάσης.
+param_ADX_line_name=γραμμής του Average Directional Index
+
+[hun]
+codepage=0
+name=Average Directional Index
+description=Uralkodó trend erősségét mutatja meg
+param_ADX_line_name=Average Directional Index vonal
+

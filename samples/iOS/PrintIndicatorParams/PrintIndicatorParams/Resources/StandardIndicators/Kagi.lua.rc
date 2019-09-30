@@ -1,0 +1,200 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Kagi Chart
+description=A chart where a new period is added when prices have reversed enough to cancel the current uptrend or downtrend. 
+up_trend_name=Uptrend
+up_trend_desc=uptrend
+dn_trend_name=Downtrend
+dn_trend_desc=downtrend
+step_name=Reversal
+step_desc=The reversal amount in pips.
+
+[ara]
+codepage=1256
+name=مخطط كاجي
+description=مخطط يجري فيه إضافة مدة جديدة عندما تشهد الأسعار حركة عكسية كافية لإلغاء الاتجاه الصعودي أو النزولي الحالي.
+up_trend_name=اتجاه صعودي
+up_trend_desc=اتجاه صعودي
+dn_trend_name=اتجاه نزولي
+dn_trend_desc=اتجاه نزولي
+step_name=حركة عكسية
+step_desc=مقدار الحركة العكسية بالنقاط.
+
+[chs]
+codepage=936
+name=卡吉图
+description=图表的一种，当价格反转足以抵消当前的上升趋势或下降趋势时，即在图上新增一个周期。 
+up_trend_name=上升趋势
+up_trend_desc=上升趋势
+dn_trend_name=下降趋势
+dn_trend_desc=下降趋势
+step_name=反转
+step_desc=以点数表示的反转量。
+
+[cht]
+codepage=950
+name=卡吉圖
+description=圖表的一種，當價格反轉足以抵消當前的上升趨勢或下降趨勢時，即在圖上新增一個週期。 
+up_trend_name=上升趨勢
+up_trend_desc=上升趨勢
+dn_trend_name=下降趨勢
+dn_trend_desc=下降趨勢
+step_name=反轉
+step_desc=以點數表示的反轉量。
+
+[cze]
+codepage=1250
+name=Kagi graf
+description=Graf, do něhož se zadává nové období, pokud je návrat cen dostatečně vysoký, aby přerušil aktuální vzestupný nebo sestupný trend.
+up_trend_name=Vzestupný trend
+up_trend_desc=vzestupný trend
+dn_trend_name=Sestupný trend
+dn_trend_desc=sestupný trend
+step_name=Návrat
+step_desc=Výše navrácení v pipech.
+
+[deu]
+codepage=1252
+name=Kagi-Chart
+description=Ein Chart, in dem ein neuer Zeitraum hinzugefügt wird, wenn sich der Kurs so weit umgekehrt hat, dass der aktuelle Auf- oder Abwärtstrend beendet ist.
+up_trend_name=Aufwärtstrend
+up_trend_desc=Aufwärtstrend
+dn_trend_name=Abwärtstrend
+dn_trend_desc=Abwärtstrend
+step_name=Umkehr
+step_desc=Umkehrwert in Pips.
+
+[esp]
+codepage=1252
+name=Gráfico Kagi
+description=Gráfico en el que se añade un nuevo periodo cuando los precios se han invertido lo suficiente como para cancelar la tendencia al alza o a la baja actual.
+up_trend_name=Tendencia al alza
+up_trend_desc=tendencia al alza
+dn_trend_name=Tendencia a la baja
+dn_trend_desc=tendencia a la baja
+step_name=Inversión
+step_desc=Cantidad de inversión en pips.
+
+[fra]
+codepage=1252
+name=Graphique Kagi
+description=Un graphique auquel une nouvelle période est ajoutée lorsque les prix se sont assez retournés pour annuler la hausse ou la baisse actuelle.
+up_trend_name=Hausse
+up_trend_desc=hausse
+dn_trend_name=Baisse
+dn_trend_desc=baisse
+step_name=Retournement
+step_desc=Le montant du retournement en pips.
+
+[gre]
+codepage=1253
+name=Διάγραμμα Kagi
+description=Διάγραμμα όπου προστίθεται νέα περίοδος όταν οι τιμές έχουν αναστραφεί αρκετά για να ακυρωθεί η τρέχουσα ανοδική ή καθοδική τάση.
+up_trend_name=Άνω τάση
+up_trend_desc=άνω τάση
+dn_trend_name=Κάτω τάση
+dn_trend_desc=κάτω τάση
+step_name=Αναστροφή
+step_desc=Το ποσό αναστροφής σε pip.
+
+[heb]
+codepage=1255
+name=גרף Kagi
+description=גרף שבו נוספת תקופה חדשה כשהמחירים הפכו את מגמתם עד כדי לבטל את מגמת העלייה או מגמת הירידה.
+up_trend_name=מגמת עלייה
+up_trend_desc=מגמת עלייה
+dn_trend_name=מגמת ירידה
+dn_trend_desc=מגמת ירידה
+step_name=היפוך מגמה
+step_desc=מידת היפוך המגמה בפיפסים
+
+[hun]
+codepage=0
+name=Kagi grafikon
+description=Olyan grafikon, amelyhez akkor adódik új időszak, ha az árak eleget fordultak ahhoz, hogy az aktuális felfelé vagy lefelé mutató trendek érvényüket veszítsék.
+up_trend_name=Felfelé irányuló trend
+up_trend_desc=felfelé irányuló trend
+dn_trend_name=Lefelé irányuló trend
+dn_trend_desc=lefelé irányuló trend
+step_name=Fordulat
+step_desc=A fordulat mértéke pip-ben.
+
+[ita]
+codepage=1252
+name=Grafico Kagi
+description=Un grafico in cui viene aggiunto un nuovo periodo quando i prezzi sono stati sufficientemente invertiti da annullare la tendenza al rialzo o al ribasso corrente. 
+up_trend_name=Tendenza al rialzo
+up_trend_desc=tendenza al rialzo
+dn_trend_name=Tendenza al ribasso
+dn_trend_desc=tendenza al ribasso
+step_name=Inversione
+step_desc=L'importo dell'inversione in pip.
+
+[jpn]
+codepage=932
+name=かぎ足チャート
+description=価格が現在の上昇または下落を無効にするほど反転した場合に、新たな期間を追加するチャート
+up_trend_name=上昇
+up_trend_desc=上昇
+dn_trend_name=下落
+dn_trend_desc=下落
+step_name=反転
+step_desc=反転額（ピップ数）
+
+[pol]
+codepage=1250
+name=Wykres Kargi
+description=Wykres, w przypadku którego nowy okres dodaje się wtedy, gdy ceny zostaną odpowiednio odwrócone w celu zniwelowania trendu poprawy lub pogorszenia.
+up_trend_name=Trend poprawy
+up_trend_desc=trend poprawy
+dn_trend_name=Trend pogorszenia
+dn_trend_desc=trend pogorszenia
+step_name=Odwrócenie
+step_desc=Kwota odwrócenia w pipsach.
+
+[por]
+codepage=1252
+name=Gráfico Kagi
+description=Um gráfico em que um novo período é adicionado quando os preços tiverem revertido o suficiente para cancelar a tendência atual de subida ou descida.
+up_trend_name=Tendência de subida
+up_trend_desc=tendência de subida
+dn_trend_name=Tendência de descida
+dn_trend_desc=tendência de descida
+step_name=Reversão
+step_desc=O valor de reversão em pips.
+
+[rus]
+codepage=1251
+name=График Каги
+description=График, в котором добавляется новый период, когда направление движения цен меняется достаточно, чтобы отменить их текущее восходящее или нисходящее движение.
+up_trend_name=Восходящее ценовое движение
+up_trend_desc=восходящее ценовое движение
+dn_trend_name=Нисходящее ценовое движение
+dn_trend_desc=нисходящее ценовое движение
+step_name=Разворот
+step_desc=Значение разворота в пунктах
+
+[tur]
+codepage=1254
+name=Kagi Grafiği
+description=Fiyatlar güncel yükseliş veya düşüş trendini durduracak kadar tersine döndüğünde yeni bir periyodun eklendiği grafik.
+up_trend_name=Yükseliş trendi
+up_trend_desc=yükseliş trendi
+dn_trend_name=Düşüş trendi
+dn_trend_desc=düşüş trendi
+step_name=Tersine dönüş
+step_desc=Pip olarak tersine dönüş miktarı.
+
+[kor]
+codepage=949
+name=
+description=
+up_trend_name=
+up_trend_desc=
+dn_trend_name=
+dn_trend_desc=
+step_name=
+step_desc=
+

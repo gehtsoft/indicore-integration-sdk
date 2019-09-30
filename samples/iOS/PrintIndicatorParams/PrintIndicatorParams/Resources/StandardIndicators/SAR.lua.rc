@@ -1,0 +1,249 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Parabolic Time/Price System
+description=Helps to define the direction of the prevailing trend and the moment to close positions opened during the reversal.
+param_Step_name=Step
+param_Step_description=The sensitivity of SAR.
+param_Max_name=Max
+param_Max_description=The maximum value of Step.
+param_UP_line_name=Up line
+param_UP_line_desc=up line
+param_DOWN_line_name=Down line
+param_DOWN_line_desc=down line
+
+[ara]
+codepage=1256
+name=مؤشر اس اي ار
+description=يساعد على تعرف عن اتجاه العام و الزخم لاغلاق المراكز المفتوحة في حال الانعكاسات في السوق
+param_Step_name=خطوة
+param_Step_description=مؤشر حساسية الـ SAR
+param_Max_name=الحد الأقصى
+param_Max_description=الحد الأقصى لقيمة الخطوة
+param_UP_line_name=الخط العلوي
+param_UP_line_desc=الخطوط العلوية
+param_DOWN_line_name=الخط السفلي
+param_DOWN_line_desc=الخطوط السفلية
+
+[chs]
+codepage=936
+name=抛物线转向系统
+description=帮助辨别价格波动的主要趋势以及反转时的出场时机
+param_Step_name=步長
+param_Step_description=SAR敏锐度
+param_Max_name=最大
+param_Max_description=步长最大值
+param_UP_line_name=上升线
+param_UP_line_desc=上升线
+param_DOWN_line_name=下跌线
+param_DOWN_line_desc=下跌线
+
+[cht]
+codepage=950
+name=拋物線轉向系統
+description=幫助辨別價格波動的主要趨勢以及反轉時的出場時機
+param_Step_name=步長
+param_Step_description=SAR敏銳度
+param_Max_name=最大
+param_Max_description=步長最大值
+param_UP_line_name=上升線
+param_UP_line_desc=上升線
+param_DOWN_line_name=下跌線
+param_DOWN_line_desc=下跌線
+
+[ctt]
+codepage=950
+name=拋物線轉向系統
+description=幫助辨別價格波動的主要趨勢以及反轉時的出場時機
+param_Step_name=
+param_Step_description=
+param_Max_name=
+param_Max_description=
+param_UP_line_name=
+param_UP_line_desc=
+param_DOWN_line_name=
+param_DOWN_line_desc=
+
+[deu]
+codepage=1252
+name=Parabolisches Zeit/Preis-System
+description=Dient als Basis den Lauf einer aktuellen Tendenz festzustellen und den Augenblick zu bestimmen, wobei die während der Trendumkehr geöffneten Positionen sich schließen lassen.
+param_Step_name=Stufe
+param_Step_description=SAR Empfindlichkeit
+param_Max_name=Max
+param_Max_description=Maximaler Wert der Stufe
+param_UP_line_name=obigen Linie
+param_UP_line_desc=Aufwärtslinie
+param_DOWN_line_name=unteren Linie
+param_DOWN_line_desc=Abwärtslinie
+
+[esp]
+codepage=1252
+name=Tiempo Parabólico/Sistema de Precios
+description=Ayuda a definir la dirección de la tendencia y el momento para cerrar posiciones durante un retroceso.
+param_Step_name=Paso
+param_Step_description=La sensibilidad del SAR.
+param_Max_name=Max
+param_Max_description=El valor máximo del Paso
+param_UP_line_name=línea ascendente
+param_UP_line_desc=líneas ascendentes
+param_DOWN_line_name=línea descendente
+param_DOWN_line_desc=líneas descendentes
+
+[fra]
+codepage=1252
+name=Temps parabolique/Système de prix
+description=Aide à définir la direction de la tendance dominante et le moment pour fermer les positions ouvertes pendant le renversement.
+param_Step_name=Step
+param_Step_description=La sensibilité du SAR
+param_Max_name=Max
+param_Max_description=La valeur maximum de Step
+param_UP_line_name=ligne du haut
+param_UP_line_desc=lignes du haut
+param_DOWN_line_name=ligne du bas
+param_DOWN_line_desc=lignes du bas
+
+[jpn]
+codepage=932
+name=パラボリック Time/Price システム
+description=相場反転時にオープンされたポジションを閉じる時期及び優勢なトレンドの方向を明示するのに役立ちます。
+param_Step_name=ステップ
+param_Step_description=SARの感度。
+param_Max_name=最大値
+param_Max_description=ステップの最大値。
+param_UP_line_name=上昇ライン
+param_UP_line_desc=上昇ライン
+param_DOWN_line_name=下降ライン
+param_DOWN_line_desc=下降ライン
+
+[kor]
+codepage=949
+name=SAR (Parabolic Time/Price System)
+description=우세한 경향방향을 정하고 반전 상황에서의 오픈이나 클로즈 포지션을 정하는데 도움을 줌.
+param_Step_name=
+param_Step_description=
+param_Max_name=
+param_Max_description=
+param_UP_line_name=
+param_UP_line_desc=
+param_DOWN_line_name=
+param_DOWN_line_desc=
+
+[rus]
+codepage=1251
+name=Параболическая система времени/цены
+description=Определяет направление преобладающего тренда и время для закрытия позиций, открытых во время разворота.
+param_Step_name=Шаг
+param_Step_description=Чувствительность SAR.
+param_Max_name=Максимум
+param_Max_description=Максимальное значение Шага.
+param_UP_line_name=линий вверх
+param_UP_line_desc=линий вверх
+param_DOWN_line_name=линий вниз
+param_DOWN_line_desc=линий вниз
+
+[tur]
+codepage=1254
+name=Parabolik Zaman/Fiyat Sistemi
+description=Mevcut trendin yönünü ve dönüş hareketi sırasında açılan pozisyonların kapanış zamanını belirlemeye yardımcı olur.
+param_Step_name=Adım
+param_Step_description=SAR göstergesinin hassasiyeti
+param_Max_name=Max
+param_Max_description=En yüksek adım değeri
+param_UP_line_name=Üst çizgi
+param_UP_line_desc=Üst çizginin
+param_DOWN_line_name=Alt çizgi
+param_DOWN_line_desc=Alt çizginin
+
+[ita]
+codepage=1252
+name=Parabolic Time/Price System
+description=Aiuta a definire la direzione del trend prevalente al momento della chiusura delle posizioni aperte durante l'inversione
+param_Step_name=Step
+param_Step_description=La sensitività di SAR.
+param_Max_name=Max
+param_Max_description=Il valore massimo di Step
+param_UP_line_name=di Up line
+param_UP_line_desc=up lines
+param_DOWN_line_name=di Down line
+param_DOWN_line_desc=down lines
+
+[heb]
+codepage=1255
+name=זמן פרבולי\מערכת מחיר
+description=מסייע להגדיר את כיוון המגמה השלטת ולקבוע מהו הרגע הנכון לסגור פוזיציות שנפתחו בזמן היפוך.
+param_Step_name=צעד
+param_Step_description=הרגישות של ה-SAR
+param_Max_name=מקסימום
+param_Max_description=הערך המקסימלי של הצעד.
+param_UP_line_name=קו עליון
+param_UP_line_desc=הקווים העליונים
+param_DOWN_line_name=קו תחתון
+param_DOWN_line_desc=הקווים התחתונים
+
+[pol]
+codepage=1250
+name=Parabolic
+description=Pomaga określić kierunek obecnego trendu i moment zamknięcia pozycji w trakcie odwrócenia
+param_Step_name=Step
+param_Step_description=Czułość SAR.
+param_Max_name=Maks
+param_Max_description=Maksymalna wartość Step.
+param_UP_line_name=linii górnej
+param_UP_line_desc=linii górnej
+param_DOWN_line_name=linii dolnej
+param_DOWN_line_desc=linii dolnej
+
+[cze]
+codepage=1250
+name=Parabolic Time/Price Systém
+description=Pomoc k určení směru převládajícího trendu a momentu k zavření pozic, které byly otevřeny během obratu.
+param_Step_name=Krok
+param_Step_description=Citlivost indikátoru SAR
+param_Max_name=Maximum
+param_Max_description=Maximální hodnota kroku
+param_UP_line_name=horní linky
+param_UP_line_desc=horních linek
+param_DOWN_line_name=spodní linky
+param_DOWN_line_desc=spodních linek
+
+[por]
+codepage=1252
+name=Sistema Parabólico de Tempo/Preço
+description=Ajuda a definir a direção da tendência prevalecente e o momento para fechar posições abertas durante a reversão.
+param_Step_name=Incremento
+param_Step_description=A sensibilidade do SAR.
+param_Max_name=Max
+param_Max_description=O valor máximo do Incremento.
+param_UP_line_name=Linha ascendente
+param_UP_line_desc=linha ascendente
+param_DOWN_line_name=Linha descendente
+param_DOWN_line_desc=linha descendente
+
+[gre]
+codepage=1253
+name=Parabolic Time/Price System
+description=Βοηθά στον καθορισμό της υπερισχύουσας τάσης και της χρονικής στιγμής για το κλείσιμο θέσεων που ανοίχτηκαν κατά τη διάρκεια της αντιστροφής της τάσης.
+param_Step_name=Step
+param_Step_description=Η ευαισθησία του δείκτη SAR
+param_Max_name=Μέγιστο
+param_Max_description=Η μέγιστη τιμή του step
+param_UP_line_name=άνω γραμμής
+param_UP_line_desc=των άνω γραμμών
+param_DOWN_line_name=κάτω γραμμής
+param_DOWN_line_desc=κάτω γραμμής
+
+[hun]
+codepage=0
+name=Parabolikus Idő/Árfolyam Rendszer
+description=Segít megállapítani a fennálló trend irányát és azt a pillanatot amikor trendforduló esetén a pozíciót zárni kell.
+param_Step_name=Érzékenység
+param_Step_description=Beállíthatja a SAR érzékenységét.
+param_Max_name=Max
+param_Max_description=Beállíthatja a SAR érzékenységének maximum értékét.
+param_UP_line_name=Up vonal
+param_UP_line_desc=up vonal
+param_DOWN_line_name=Down vonal
+param_DOWN_line_desc=down vonal
+

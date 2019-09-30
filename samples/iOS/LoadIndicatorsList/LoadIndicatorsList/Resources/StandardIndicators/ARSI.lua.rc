@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Adaptive Relative Strength Index
+description=Is a more flexible variant of Relative Strength Index.
+param_ARSI_line_name=Adaptive Relative Strength Index line
+
+[ara]
+codepage=1256
+name=مؤشر القوة النسبي المتأقلم
+description=هو البديل الأكثر مرونة لمؤشر القوة النسبية.
+param_ARSI_line_name=الخط الخاص بمؤشر القوة النسبية المعدلة
+
+[chs]
+codepage=936
+name=适应性相对强弱指数
+description=相對強弱指标的一个变体，比其更具弹性
+param_ARSI_line_name=适应性相对强弱指数线
+
+[cht]
+codepage=950
+name=適應性相對強弱指數
+description=相對強弱指標的一個變體，比其更具彈性
+param_ARSI_line_name=適應性相對強弱指數線
+
+[ctt]
+codepage=950
+name=適應性相對強弱指數
+description=相對強弱指標的一個變體，比其更具彈性
+param_ARSI_line_name=
+
+[deu]
+codepage=1252
+name=Adaptiver Relativer Stärke Index
+description=Ist eine felxiblere Variante des Relative-Strength Indexes
+param_ARSI_line_name=Adaptive Relative Strength Index Linie
+
+[esp]
+codepage=1252
+name=Índice Relativo de Fuerza Adaptante
+description=Es una variante más flexible del índice de fuerza adaptante
+param_ARSI_line_name=línea del índice de fuerza relativa adaptiva
+
+[fra]
+codepage=1252
+name=Indice adaptatif de la force relative (RSI)
+description=Est une variante plus flexible de l'indice de la force relative (RSI)
+param_ARSI_line_name=ligne de l'Indice Adaptatif de la force relative
+
+[jpn]
+codepage=932
+name=アダプティブRSI
+description=は相対力指数よりも柔軟性があります
+param_ARSI_line_name=Adaptive Relative Strength Index ライン
+
+[kor]
+codepage=949
+name=ARSI (적합 상대강도 지수)
+description=변형 Relative Strength Index 보다 더 융통성있는
+param_ARSI_line_name=
+
+[rus]
+codepage=1251
+name=Адаптивный индекс относительной силы
+description=Более гибкий вариант Индекса относительной силы.
+param_ARSI_line_name=линии адаптивного индекса относительной силы
+
+[tur]
+codepage=1254
+name=Uyarlamalı Göreli Güç Endeksi
+description=Göreli Güç Endeksi göstergesinin daha esnek bir türevi
+param_ARSI_line_name=Uyarlamalı Göreli Güç Endeksi çizgi
+
+[ita]
+codepage=1252
+name=Indice Adaptive Relative Strength
+description=E' una variante più flessibile del Relative Strength Index
+param_ARSI_line_name=linea Adaptive Relative Strength Index
+
+[heb]
+codepage=1255
+name=מדד העוצמה היחסית האדפטיבי
+description=גרסה גמישה יותר של מדד העוצמה היחסית.
+param_ARSI_line_name=קו מדד העוצמה היחסית האדפטיבי
+
+[pol]
+codepage=1250
+name=Adaptacyjny RSI
+description=Bardziej elastyczny wariant Relative Strength Index
+param_ARSI_line_name=linii RSI
+
+[cze]
+codepage=1250
+name=Adaptivní index relativní síly
+description=Je flexibilnejší varianta RSI.
+param_ARSI_line_name=linky Adaptive Relative Strength Index
+
+[por]
+codepage=1252
+name=Índice Adaptativo de Força Relativa
+description=É uma variante mais flexível do Índice de Força Relativa.
+param_ARSI_line_name=linha do Índice Adaptativo de Força Relativa
+
+[gre]
+codepage=1253
+name=Adaptive Relative Strength Index (ARSI)
+description=Αποτελεί μια πιο ευέλικτη εκδοχή του Relative Strength Index(RSI).
+param_ARSI_line_name=γραμμής του ταλαντωτή Adaptive Relative Strength
+
+[hun]
+codepage=0
+name=Adaptive Relative Strength Index
+description=Az RSI jóval érzékenyebb variációja
+param_ARSI_line_name=Adaptív RSI indikátor
+

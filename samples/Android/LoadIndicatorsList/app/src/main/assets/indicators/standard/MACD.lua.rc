@@ -1,0 +1,325 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Moving Average Convergence/Divergence
+description=A trend-following momentum indicator that shows the relationship between two moving averages of prices.
+param_SN_name=Fast MA periods
+param_SN_description=The number of periods to calculate the fast moving average.
+param_LN_name=Slow MA periods
+param_LN_description=The number of periods to calculate the slow moving average.
+param_IN_name=Signal line
+param_IN_description=The number of periods for the signal line.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SIGNAL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISTOGRAM
+
+[ara]
+codepage=1256
+name=المعدل المتحرك للتقارب/الانحراف
+description=مؤشر يعتمد على اتجاه الزخم لرؤيه النتاسب بين معدلين متحرين للأسعار
+param_SN_name=فترات MA السريع
+param_SN_description=عدد الفترات لحساب المتوسط المتحرك السريع.
+param_LN_name=فترات MA البطيئ
+param_LN_description=عدد الفترات لحساب المتوسط المتحرك البطيء.
+param_IN_name=خط الإشارة
+param_IN_description=عدد فترات خط الاشارة
+param_MACD_line_name=المعدل المتحرك للتقارب/الانحراف MACD
+param_MACD_line_desc=المعدل المتحرك للتقارب/الانحراف MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=الاشارة
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISTOGRAM
+
+[chs]
+codepage=936
+name=移动平均汇聚背驰指标
+description=显示两根移动平均线之间的关系变化的趋势指标
+param_SN_name=快MA时期
+param_SN_description=计算快平均时期数目
+param_LN_name=慢MA时期
+param_LN_description=计算慢平均时期数目
+param_IN_name=讯号线
+param_IN_description=讯号线时期
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=讯号
+param_HISTOGRAM_line_name=HMACD 
+param_HISTOGRAM_line_desc=柱状线
+
+[cht]
+codepage=950
+name=移動平均匯聚背馳指標
+description=顯示兩根移動平均線之間的關係變化的趨勢指標
+param_SN_name=快MA時期
+param_SN_description=計算快平均時期數目
+param_LN_name=慢MA時期
+param_LN_description=計算慢平均時期數目
+param_IN_name=訊號線
+param_IN_description=訊號線時期
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=訊號
+param_HISTOGRAM_line_name=HMACD 
+param_HISTOGRAM_line_desc=柱狀線
+
+[ctt]
+codepage=950
+name=移動平均匯聚背馳指標
+description=顯示兩根移動平均線之間的關係變化的趨勢指標
+param_SN_name=
+param_SN_description=
+param_LN_name=
+param_LN_description=
+param_IN_name=訊號線
+param_IN_description=訊號線時期
+param_MACD_line_name=
+param_MACD_line_desc=
+param_SIGNAL_line_name=
+param_SIGNAL_line_desc=
+param_HISTOGRAM_line_name=
+param_HISTOGRAM_line_desc=
+
+[deu]
+codepage=1252
+name=Konvergenz/Divergenz gleitenden Durchschnitts
+description=Ein Trend-befolgender Momentum-Indikator, die eine Verbindung zwischen zwei gleitenden Preisdurchschnitten herstellt.
+param_SN_name=Fast MA Perioden
+param_SN_description=Die Anzahl der Perioden um den Fast Moving Average zu berechnen
+param_LN_name=Slow MA Perioden
+param_LN_description=Die Anzahl der Perioden um den Slow Moving Average zu berechnen
+param_IN_name=Signallinie
+param_IN_description=Anzahl von Periodenn der Signallinien
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SIGNAL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISTOGRAMM
+
+[esp]
+codepage=1252
+name=Convergencia / Divergencia Medias Móviles
+description=Un indicador que sigue la tendencia que muestra la relación entre dos medias móviles de precios.
+param_SN_name=Periodos rápidos MA
+param_SN_description=Numero de periodos para calcular el promedio móvil rápido
+param_LN_name=Periodos lento MA
+param_LN_description=Numero de periodos para calcular el promedio móvil lento
+param_IN_name=Línea de señal
+param_IN_description=EL número de periodos para la línea de señal.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SEÑAL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISTOGRAMA
+
+[fra]
+codepage=1252
+name=Moyennes mobiles Convergente/Divergente
+description=Un momentum suivant la tendance qui montre la relation de deux moyenne mobile sur deux période respective se déplaçant sur le prix.
+param_SN_name=Périodes MA rapide
+param_SN_description=Le nombre de périodes pour calculer une moyenne mobile rapide
+param_LN_name=Périodes MA lente
+param_LN_description=Le nombre de périodes pour calculer une moyenne mobile lente
+param_IN_name=Ligne de signal
+param_IN_description=Le nombre de périodes pour la ligne de signal.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SIGNAL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISTOGRAMME
+
+[jpn]
+codepage=932
+name=MACD （移動平均の収束・拡大）
+description=２つの移動平均線のプライスの関係を表示するトレンド追跡モメンタム指数です。
+param_SN_name=Fast MA 期間
+param_SN_description=Fast Moving Averageを計算する期間
+param_LN_name=Slow MA 期間
+param_LN_description=Slow Moving Averageを計算する期間
+param_IN_name=シグナル・ライン
+param_IN_description=シグナル･ラインの期間数
+param_MACD_line_name=MACD 
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA 
+param_SIGNAL_line_desc=シグナル
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=ヒストグラム
+
+[kor]
+codepage=949
+name=이동평균 수렴확산 (Moving Average Convergence Divergence)
+description=2개의 이동평균 관계를 보여주는 모멘텀 표지를 따른 경향
+param_SN_name=첫 번째 지수 이동평균 (EMA)
+param_SN_description=짧은 EMA 의 기간
+param_LN_name=두 번째 지수 이동평균 (EMA)
+param_LN_description=긴 EMA 의 기간
+param_IN_name=신호선
+param_IN_description=신호선 기간의 개수
+param_MACD_line_name=
+param_MACD_line_desc=
+param_SIGNAL_line_name=
+param_SIGNAL_line_desc=
+param_HISTOGRAM_line_name=
+param_HISTOGRAM_line_desc=
+
+[rus]
+codepage=1251
+name=Схождение/расхождение скользящих средних
+description=Следующий за трендом динамический индикатор, который показывает соотношение между двумя скользящими средними цены.
+param_SN_name=Периоды для быстрого MA
+param_SN_description=Количество периодов для расчета быстрого скользящего среднего.
+param_LN_name=Периоды для медленного MA
+param_LN_description=Количество периодов для расчета медленного скользящего среднего.
+param_IN_name=Сигнальная линия
+param_IN_description=Количество периодов для сигнальной линии.
+param_MACD_line_name=MACD
+param_MACD_line_desc=линии схождения/расхождения скользящих средних
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=сигнальной линии
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=гистограммы
+
+[tur]
+codepage=1254
+name=Hareketli Ortalamaların Yakınsaması/Iraksaması
+description=İki hareketli ortalama arasındaki ilişikiyi gösteren trend-takipçisi momentum göstergesi.
+param_SN_name=Hızlı HO periyotları
+param_SN_description=Hızlı hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_LN_name=Yavaş HO periyotları
+param_LN_description=Yavaş hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_IN_name=Sinyal çizgisi
+param_IN_description=Sinyal çizgisinin periyot sayısı
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SINYAL 
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HİSTOGRAM
+
+[ita]
+codepage=1252
+name=Moving Average Convergence/Divergence
+description=Indicatore trend-following inerziale che mostra la relazione tra due medie mobili
+param_SN_name=MA veloce
+param_SN_description=Il numero di periodi per calcolare la media mobile veloce di una media di prezzi
+param_LN_name=MA lenta
+param_LN_description=Il numero di periodi per calcolare la media mobile lenta di una media di prezzi
+param_IN_name=Signal line
+param_IN_description=Il numero di periodi per la signal line
+param_MACD_line_name=dell'MACDA
+param_MACD_line_desc=dell'MACDA
+param_SIGNAL_line_name=dell'MACDA
+param_SIGNAL_line_desc=del SIGNAL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=dell'ISTOGRAMMA
+
+[heb]
+codepage=1255
+name=ממוצע נע התכנסות\התפצלות
+description=מדד מומנטום העוקב אחר המגמה ומראה את היחס בין שני ממוצעים נעים.
+param_SN_name=תקופות ממוצע נע מהיר
+param_SN_description=מספר התקופות לחישוב הממוצע הנע המהיר.
+param_LN_name=תקופות ממוצע נע איטי
+param_LN_description=מספר התקופות לחישוב הממוצע הנע האיטי.
+param_IN_name=קו איתות
+param_IN_description=מספר התקופות של קו האיתות.
+param_MACD_line_name=MACD
+param_MACD_line_desc=של ה-MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=האיתות.
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=ההיסטוגרמה.
+
+[pol]
+codepage=1250
+name=Zbieżność/rozbieżność średnich kroczących
+description=Podążający za trendem wskaźnik momentum pokazujący relację pomiędzy dwiema średnimi kroczącymi
+param_SN_name=Okresy szybkiej MA
+param_SN_description=Liczba okresów do kalkulacji szybkiej średniej kroczącej.
+param_LN_name=Okresy wolnej MA
+param_LN_description=Liczba okresów do kalkulacji wolnej średniej kroczącej.
+param_IN_name=Linia sygnalna
+param_IN_description=Okres linii sygnalnej
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=linii sygnalnej
+param_HISTOGRAM_line_name=MACDH
+param_HISTOGRAM_line_desc=histogramu
+
+[cze]
+codepage=1250
+name=Konvergence/divergence klouzavého průměru
+description=Indikátor sledující trend. Vyjadřuje vztah mezi dvěma klouzavými průměry.
+param_SN_name=Periody pro rychlý klouzavý průměr
+param_SN_description=Počet period pro výpočet rychlého klouzavého průměru.
+param_LN_name=Periody pro pomalý klouzavý průměr
+param_LN_description=Počet period pro výpočet pomalého klouzavého průměru.
+param_IN_name=Signální přímka
+param_IN_description=Počet period signální linky.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACD
+param_SIGNAL_line_desc=signálu
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=histogramu
+
+[por]
+codepage=1252
+name=Convergência/Divergência de Médias Móveis
+description=Um indicador de movimento que segue as tendências e que mostra a relação entre duas médias móveis de preços.
+param_SN_name=Períodos de MM rápida
+param_SN_description=O número de períodos para calcular a média móvel rápida.
+param_LN_name=Períodos de MM lenta
+param_LN_description=O número de períodos para calcular a média móvel lenta.
+param_IN_name=Linha de sinal
+param_IN_description=O número de períodos para a linha de sinal.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SINAL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISTOGRAMA
+
+[gre]
+codepage=1253
+name=Moving Average Convergence/Divergence (MACD)
+description=Ένας δείκτης ορμής που ακολουθεί την τάση και δείχνει τη σχέση μεταξύ δύο κινητών μέσων όρων τιμών.
+param_SN_name=Περίοδοι γρήγορου ΚΜΟ
+param_SN_description=Ο αριθμός των περιόδων που υπολογίζεται ο γρήγορος κινητός μέσος όρος.
+param_LN_name=Περίοδοι αργού ΚΜΟ
+param_LN_description=Ο αριθμός των περιόδων που υπολογίζεται ο αργός κινητός μέσος όρος.
+param_IN_name=Γραμμή ένδειξης
+param_IN_description=Ο αριθμός περιόδων της γραμμής ένδειξης.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=ΕΝΔΕΙΞΗΣ
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=ΙΣΤΟΓΡΑΜΜΑΤΟΣ
+
+[hun]
+codepage=0
+name=MACD
+description=Egy trendkövető indikátor, amely az árfolyam két mozgóátlagának kapcsolatát írja le.
+param_SN_name=Gyors mozgóátlag periódusa
+param_SN_description=Beállíthatja a gyors mozgóátlag periódusa értékét.
+param_LN_name=Lassú mozgóátlag periódusa
+param_LN_description=Beállíthatja a lassú mozgóátlag periódusa értékét.
+param_IN_name=Szignálvonal
+param_IN_description=Beállíthatja a szignálvonal periódusainak számát.
+param_MACD_line_name=MACD
+param_MACD_line_desc=MACD
+param_SIGNAL_line_name=MACDA
+param_SIGNAL_line_desc=SZIGNÁL
+param_HISTOGRAM_line_name=HMACD
+param_HISTOGRAM_line_desc=HISZTOGRAM
+

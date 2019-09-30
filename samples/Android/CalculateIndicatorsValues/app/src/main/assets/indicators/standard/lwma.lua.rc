@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Linear Weighted Moving Average
+description=The linear average price for the last N periods.
+param_LWMA_line_name=Linear Weighted Moving Average line
+
+[ara]
+codepage=1256
+name=مؤشر معدل المتحرك المرجح الخطي
+description=المتوسط الخطي للسعر للفترات الاخيرة من N
+param_LWMA_line_name=خط مؤشر معدل المتحرك المرجح الخطي
+
+[chs]
+codepage=936
+name=线性加权移动平均线
+description=过去N个周期线性加权平均价
+param_LWMA_line_name=线性加权移动平均线
+
+[cht]
+codepage=950
+name=線性加權移動平均線
+description=過去N個週期線性加權平均價
+param_LWMA_line_name=線性加權移動平均線
+
+[ctt]
+codepage=950
+name=線性加權移動平均線
+description=過去N個週期線性加權平均價
+param_LWMA_line_name=
+
+[deu]
+codepage=1252
+name=Linearer gewogener gleitender Durchschnitt
+description=Linearer Durchschnittspreis der letzten N Perioden
+param_LWMA_line_name=Linear gewichteten Gleitender Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil Lineal Ponderada
+description=El promedio de precio lineal por los últimos N periodos
+param_LWMA_line_name=línea del promedio de precio linear
+
+[fra]
+codepage=1252
+name=Moyenne mobile linéaire pondérée
+description=La moyenne linéaire du prix pour les dernières N périodes.
+param_LWMA_line_name=ligne de la moyenne mobile linéaire pondérée
+
+[jpn]
+codepage=932
+name=リニア加重移動平均線
+description=最後の期間Nのリニア平均プライス
+param_LWMA_line_name=Linear Weighted Moving Averageライン
+
+[kor]
+codepage=949
+name=선형 가중이동평균 (Linear Weighted Moving Average)
+description=선형 가중이동평균 (Linear Weighted Moving Average)
+param_LWMA_line_name=
+
+[rus]
+codepage=1251
+name=Линейно-взвешенное скользящее среднее
+description=Рассчитывает линейную среднюю цену за последние N периодов.
+param_LWMA_line_name=линии линейно-взвешенного скользящего среднего
+
+[tur]
+codepage=1254
+name=Doğrusal Ağırlıklı Hareketli Ortalama
+description=Son N periyot için doğrusal ortalama fiyat.
+param_LWMA_line_name=Doğrusal Ağırlıklı Hareketli Ortalama çizgi
+
+[ita]
+codepage=1252
+name=Media mobile lineare ponderata
+description=Il prezzo medio lineare per gli ultimi N periodi
+param_LWMA_line_name=linea Linear Weighted Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע לינארי משוקלל
+description=ממוצע המחיר הליניארי של N תקופות.
+param_LWMA_line_name=קו ממוצע נע לינארי משוקלל
+
+[pol]
+codepage=1250
+name=Liniowo ważona średnia krocząca
+description=Średnia ważona liniowo cena z ostatnich n okresów
+param_LWMA_line_name=linii liniowo ważonej średniej kroczącej
+
+[cze]
+codepage=1250
+name=Lineární vážený klouzavý průměr
+description=Lineární průměr cen posledních N období.
+param_LWMA_line_name=linky lineárního váženého klouzavého průměru
+
+[por]
+codepage=1252
+name=Média Móvel Ponderada Linear
+description=O preço médio linear dos últimos N períodos.
+param_LWMA_line_name=Linha da Média Móvel Ponderada Linear
+
+[gre]
+codepage=1253
+name=Linear Weighted Moving Average
+description=Η γραμμική μέση τιμή των τελευταίων Ν περιόδων.
+param_LWMA_line_name=γραμμής του Linear Weighted Moving Average
+
+[hun]
+codepage=0
+name=Lineárisan Súlyozott Mozgóátlag
+description=Az ár lineáris átlaga N periódusra visszatekintve.
+param_LWMA_line_name=Lineáris Súlyozott Mozgóátlag
+

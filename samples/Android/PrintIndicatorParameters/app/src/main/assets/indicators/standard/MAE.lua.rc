@@ -1,0 +1,211 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Moving Average Envelope
+description=Demonstrates a range of the prices discrepancy from a Moving Average.
+param_Upper_name=Upper percentage value
+param_Upper_description=The upper percentage value.
+param_Lower_name=Lower percentage value
+param_Lower_description=The lower percentage value.
+param_ME1_line_name=Top line
+param_ME2_line_name=Bottom line
+
+[ara]
+codepage=1256
+name=مغلف المعدل المتحرك
+description=يوضح مجموعة الختلاف في الأسعار عن المتوسط المتحرك
+param_Upper_name=قيمة النسبة المئوية العلية
+param_Upper_description=القيمة للنسبة المئوية العلية
+param_Lower_name=قيمة النسبة المئوية السفلة
+param_Lower_description=القيمة للنسبة المئوية السفلة
+param_ME1_line_name=الخط الأعلى
+param_ME2_line_name=الخط الأدنى
+
+[chs]
+codepage=936
+name=移动平均区域
+description=偏离移动平均线的价格差异区间
+param_Upper_name=上层百分比值
+param_Upper_description=上层百分比值
+param_Lower_name=下层百分比值
+param_Lower_description=下层百分比值
+param_ME1_line_name=顶线
+param_ME2_line_name=底线
+
+[cht]
+codepage=950
+name=移動平均區域
+description=偏離移動平均線的價格差異區間
+param_Upper_name=上層百分比值
+param_Upper_description=上層百分比值
+param_Lower_name=下層百分比值
+param_Lower_description=下層百分比值
+param_ME1_line_name=頂線
+param_ME2_line_name=底線
+
+[ctt]
+codepage=950
+name=移動平均區域
+description=偏離移動平均線的價格差異區間
+param_Upper_name=上層百分比值
+param_Upper_description=上層百分比值
+param_Lower_name=下層百分比值
+param_Lower_description=下層百分比值
+param_ME1_line_name=
+param_ME2_line_name=
+
+[deu]
+codepage=1252
+name=Gleitender Durchschnitt Umhüllung
+description=Zeigt die Skala der vom gleitenden Durchschnitt abgeweichten Kurse an.
+param_Upper_name=Oberer Prozentwert
+param_Upper_description=Oberer Prozentwert
+param_Lower_name=Unterer Prozentwert
+param_Lower_description=Unterer Prozentwert
+param_ME1_line_name=oberen Linie
+param_ME2_line_name=unteren Linie
+
+[esp]
+codepage=1252
+name=Sobre de la Media Móvil
+description=Muestra una discrepancia en los rangos de precios de una media móvil
+param_Upper_name=Valor del porcentaje superior
+param_Upper_description=El valor del porcentaje superior
+param_Lower_name=Valor del porcentaje inferior
+param_Lower_description=El valor del porcentaje inferior
+param_ME1_line_name=línea superior
+param_ME2_line_name=línea inferior
+
+[fra]
+codepage=1252
+name=Enveloppe moyenne mobile
+description=Démontre une gamme de prix divergent de la moyenne mobile.
+param_Upper_name=Valeur du pourcentage du haut
+param_Upper_description=La valeur du pourcentage du haut.
+param_Lower_name=Valeur du pourcentage du bas
+param_Lower_description=La valeur du pourcentage du bas.
+param_ME1_line_name=ligne du haut
+param_ME2_line_name=ligne du bas
+
+[jpn]
+codepage=932
+name=移動平均エンベロープ
+description=移動平均線のプライス乖離の範囲を明示します。
+param_Upper_name=アッパー・パーセンテージ・バリュー
+param_Upper_description=アッパー・パーセンテージ・バリュー
+param_Lower_name=ロアー・パーセンテージ・バリュー
+param_Lower_description=ロアー・パーセンテージ・バリュー
+param_ME1_line_name=上限ライン
+param_ME2_line_name=下限ライン
+
+[kor]
+codepage=949
+name=이동평균 엔빌로프 (Moving Average Envelope)
+description=이동평균의 가격 불일치 범위 표시
+param_Upper_name=높은 비율 가치
+param_Upper_description=높은 비율 가치
+param_Lower_name=낮은 비율 가치
+param_Lower_description=낮은 비율 가치
+param_ME1_line_name=
+param_ME2_line_name=
+
+[rus]
+codepage=1251
+name=Конверт скользящего среднего
+description=Показывает диапазон отклонений цены от скользящего среднего.
+param_Upper_name=Верхнее процентное значение
+param_Upper_description=Верхнее процентное значение.
+param_Lower_name=Нижнее процентное значение
+param_Lower_description=Нижнее процентное значение.
+param_ME1_line_name=верхней линии
+param_ME2_line_name=нижней линии
+
+[tur]
+codepage=1254
+name=Hareketli Ortalama Zarfı
+description=Hareketli Ortalama ile fiyat uyumsuzlukları aralığını gösterir.
+param_Upper_name=Yukarı yüzde değeri
+param_Upper_description=Üst yüzde değeri.
+param_Lower_name=Aşağı yüzde değeri
+param_Lower_description=Alt yüzde değeri.
+param_ME1_line_name=Tepe çizgisinin
+param_ME2_line_name=Dip çizgisinin
+
+[ita]
+codepage=1252
+name=Moving Average Envelope
+description=Dimostra il range di Deviations dalla Moving Average
+param_Upper_name=Valore della percentuale più alta
+param_Upper_description=Il valore della percentuale più alta
+param_Lower_name=Valore della percentuale più bassa
+param_Lower_description=Il valore della percentuale più bassa
+param_ME1_line_name=Top line
+param_ME2_line_name=Bottom line
+
+[heb]
+codepage=1255
+name=מעטפת ממוצע נע
+description=מציג את טווח סטיות התקן מהממוצע הנע.
+param_Upper_name=ערך ממוצע עליון
+param_Upper_description=ערך הממוצע העליון.
+param_Lower_name=ערך ממוצע תחתון
+param_Lower_description=ערך הממוצע התחתון.
+param_ME1_line_name=קו עליון
+param_ME2_line_name=הקו התחתון
+
+[pol]
+codepage=1250
+name=Obwiednia średniej kroczącej
+description=Pokazuje zakres rozbieżności cen od średniej kroczącej
+param_Upper_name=Procentowe odchylenie w górę
+param_Upper_description=Procentowe odchylenie w górę.
+param_Lower_name=Procentowe odchylenie w dół
+param_Lower_description=Procentowe odchylenie w dół.
+param_ME1_line_name=linii górnej
+param_ME2_line_name=linii dolnej
+
+[cze]
+codepage=1250
+name=Pohyblivý průměr obálek
+description=Představuje rozpětí odchylek od klouzavého průměru
+param_Upper_name=Horní % hodnota
+param_Upper_description=Horní % hodnota.
+param_Lower_name=Spodní % hodnota
+param_Lower_description=Spodní % hodnota.
+param_ME1_line_name=horní linky
+param_ME2_line_name=spodní linky
+
+[por]
+codepage=1252
+name=Envelope de Média Móvel
+description=Mostra um intervalo da discrepância de preços de uma Média Móvel.
+param_Upper_name=Valor da percentagem superior
+param_Upper_description=O valor da percentagem superior.
+param_Lower_name=Valor da percentagem inferior
+param_Lower_description=O valor da percentagem inferior.
+param_ME1_line_name=Linha superior
+param_ME2_line_name=Linha inferior
+
+[gre]
+codepage=1253
+name=Moving Average Envelope
+description=Δείχνει τα όρια αποκλίσεων από τον Κινητό Μέσο Όρο.
+param_Upper_name=Ανώτερη ποσοστιαία τιμή
+param_Upper_description=Η ανώτερη ποσοστιαία τιμή.
+param_Lower_name=Κατώτερη ποσοστιαία τιμή
+param_Lower_description=Η κατώτερη ποσοστιαία τιμή.
+param_ME1_line_name=πάνω γραμμής
+param_ME2_line_name=κάτω γραμμής
+
+[hun]
+codepage=0
+name=Mozgóátlag Envelope
+description=Megmutatja az árfolyamok eltérését az mozgóátlagtól.
+param_Upper_name=Felső százalék érték
+param_Upper_description=Beállíthatja a felső százalék értékét.
+param_Lower_name=Alsó százalék érték
+param_Lower_description=Beállíthatja a alsó százalék értékét.
+param_ME1_line_name=Felső vonal
+param_ME2_line_name=Alsó vonal
+

@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Regression Line
+description=Is the linear regression line used to measure trends.
+param_line_name=Regression line
+
+[ara]
+codepage=1256
+name=خط الانحدار
+description=هل يستخدم خط الانحدار لقياس الاتجاه
+param_line_name=خط الانحدار
+
+[chs]
+codepage=936
+name=回归线
+description=使用线性回归线量度趋势
+param_line_name=回归线
+
+[cht]
+codepage=950
+name=回歸線
+description=使用線性回歸線量度趨勢
+param_line_name=回歸線
+
+[ctt]
+codepage=950
+name=回歸線
+description=使用線性回歸線量度趨勢
+param_line_name=
+
+[deu]
+codepage=1252
+name=Regressions-Linie
+description=Regressions-Linie
+param_line_name=Regressionslinie
+
+[esp]
+codepage=1252
+name=Línea de Regresión
+description=Es la línea de regresión lineal que se utiliza para medir tendencias
+param_line_name=línea de regresión
+
+[fra]
+codepage=1252
+name=Ligne de régression
+description=Est la ligne de régression linéaire utilisée pour mesurer les tendances.
+param_line_name=ligne de régression
+
+[jpn]
+codepage=932
+name=回帰線
+description=リニア加重移動平均線
+param_line_name=回帰線
+
+[kor]
+codepage=949
+name=회귀 선 (Regression Line)
+description=회귀 선 (Regression Line)
+param_line_name=
+
+[rus]
+codepage=1251
+name=Линейная регрессия
+description=Используется для измерения трендов.
+param_line_name=линии линейной регрессии
+
+[tur]
+codepage=1254
+name=Regresyon Doğrusu
+description=Trendi ölçmek için kullanılan doğrusal regresyon çizgisi.
+param_line_name=Regresyon çizgisinin
+
+[ita]
+codepage=1252
+name=Linea di Regressione
+description=E' la regressione lineare utilizzata per misurare i trend
+param_line_name=linea della Regressione
+
+[heb]
+codepage=1255
+name=קו רגרסיה
+description=רגרסיה ליניארית למדידת עוצמתה של המגמה.
+param_line_name=קו הרגרסיה
+
+[pol]
+codepage=1250
+name=Linia regresji
+description=Regresja liniowa wykorzystana do określenia kierunku trendu
+param_line_name=linii regresji
+
+[cze]
+codepage=1250
+name=Regresivní linka
+description=Je lineární regresní linka používána k měření trendů.
+param_line_name=regresní linky
+
+[por]
+codepage=1252
+name=Linha de Regressão
+description=É a linha de regressão linear utilizada para medir tendências.
+param_line_name=Linha de regressão
+
+[gre]
+codepage=1253
+name=Regression Line
+description=Είναι η Regression Line που χρησιμοποιείται για τη μέτρηση των τάσεων.
+param_line_name=γραμμής Regression
+
+[hun]
+codepage=0
+name=Regressziós vonal
+description=A lineáris regressziós vonal a trendeket méri.
+param_line_name=Regressziós vonal 
+

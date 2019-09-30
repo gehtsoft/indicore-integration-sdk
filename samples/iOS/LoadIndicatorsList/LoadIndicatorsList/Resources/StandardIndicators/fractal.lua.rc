@@ -1,0 +1,236 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Fractal
+description=Predicts a reversal in the current trend.
+param_UP_line_name=Up fractal
+param_UP_line_desc=up fractals
+param_DN_line_name=Down fractal
+param_DN_line_desc=down fractals
+param_PRICE_name=Prices
+param_PRICE_desc=fractal price labels
+param_show_price=Show fractal price
+param_show_price_1=Defines whether fractal price values are shown near up and down fractals.
+
+[rus]
+codepage=1251
+name=Фрактал
+description=Предсказывает разворот в текущем тренде.
+param_UP_line_name=фракталов вверх
+param_UP_line_desc=фракталов вверх
+param_DN_line_name=фракталов вниз
+param_DN_line_desc=фракталов вниз
+param_PRICE_name=цен
+param_PRICE_desc=меток цен фракталов
+param_show_price=Показать цены фракталов
+param_show_price_1=Определяет, будут ли цены фракталов показаны рядом с  фракталами вверх и вниз.
+
+[fra]
+codepage=1252
+name=Fractale
+description=Prédit un renversement dans la tendance actuelle
+param_UP_line_name=fractale du haut
+param_UP_line_desc=fractales du haut
+param_DN_line_name=fractale du bas
+param_DN_line_desc=fractales du bas
+param_PRICE_name=prix
+param_PRICE_desc=étiquettes de prix fractal
+param_show_price=Montrer prix fractal
+param_show_price_1=Définit si les valeurs du prix fractal sont affichées près des fractales haussières et baissières
+
+[ara]
+codepage=1256
+name=فراكتل
+description=يتوقع التراجع في الاتجاه الحالي.
+param_UP_line_name=الخط العلوي للمؤشر
+param_UP_line_desc=الخط العلوي للمؤشر
+param_DN_line_name=الخط الأدنى للمؤشر
+param_DN_line_desc=الخط الأدنى للمؤشر
+param_PRICE_name=الأسعار
+param_PRICE_desc=تسميات الأسعار الكسرية
+param_show_price=إظهار السعر الكسري
+param_show_price_1=يحدد ما إذا كانت القيم الكسرية للسعر ستظهر قرب الأسعار الكسرية الصاعدة والهابطة
+
+[chs]
+codepage=936
+name=碎片指标
+description=预测现趋势内的逆转
+param_UP_line_name=向上碎片
+param_UP_line_desc=向上碎片
+param_DN_line_name=向下碎片
+param_DN_line_desc=向下碎片
+param_PRICE_name=价格
+param_PRICE_desc=碎片价格
+param_show_price=显示碎片价格
+param_show_price_1=定义碎片价格值是否显示于接近上及下碎片
+
+[cht]
+codepage=950
+name=碎片指標
+description=預測現趨勢內的逆轉
+param_UP_line_name=向上碎片
+param_UP_line_desc=向上碎片
+param_DN_line_name=向下碎片
+param_DN_line_desc=向下碎片
+param_PRICE_name=價格
+param_PRICE_desc=碎片價格
+param_show_price=顯示碎片價格
+param_show_price_1=定義碎片價格值是否顯示於接近上及下碎片
+
+[esp]
+codepage=1252
+name=Fractal
+description=Predice un reverso en la tendencia actual.
+param_UP_line_name=fractal superior
+param_UP_line_desc=fractal superior
+param_DN_line_name=fractal inferior
+param_DN_line_desc=fractal inferior
+param_PRICE_name=precios
+param_PRICE_desc=etiquetas de precios fractales
+param_show_price=Indique el precio fractal
+param_show_price_1=Define si el valor del precio fractal se muestra arriba o abajo
+
+[heb]
+codepage=1255
+name=פרקטל
+description=חוזה מפנה במגמה הקיימת
+param_UP_line_name=פרקטל עולה
+param_UP_line_desc=הפרקטלים העולים
+param_DN_line_name=פרקטל יורד
+param_DN_line_desc=הפרקטלים היורדים
+param_PRICE_name=מחירים
+param_PRICE_desc=תגיות מחיר הפרקטל
+param_show_price=הצג מחיר פרקטלי
+param_show_price_1=מגדיר האם ערכי מחיר הפרקטל יוצגו ליד הפרקטלים היורדים והעולים.
+
+[ita]
+codepage=1252
+name=Fractal
+description=Anticipa un cambiamento del trend attuale
+param_UP_line_name=di Up fractal
+param_UP_line_desc=di Up fractal
+param_DN_line_name=di Down fractal
+param_DN_line_desc=di Down fractal
+param_PRICE_name=prezzi
+param_PRICE_desc=dell'etichetta del prezzo frattale
+param_show_price=Mostra prezzo frattale
+param_show_price_1=Definisce se i valori del prezzo frattale sono mostrati vicino ai frattali up e down
+
+[pol]
+codepage=1250
+name=Fraktal
+description=Prognozuje zwroty w bieżącym trendzie.
+param_UP_line_name=Up fractal
+param_UP_line_desc=Up fractal
+param_DN_line_name=Down fractal
+param_DN_line_desc=Down fractal
+param_PRICE_name=cen
+param_PRICE_desc=etykiet cen fraktalnych
+param_show_price=Pokaż cenę fraktalną
+param_show_price_1=Okresla czy wartości ceny fraktalnej są przedstawione nad czy pod fraktalami.
+
+[tur]
+codepage=1254
+name=Fraktal
+description=Geçerli trendin dönüş seviyelerini tahmin eder.
+param_UP_line_name=Üst fraktal
+param_UP_line_desc=Üst fraktalın
+param_DN_line_name=Alt fraktal
+param_DN_line_desc=Alt fraktalın
+param_PRICE_name=Fiyatların
+param_PRICE_desc=Fraktal fiyat etiketlerinin
+param_show_price=Fraktal fiyatını göster
+param_show_price_1=Fraktal fiyat değerlerinin alt fraktala mı üst fraktala mı yakın gösterileceğini belirtir.
+
+[cze]
+codepage=1250
+name=Fractal
+description=Předpovídá obrat daného trendu
+param_UP_line_name=Horní fractal
+param_UP_line_desc=horní fractal hranice
+param_DN_line_name=Spodní fractal
+param_DN_line_desc=spodní fractal hranice
+param_PRICE_name=cen
+param_PRICE_desc=popisků fraktálních cen
+param_show_price=Ukázat fraktální cenu
+param_show_price_1=Definuje zda je zobrazena fraktální cena
+
+[gre]
+codepage=1253
+name=Fractal
+description=Προβλέπει την αντιστροφή της τρέχουσας τάσης
+param_UP_line_name=άνω fractal
+param_UP_line_desc=άνω fractal
+param_DN_line_name=κάτω fractal
+param_DN_line_desc=κάτω fractal
+param_PRICE_name=τιμών
+param_PRICE_desc=ετικετών των τιμών του fractal
+param_show_price=Εμφάνιση τιμών του Fractal
+param_show_price_1=Καθορίζει αν οι τιμές του fractal θα εμφανίζονται κοντά στα ανοδικά και καθοδικά fractals.
+
+[jpn]
+codepage=932
+name=フラクタル
+description=現在のトレンドの反転を予測します。
+param_UP_line_name=上昇フラクタル
+param_UP_line_desc=上昇フラクタル
+param_DN_line_name=下降フラクタル
+param_DN_line_desc=下降フラクタル
+param_PRICE_name=Fractal Prices 
+param_PRICE_desc=Fractal Prices 
+param_show_price=Fractal Priceを表示
+param_show_price_1=Fractalの上下近くにプライスを表示するかどうか指定する
+
+[por]
+codepage=1252
+name=Fractal
+description=Prediz uma reversão na tendência atual.
+param_UP_line_name=Fractal ascendente
+param_UP_line_desc=fractais ascendentes
+param_DN_line_name=Fractal descendente
+param_DN_line_desc=fractais descendentes
+param_PRICE_name=Preços
+param_PRICE_desc=etiquetas de preço de fractais
+param_show_price=Mostrar preço de fractal
+param_show_price_1=Define se os valores de preços de fractais são mostrados perto de fractais ascendentes e descendentes.
+
+[deu]
+codepage=1252
+name=Fraktal
+description=Lässt eine Wende bei der jetzigen Tendenz schätzen.
+param_UP_line_name=Obige Fraktal
+param_UP_line_desc=obigen Fraktal
+param_DN_line_name=Untere Fraktal
+param_DN_line_desc=unteren Fraktal
+param_PRICE_name=Preis
+param_PRICE_desc=Fraktal Preis Label
+param_show_price=Fraktal Preise anzeigen
+param_show_price_1=Definiert, ob Fraktal Preiswerte nahe der Aufwärts- und Abwärtsfraktale angezeigt werden
+
+[hun]
+codepage=0
+name=Fraktál
+description=Trendforduló keresése a fennálló trendben
+param_UP_line_name=Up fractal
+param_UP_line_desc=up fractals
+param_DN_line_name=Csökkenő fraktál
+param_DN_line_desc=csökkenő fraktál
+param_PRICE_name=Árak
+param_PRICE_desc=fraktál ár címkék
+param_show_price=Fraktál árak mutatása
+param_show_price_1=Beállíthatja, hogy a fraktál árak értéke megjelenjen a felfele és lefele tartó fraktálok közelében.
+
+[kor]
+codepage=949
+name=
+description=
+param_UP_line_name=
+param_UP_line_desc=
+param_DN_line_name=
+param_DN_line_desc=
+param_PRICE_name=
+param_PRICE_desc=
+param_show_price=
+param_show_price_1=
+

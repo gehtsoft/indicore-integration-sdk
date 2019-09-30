@@ -1,0 +1,192 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=True Strength Index
+description=Is a variation of the Relative Strength Indicator which uses a doubly-smoothed exponential moving average of price momentum to eliminate choppy price changes and spot trend changes.
+param_N_name=Smooth 1
+param_N_description=The number of periods to average the Price Momentum.
+param_M_name=Smooth 2
+param_M_description=The number of periods to smooth the Average Momentum.
+param_TSI_line_name=True Strength Index line
+
+[ara]
+codepage=1256
+name=مؤشر القوة الحقيقي
+description=هو الاختلاف من مؤشر القوة النسبية والذي يستخدم على نحو مضاعف ، ممهدة المتوسط المتحرك الأسي من زخم السعر للقضاء على تغيرات الأسعار متذبذبة وتغير الاتجاه في النمط.
+param_N_name=Smooth 1
+param_N_description=عدد الفترات لـ average the Price Momentum
+param_M_name=Smooth 2
+param_M_description=عدد الفترات لـ smooth the Average Momentum
+param_TSI_line_name=الخط لمؤشر القوة الحقيقي
+
+[chs]
+codepage=936
+name=真实强弱指数
+description=TSI的一个变量，该变量使用的是经过双重平滑的指数平均线，以减少价格震荡以及趋势变化的影响
+param_N_name=Smooth 1
+param_N_description=平均价格动力时期
+param_M_name=Smooth 2
+param_M_description=平滑平均动力时期
+param_TSI_line_name=真实强弱指数线
+
+[cht]
+codepage=950
+name=真實強弱指數
+description=TSI的一個變量，該變量使用的是經過雙重平滑的指數平均線，以減少價格震盪以及趨勢變化的影響
+param_N_name=Smooth 1
+param_N_description=平均價格動力時期
+param_M_name=Smooth 2
+param_M_description=平滑平均動力時期
+param_TSI_line_name=真實強弱指數線
+
+[ctt]
+codepage=950
+name=真實強弱指數
+description=TSI的一個變量，該變量使用的是經過雙重平滑的指數平均線，以減少價格震盪以及趨勢變化的影響
+param_N_name=Smooth 1
+param_N_description=平均價格動力時期
+param_M_name=Smooth 2
+param_M_description=平滑平均動力時期
+param_TSI_line_name=
+
+[deu]
+codepage=1252
+name=True Strength Index
+description=Eine Variation des Relative-Strenght Indikators, die einen geglätteten gleitenden Exponentialdurchschnitt des Presimomentums benutzt, um sporadische und unvermittelte Preis- und Trendschwankungen richtig abzuwickeln.
+param_N_name=Smooth 1
+param_N_description=Anzahl von Periodenn in denen aus dem Preismomentum der Mittelwert gebildet wird.
+param_M_name=Smooth 2
+param_M_description=Anzahl von Perioden in denen durchschnittliches Momentum ausgeglichen wird.
+param_TSI_line_name=True Strength Index Linie
+
+[esp]
+codepage=1252
+name=Índice de Fuerza Real
+description=Es una variación del Indicador de Potencia Relativa, el cual utiliza una Media Móvil exponencial de movimiento de precios para eliminar cambios en precios de rangos y tendencias.
+param_N_name=Smooth 1
+param_N_description=El número de periodos para promediar la tendencia de precios.
+param_M_name=Smooth 2
+param_M_description=El número de periodos para solucionar la tendencia promedio.
+param_TSI_line_name=línea del Indice de Fuerza Real
+
+[fra]
+codepage=1252
+name=Indice de force réelle
+description=Est une variante de l'Indicateur de Force Relative qui utilise une moyenne de déplacement exponentielle doublement lissée sur le momentum du prix pour éliminer le prix variable.
+param_N_name=Smooth 1
+param_N_description=Le nombre de périodes pour faire la moyenne du momentum des prix.
+param_M_name=Smooth 2
+param_M_description=Le nombre de périodes pour lisser la moyenne du momentum.
+param_TSI_line_name=ligne de l'indice de force réelle
+
+[jpn]
+codepage=932
+name=トゥルー・ストレングス指数
+description=断続的なレート変化及びトレンド変化を排除するため、二重に平滑化されたプライスモメンタムの指数移動平均線を使用するRSIと同種の指標です。
+param_N_name=Smooth 1
+param_N_description=プライスモメンタムを平均化するための期間数
+param_M_name=Smooth 2
+param_M_description=平均モメンタムを平滑化するための期間数
+param_TSI_line_name=True Strength Index line
+
+[kor]
+codepage=949
+name=순수 강도 인덱스
+description=끊기는 가격 변동을 방지하기 위하여 두번 부드럽게 만든 이동평균가격 모멘텀을 사용한 상대강도지표의 변화
+param_N_name=장기간 정하기
+param_N_description=가격변동 평균의 기간개수
+param_M_name=단기간 정하기
+param_M_description=평균모멘텀을 부드럽기 만들기 위한 기간개수
+param_TSI_line_name=
+
+[rus]
+codepage=1251
+name=Индекс истинной силы
+description=Вариант индекса относительной силы, который, отсеивая мелкие колебания цены, выявляет изменения тренда.
+param_N_name=Smooth 1
+param_N_description=Количество периодов для среднего ценового момента.
+param_M_name=Smooth 2
+param_M_description=Количество периодов для сглаживания ценового момента.
+param_TSI_line_name=линии индекса истинной силы
+
+[tur]
+codepage=1254
+name=Gerçek Güç Endeksi
+description=Göreli Güç Endeksinin bir türevidir. İki kere düzlenmiş üstel hareketli ortalama kullanarak fiyat değişimlerindeki sapmaları ortadan kaldırır ve trend dönüşlerini gösterir.
+param_N_name=Smooth 1
+param_N_description=Fiyat Momentumu ortalaması için periyot sayısı.
+param_M_name=Smooth 2
+param_M_description=Ortalama Momentum düzlemesi için periyot sayısı.
+param_TSI_line_name=Gerçek Güç Endeksi çizgi
+
+[ita]
+codepage=1252
+name=True Strength Index
+description=E' una variazione del Relative Strength Indicator che utilizza una media mobile esponenziale doppiamente smorzata del price momentum per eliminare l'erraticità dei prezzi e cambiamenti nel trend
+param_N_name=Smooth 1
+param_N_description=Il numeri di periodi per i quali mediare il Price Momentum
+param_M_name=Smooth 2
+param_M_description=Il numero di periodi per i quali smorzare l'Average Momentum
+param_TSI_line_name=linea True Strength Index
+
+[heb]
+codepage=1255
+name=מדד העוצמה האמיתית
+description=גרסה מוחלקת של מדד העוצמה היחסית.
+param_N_name=Smooth 1
+param_N_description=מספר התקופות לחישוב הממוצע של מומנטום המחיר.
+param_M_name=Smooth 2
+param_M_description=מספר התקופות להחלקת ממוצע המומנטום
+param_TSI_line_name=הקו של מדד העוצמה האמיתית
+
+[pol]
+codepage=1250
+name=True Strength Index
+description=Odmiana Relative Strength Index używająca podwójnie gładzoną eksponencjalną średnią kroczącą momentum cen celem eliminacji lokalnych ruchów cen i
+param_N_name=Smooth 1
+param_N_description=Liczba okresów do wygładzania momentum cenowego
+param_M_name=Smooth 2
+param_M_description=Liczba okresów do wygładzania średniej momentum
+param_TSI_line_name=linii True Strength Index
+
+[cze]
+codepage=1250
+name=Index skutečné síly
+description=Je variací RSI, ktreý používá dvojitě vyhlazený exponenciální klouzavý průměr cenového momenta k vyhlazení cenových chyb a rozpoznání změny trendu
+param_N_name=Smooth 1
+param_N_description=Počet period na průměrování cenového momentu.
+param_M_name=Smooth 2
+param_M_description=Počet period na vyhlazení průměrného momentu.
+param_TSI_line_name=linky True Strength Index
+
+[por]
+codepage=1252
+name=Índice de Força Real
+description=É uma variação do Indicador de Força Relativa, que utiliza uma média móvel exponencial de tendência de preços duplamente nivelada para eliminar mudanças inconsistentes de preços e detetar alterações em tendências.
+param_N_name=Smooth 1
+param_N_description=O número de períodos para fazer a média da Tendência de Preços.
+param_M_name=Smooth 2
+param_M_description=O número de períodos para nivelar a Tendência Média.
+param_TSI_line_name=linha do Índice de Força Real
+
+[gre]
+codepage=1253
+name=True Strength Index (TSI)
+description=Είναι μια παραλλαγή του Relative Strength Index, που χρησιμοποιεί έναν εκθετικό κινητό μέσο όρο ορμής τιμής που έχει εξομαλυνθεί διπλά για να εξαλείφει ασταθείς μεταβολές τιμών και να εντοπίζει μεταβολές τάσεων.
+param_N_name=Smooth 1
+param_N_description=Ο αριθμός περιόδων για το μέσο όρο του δείκτη Price Momentum.
+param_M_name=Snooth 2
+param_M_description=Ο αριθμός περιόδων για την εξομάλυνση του Average Momentum.
+param_TSI_line_name=γραμμής του ταλαντωτή True Strength
+
+[hun]
+codepage=0
+name=True Strength Index
+description=Az indikátor a Relative Strenght indikátor egy változata, amely egy duplán simított exponenciális mozgóátlag segítségével segít a trend változásait nyomon követni.
+param_N_name=Smooth 1
+param_N_description=Beállíthatja hány periódussal átlagolódjon az árfolyam momentumot.
+param_M_name=Smooth 2
+param_M_description=Beállíthatja hány periódussal átlagolódjon az átlag momentumot.
+param_TSI_line_name=True Strength Index line
+

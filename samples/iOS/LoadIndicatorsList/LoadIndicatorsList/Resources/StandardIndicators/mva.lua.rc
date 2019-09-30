@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Simple Moving Average
+description=The average price for the last N periods.
+param_MVA_line_name=MVA line
+
+[ara]
+codepage=1256
+name=مؤشر المتوسط المتحرك المبسط
+description=متوسط السعر للفترات الاخيرة ل N
+param_MVA_line_name=خط المؤشر المتوسط المتحرك المبسط MVA
+
+[chs]
+codepage=936
+name=移动平均线
+description=过去N个周期平均价格
+param_MVA_line_name=移动平均线
+
+[cht]
+codepage=950
+name=移動平均線
+description=過去N個週期平均價格
+param_MVA_line_name=移動平均線
+
+[ctt]
+codepage=950
+name=移動平均線
+description=過去N個週期平均價格
+param_MVA_line_name=
+
+[deu]
+codepage=1252
+name=Einfacher gleitender Durchschnitt
+description=Durchschnittskurs der letzten N Perioden
+param_MVA_line_name=MVA Linie
+
+[esp]
+codepage=1252
+name=Media Móvil Simple
+description=El precio promedio por los últimos N periodos
+param_MVA_line_name=línea MVA
+
+[fra]
+codepage=1252
+name=Moyenne mobile simple
+description=La moyenne de prix les N dernières périodes.
+param_MVA_line_name=ligne MVA
+
+[jpn]
+codepage=932
+name=単純移動平均線
+description=最後の期間Nの平均プライス
+param_MVA_line_name=MVAライン
+
+[kor]
+codepage=949
+name=단순 이동평균 (Simple Moving Average)
+description=단순 이동평균 (Simple Moving Average)
+param_MVA_line_name=
+
+[rus]
+codepage=1251
+name=Простое скользящее среднее
+description=Средняя цена за последние N периодов.
+param_MVA_line_name=линии простого скользящего среднего
+
+[tur]
+codepage=1254
+name=Basit Hareketli Ortalama
+description=Son N periyot için ortalama fiyat.
+param_MVA_line_name=MVA çizgisinin
+
+[ita]
+codepage=1252
+name=Simple Moving Average
+description=Il prezzo medio degli ultimi N periodi
+param_MVA_line_name=linea MVA
+
+[heb]
+codepage=1255
+name=ממוצע נע פשוט
+description=ממוצע המחיר ב-N תקופות אחרונות.
+param_MVA_line_name=הקו של ממוצע הנע הפשוט
+
+[pol]
+codepage=1250
+name=Zwykła średnia krocząca
+description=Średnia cena z ostatnich n okresów
+param_MVA_line_name=linii MVA
+
+[cze]
+codepage=1250
+name=Jednoduchý klouzavý průměr
+description=Průměrná cena pro poslední N periody.
+param_MVA_line_name=linky MVA
+
+[por]
+codepage=1252
+name=Media Móvel Simples
+description=O preço médio dos últimos N períodos.
+param_MVA_line_name=Linha de Media Móvel Simples
+
+[gre]
+codepage=1253
+name=Simple Moving Average
+description=Η μέση τιμή των τελευταίων Ν περιόδων.
+param_MVA_line_name=γραμμής MVA
+
+[hun]
+codepage=0
+name=Egyszerű Mozgóátalag
+description=Egy trendkövető indikátor, amely az árfolyam két mozgóátlagának kapcsolatát írja le.
+param_MVA_line_name=MVA indikátor
+

@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Average True Range
+description=Measures market volatility.
+param_ATR_line_name=Average True Range line
+
+[ara]
+codepage=1256
+name=معدل النطاق الحقيقي
+description=مقاييس تقلب السوق
+param_ATR_line_name=الخط الخاص بالمدى الحقيقي المتوسط
+
+[chs]
+codepage=936
+name=平均真实区域
+description=量度市场波幅
+param_ATR_line_name=平均真实区域线
+
+[cht]
+codepage=950
+name=平均真實區域
+description=量度市場波幅
+param_ATR_line_name=平均真實區域線
+
+[ctt]
+codepage=950
+name=平均真實區域
+description=量度市場波幅
+param_ATR_line_name=
+
+[deu]
+codepage=1252
+name=Average True Range
+description=Marktvolatilität wird gemessen
+param_ATR_line_name=Accumulation Swing Index Linie
+
+[esp]
+codepage=1252
+name=Promedio del Rango Real
+description=Mide la volatilidad del mercado
+param_ATR_line_name=línea de promedio de rango real
+
+[fra]
+codepage=1252
+name=Etendue de la moyenne réelle
+description=Mesure la volatilité du marché
+param_ATR_line_name=ligne de l'Average True Range
+
+[jpn]
+codepage=932
+name=トゥルー・レンジ平均
+description=マーケットの流動性を計ります
+param_ATR_line_name=Average True Range ライン
+
+[kor]
+codepage=949
+name=ATR (Average True Range)
+description=시장의 변동성을 재다
+param_ATR_line_name=
+
+[rus]
+codepage=1251
+name=Средний истинный диапазон
+description=Измеряет волатильность рынка.
+param_ATR_line_name=линии среднего истинного диапазона
+
+[tur]
+codepage=1254
+name=Ortalama Doğru Aralık
+description=Piyasa volatilitesini ölçer.
+param_ATR_line_name=Ortalama Doğru Aralık çizgi
+
+[ita]
+codepage=1252
+name=Average True Range
+description=Misura la volatilità del mercato
+param_ATR_line_name=linea Average True Range
+
+[heb]
+codepage=1255
+name=ממוצע הטווח האמיתי (ATR)
+description=מודד את תנודתיות השוק
+param_ATR_line_name=קו ממוצע הטווח האמיתי
+
+[pol]
+codepage=1250
+name=Średni prawdziwy zakres zmiany
+description=Mierzy zmienność rynku
+param_ATR_line_name=linii ATR
+
+[cze]
+codepage=1250
+name=ATR
+description=Měří volatilitu trhu.
+param_ATR_line_name=linky Average True Range
+
+[por]
+codepage=1252
+name=Average True Range
+description=Mede a volatilidade do mercado.
+param_ATR_line_name=Linha do Average True Range
+
+[gre]
+codepage=1253
+name=Average True Range (ATR)
+description=Μετρά την μεταβλητότητα της αγοράς.
+param_ATR_line_name=γραμμής Average True Range
+
+[hun]
+codepage=0
+name=Average True Range
+description=A piac volatilitását mérő indikátor
+param_ATR_line_name=ATR (Average True Range) indikátor
+

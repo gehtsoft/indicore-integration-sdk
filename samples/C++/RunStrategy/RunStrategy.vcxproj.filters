@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp" />
+    <ClCompile Include="source\util\Utils.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="source\util\CsvTickDataParser.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="source\host\host.cpp">
+      <Filter>host</Filter>
+    </ClCompile>
+    <ClCompile Include="source\terminal\terminal.cpp">
+      <Filter>terminal</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source\SampleParams.h" />
+    <ClInclude Include="source\stdafx.h" />
+    <ClInclude Include="source\util\Utils.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="source\util\CsvTickDataParser.h">
+      <Filter>util</Filter>
+    </ClInclude>
+    <ClInclude Include="source\host\host.h">
+      <Filter>host</Filter>
+    </ClInclude>
+    <ClInclude Include="source\terminal\terminal.h">
+      <Filter>terminal</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="util">
+      <UniqueIdentifier>{694ee867-7f36-4c10-bc24-942860c7bc40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="host">
+      <UniqueIdentifier>{a36f5105-cef1-4583-957a-c2a474b1bba7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="terminal">
+      <UniqueIdentifier>{ef431841-108b-4d67-98d8-272b113a3816}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

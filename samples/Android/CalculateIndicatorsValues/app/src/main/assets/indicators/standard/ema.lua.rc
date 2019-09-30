@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Exponential Weighted Moving Average
+description=The weighted price calculation for the last N periods.
+param_EMA_line_name=Exponential Weighted Moving Average line
+
+[ara]
+codepage=1256
+name=معدل المتوسط المتحرك المضاعف
+description=حساب السعر المرجح للفترات الاخيرة N
+param_EMA_line_name=الخط الخاص بمعدل المتوسط المتحرك المضاعف
+
+[chs]
+codepage=936
+name=指数加权移动平均线
+description=以N时期计算的加权价格
+param_EMA_line_name=指数加权移动平均线
+
+[cht]
+codepage=950
+name=指數加權移動平均線
+description=以N時期計算的加權價格
+param_EMA_line_name=指數加權移動平均線
+
+[ctt]
+codepage=950
+name=指數加權移動平均線
+description=以N時期計算的加權價格
+param_EMA_line_name=
+
+[deu]
+codepage=1252
+name=Gewogener gleitender Exponentialdurchschnitt
+description=Die gewogene Preiskalkulation der letzten N Perioden.
+param_EMA_line_name=Exponential Gewichteten Gleitenden Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Promedio Móvil Exponencial Ponderado
+description=Calcula el precio ponderado por los últimos N periodos
+param_EMA_line_name=línea de promedio móvil exponencial ponderado
+
+[fra]
+codepage=1252
+name=Moyenne mobile exponentielle pondérée
+description=Le calcul du prix pondéré pour les dernières N périodes
+param_EMA_line_name=ligne de la moyenne mobile pondérée exponentielle
+
+[jpn]
+codepage=932
+name=指数加重移動平均線
+description=過去N期間を加重したプライスの計算
+param_EMA_line_name=Exponential Weighted Moving Average ライン
+
+[kor]
+codepage=949
+name=EWMA (지수 가중이동평균)
+description=이전 N 기간안에의 가중가격 계산
+param_EMA_line_name=
+
+[rus]
+codepage=1251
+name=Экспоненциальное скользящее среднее
+description=Рассчитывает средневзвешенную цену за последние N периодов.
+param_EMA_line_name=линии экспоненциального скользящего среднего
+
+[tur]
+codepage=1254
+name=Üstel Ağırlıklı Hareketli Ortalama
+description=Son N periyot için ağırlıklı fiyat hesaplaması.
+param_EMA_line_name=Üstel Ağırlıklı Hareketli Ortalama çizgi
+
+[ita]
+codepage=1252
+name=Media mobile esponenziale ponderata
+description=Il calcolo del prezzo pesato per gli ultimi N periodi
+param_EMA_line_name=linea Exponential Weighted Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע אקספוננציאלי משוקלל
+description=חישוב המחיר המשוקלל של N התקופות האחרונות.
+param_EMA_line_name=קו הממוצע הנע האקספוננציאלי המשוקלל
+
+[pol]
+codepage=1250
+name=Eksponencjalnie ważona średnia krocząca
+description=Średnia ważona obliczona dla ostatnich n okresów
+param_EMA_line_name=linii eksponencjalnie ważonej średniej kroczącej
+
+[cze]
+codepage=1250
+name=Exponenciální vážený klouzavý průměr
+description=Vážená cena posledních N period.
+param_EMA_line_name=linky Exponential Weighted Moving Average
+
+[por]
+codepage=1252
+name=Média Móvel Ponderada Exponencial
+description=O cálculo do preço ponderado dos últimos N períodos.
+param_EMA_line_name=Linha da Média Móvel Ponderada Exponencial
+
+[gre]
+codepage=1253
+name=Exponential Weighted Moving Average (EWMA)
+description=Ο σταθμισμένος υπολογισμός τιμής των τελευταίων Ν περιόδων.
+param_EMA_line_name=γραμμής Exponential Weighted Moving Average (EWMA)
+
+[hun]
+codepage=0
+name=Exponenciálisan Súlyozott Mozgó Átlag
+description=Az árfolyam utolsó N periódusának exponenciálisan súlyozott mozgóátlaga
+param_EMA_line_name=Exponenciális Súlyozott Mozgóátlag
+

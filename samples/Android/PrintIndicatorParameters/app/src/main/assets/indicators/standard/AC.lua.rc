@@ -1,0 +1,272 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Acceleration/Deceleration
+description=Measures acceleration and deceleration of the current driving force.
+param_FM_name=Fast MA periods
+param_FM_description=The number of periods to calculate the fast moving average.
+param_SM_name=Slow MA periods
+param_SM_description=The number of periods to calculate the slow moving average.
+param_M_name=MA periods for Acceleration/Deceleration
+param_M_description=The number of periods to calculate the moving average of the Awesome Oscillator
+param_GO_name=Upper bar
+param_GO_desc=upper bar
+param_RO_name=Lower bar
+param_RO_desc=lower bar
+
+[rus]
+codepage=1251
+name=Ускорение/замедление
+description=Измеряет ускорение и замедление текущей движущей силы.
+param_FM_name=Периоды для быстрого MA
+param_FM_description=Количество периодов для расчета быстрого скользящего среднего.
+param_SM_name=Периоды для медленного MA
+param_SM_description=Количество периодов для расчета медленного скользящего среднего.
+param_M_name=Периоды для MA ускорения/замедления
+param_M_description=Количество периодов для расчета скользящего среднего ускорения/замедления.
+param_GO_name=верхнего бара
+param_GO_desc=верхнего бара
+param_RO_name=нижнего бара
+param_RO_desc=нижнего бара
+
+[ara]
+codepage=1256
+name=مؤشر التسارع/التباطئ AC
+description=يقيس التسارع والتباطؤ للقوة الدافعة الحالية.
+param_FM_name=فترات MA السريع
+param_FM_description=عدد الفترات لحساب المتوسط المتحرك السريع.
+param_SM_name=فترات MA البطيئ
+param_SM_description=عدد الفترات لحساب المتوسط المتحرك البطيء.
+param_M_name=فترات MA للتسارع/التباطئ
+param_M_description=عدد الفترات لحساب المتوسط المتحرك لمؤشر الـ Awesome Oscillator
+param_GO_name=الشريط العلوي
+param_GO_desc=الشريط العلوي
+param_RO_name=الشريط السفلي
+param_RO_desc=الشريط السفلي
+
+[chs]
+codepage=936
+name=加速度/减速度
+description=量度当前驱动力的加速度/减速度
+param_FM_name=快MA时期
+param_FM_description=计算快平均时期数目
+param_SM_name=慢MA时期
+param_SM_description=计算慢平均时期数目
+param_M_name=加速/减速的MA时期数目
+param_M_description=计算动量震荡指标平均时期数目
+param_GO_name=上棒线
+param_GO_desc=上棒线
+param_RO_name=下棒线
+param_RO_desc=下棒线
+
+[cht]
+codepage=950
+name=加速度/減速度
+description=量度當前驅動力的加速度/減速度
+param_FM_name=快MA時期
+param_FM_description=計算快平均時期數目
+param_SM_name=慢MA時期
+param_SM_description=計算慢平均時期數目
+param_M_name=加速/減速的MA時期數目
+param_M_description=計算動量震盪指標平均時期數目
+param_GO_name=上棒線
+param_GO_desc=上棒線
+param_RO_name=下棒線
+param_RO_desc=下棒線
+
+[cze]
+codepage=1250
+name=A/D
+description=Měří A/D poměr současného sentimentu
+param_FM_name=Periody pro rychlý klouzavý průměr
+param_FM_description=Počet period pro výpočet rychlého klouzavého průměru.
+param_SM_name=Periody pro pomalý klouzavý průměr
+param_SM_description=Počet period pro výpočet pomalého klouzavého průměru.
+param_M_name=Periody klouzavého průměru pro A/D
+param_M_description=Počet period pro výpočet klouzavého průměru pro Awesome oscilátor
+param_GO_name=Horní sloupec
+param_GO_desc=horní sloupec
+param_RO_name=Spodní sloupec
+param_RO_desc=spodní sloupec
+
+[deu]
+codepage=1252
+name=Beschleunigung/Verzögerung
+description=Misst die Beschleunigung und Verzögerung der momentanen treibenden Kraft
+param_FM_name=Fast MA Perioden
+param_FM_description=Die Anzahl der Perioden um den Fast Moving Average zu berechnen
+param_SM_name=Slow MA Perioden
+param_SM_description=Die Anzahl der Perioden um den Slow Moving Average zu berechnen
+param_M_name=MA Perioden für Beschleunigung/Verzögerung
+param_M_description=Die anzahl der Perioden die benötigt werden um den MA des Awesome Indikators zu berechnen
+param_GO_name=Oberer Balken
+param_GO_desc=Oberer Balken
+param_RO_name=Unterer Balken
+param_RO_desc=Unterer Balken
+
+[fra]
+codepage=1252
+name=Accélération/Décélération
+description=Mesure l'accélération et la décélération de l'actuelle force conductrice
+param_FM_name=Périodes MA rapide
+param_FM_description=Le nombre de périodes pour calculer une moyenne mobile rapide
+param_SM_name=Périodes MA lente
+param_SM_description=Le nombre de périodes pour calculer une moyenne mobile lente
+param_M_name=Périodes MA pour Accélération/Décélération
+param_M_description=Le nombre de périodes pour calculer une moyenne mobile de l'oscillateur Awesome
+param_GO_name=Barre supérieure
+param_GO_desc=barre supérieure
+param_RO_name=Barre inférieure
+param_RO_desc=barre inférieure
+
+[gre]
+codepage=1253
+name=Acceleration/Deceleration
+description=Μετρά την αύξηση ή μείωση των τρέχοντων παραγόντων επιρροής.
+param_FM_name=Περίοδοι γρήγορου ΚΜΟ
+param_FM_description=Ο αριθμός των περιόδων που υπολογίζεται ο γρήγορος κινητός μέσος όρος.
+param_SM_name=Περίοδοι αργού ΚΜΟ
+param_SM_description=Ο αριθμός των περιόδων που υπολογίζεται ο αργός κινητός μέσος όρος.
+param_M_name=Περίοδοι ΚΜΟ Acceleration/Deceleration
+param_M_description=Ο αριθμός των περιόδων για τον υπολογισμό του μέσου όρου του ταλαντωτή Awesome
+param_GO_name=Άνω ράβδος
+param_GO_desc=άνω ράβδος
+param_RO_name=Κάτω ράβδος
+param_RO_desc=κάτω ράβδος
+
+[heb]
+codepage=1255
+name=האצה\בלימה
+description=מודד את ההאצה או הבלימה בכוח הדוחף.
+param_FM_name=תקופות ממוצע נע מהיר
+param_FM_description=מספר התקופות לחישוב הממוצע הנע המהיר.
+param_SM_name=תקופות ממוצע נע איטי
+param_SM_description=מספר התקופות לחישוב הממוצע הנע האיטי.
+param_M_name=תקופות ממוצע נע עבור האצה\בלימה
+param_M_description=מספר התקופות לחישוב הממוצע הנע של מתנד Awesome
+param_GO_name=עמודה עליונה
+param_GO_desc=עמודה עליונה
+param_RO_name=עמודה תחתונה
+param_RO_desc=עמודה תחתונה
+
+[ita]
+codepage=1252
+name=Accelerazione/Decelerazione
+description=Misure di accelerazione e decelerazione delle forza trainante corrente
+param_FM_name=MA veloce
+param_FM_description=Il numero di periodi per calcolare la media mobile veloce di una media di prezzi
+param_SM_name=MA lenta
+param_SM_description=Il numero di periodi per calcolare la media mobile lenta di una media di prezzi
+param_M_name=Periodi MA per Accelerazione/Decelerazione
+param_M_description=Il numero di periodi per calcolare la media mobile dell'Awesome Oscillator
+param_GO_name=Barra superiore
+param_GO_desc=barra superiore
+param_RO_name=Barra inferiore
+param_RO_desc=barra inferiore
+
+[jpn]
+codepage=932
+name=AC
+description=マーケット騰勢を観察し、その強弱を測ります。
+param_FM_name=Fast MA 期間
+param_FM_description=Fast Moving Averageを計算する期間
+param_SM_name=Slow MA 期間
+param_SM_description=Slow Moving Averageを計算する期間
+param_M_name=Acceleration/DecelerationのMA期間
+param_M_description=Awesome Oscillatorの移動平均を計算する期間数
+param_GO_name=上部バー
+param_GO_desc=上部バー
+param_RO_name=下部バー
+param_RO_desc=下部バー
+
+[tur]
+codepage=1254
+name=Hızlanma/Yavaşlama
+description=Mevcut hareketin hızlanmasını ve yavaşlamasını ölçer.
+param_FM_name=Hızlı HO periyotları
+param_FM_description=Hızlı hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_SM_name=Yavaş HO periyotları
+param_SM_description=Yavaş hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_M_name=Hızlanma/Yavaşlama için HO periyotları
+param_M_description=Awesome Osilatör’ün hareketli ortalamasını hesaplamak için kullanılacak periyot sayısı
+param_GO_name=Üst çubuk
+param_GO_desc=üst çubuk
+param_RO_name=Alt çubuk
+param_RO_desc=alt çubuk
+
+[pol]
+codepage=1250
+name=Akceleracja/Deakceleracja
+description=Mirzy akcelerację i deakcelerację aktualnej siły kierującej.
+param_FM_name=Okresy szybkiej MA
+param_FM_description=Liczba okresów do kalkulacji szybkiej średniej kroczącej.
+param_SM_name=Okresy wolnej MA
+param_SM_description=Liczba okresów do kalkulacji wolnej średniej kroczącej.
+param_M_name=Okresy MA dla Akceleracji/Deakceleracji
+param_M_description=Liczba okresów do kalkulacji średniej kroczącej Awesome Oscillator
+param_GO_name=Górny słupek
+param_GO_desc=górny słupek
+param_RO_name=Dolny słupek
+param_RO_desc=dolny słupek
+
+[por]
+codepage=1252
+name=Aceleração/Desaceleração
+description=Mede a aceleração e a desaceleração da força motriz atual.
+param_FM_name=Períodos de MM rápida
+param_FM_description=O número de períodos para calcular a média móvel rápida.
+param_SM_name=Períodos de MM lenta
+param_SM_description=O número de períodos para calcular a média móvel lenta.
+param_M_name=Períodos de MM para Aceleração/Desaceleração
+param_M_description=O número de períodos para calcular a média móvel do oscilador Awesome.
+param_GO_name=Barra superior
+param_GO_desc=barra superior
+param_RO_name=Barra inferior
+param_RO_desc=barra inferior
+
+[esp]
+codepage=1252
+name=Aceleración/Desaceleración
+description=Medidas de aceleración y desaceleración de la fuerza actual
+param_FM_name=Periodos rápidos MA
+param_FM_description=Numero de periodos para calcular el promedio móvil rápido
+param_SM_name=Periodos lento MA
+param_SM_description=Numero de periodos para calcular el promedio móvil lento
+param_M_name=Periodos de Aceleración y desaceleración de MA
+param_M_description=El numero de periodos para calcular el promedio móvil del oscilador Awesome
+param_GO_name=Barra superior
+param_GO_desc=barra superior
+param_RO_name=Barra inferior
+param_RO_desc=barra inferior
+
+[hun]
+codepage=0
+name=Acceleration/Deceleration
+description=Az árfolyam mozgása sebessége gyorsaságának változását mérő indikátor.
+param_FM_name=Gyors mozgóátlag periódusa
+param_FM_description=Beállíthatja a gyors mozgóátlag periódusa értékét.
+param_SM_name=Lassú mozgóátlag periódusa
+param_SM_description=Beállíthatja a lassú mozgóátlag periódusa értékét.param_M_name=A/C mozgóátlag periódus
+param_M_name=Mozgóátlag időszakai gyorsulásnál/lassulásnál
+param_M_description=Beállíthatja az Awsome Oscillator mozgóátlaga periódusainak számát.
+param_GO_name=Felső oszlop
+param_GO_desc=felső oszlop
+param_RO_name=Alsó oszlop
+param_RO_desc=alsó oszlop
+
+[kor]
+codepage=949
+name=
+description=
+param_FM_name=
+param_FM_description=
+param_SM_name=
+param_SM_description=
+param_M_name=
+param_M_description=
+param_GO_name=
+param_GO_desc=
+param_RO_name=
+param_RO_desc=
+

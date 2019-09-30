@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Relative Strength Index
+description=Shows price strength by comparing upward and downward close-to-close movements.
+param_RSI_line_name=Relative Strength Index line
+
+[ara]
+codepage=1256
+name=مؤشر القوة النسبي
+description=يقارن قوة السعر مع الارتفاعات و الانخفضات في أسعار بين الاغلاق و الاخر
+param_RSI_line_name=الخط لمؤشر القوة النسبي
+
+[chs]
+codepage=936
+name=相对强弱指标
+description=通过对比价格上涨以及下跌之间的关系来判断价格的相对强度
+param_RSI_line_name=相对强弱指标线
+
+[cht]
+codepage=950
+name=相對強弱指標
+description=通過對比價格上漲以及下跌之間的關係來判斷價格的相對強度
+param_RSI_line_name=相對強弱指標線
+
+[ctt]
+codepage=950
+name=相對強弱指標
+description=通過對比價格上漲以及下跌之間的關係來判斷價格的相對強度
+param_RSI_line_name=
+
+[deu]
+codepage=1252
+name=Relative Stärke Index
+description=Zeigt Kursstärke an, indem Close-to-Close Preisbewegungen vergleicht werden
+param_RSI_line_name=Relativen Stärke Index Linie
+
+[esp]
+codepage=1252
+name=Índice de Fuerza Relativa
+description=Muestra la fuerza del precio al comparar movimientos de alza y baja.
+param_RSI_line_name=línea del índice de fuerza relativa
+
+[fra]
+codepage=1252
+name=Indice de la force relative
+description=Montre la force du prix en le comparant aux mouvement vers son plus haut et son plus bas d'une clôture à l'autre.
+param_RSI_line_name=ligne de l'Indice de force relative
+
+[jpn]
+codepage=932
+name=RSI
+description=上昇/下降クローズ時の動きを比較することによりプライスの強さを表示します。
+param_RSI_line_name=Relative Strength Indexライン
+
+[kor]
+codepage=949
+name=상대강도 지수 (Relative Strength Index)
+description=상류와 하류의 close to close 움직임을 비교하여 가격 강도를 보여줌
+param_RSI_line_name=
+
+[rus]
+codepage=1251
+name=Индекс относительной силы
+description=Показывает силу цены, сравнивая движения цены вверх и вниз при закрытии периодов.
+param_RSI_line_name=линии индекса относительной силы
+
+[tur]
+codepage=1254
+name=Göreceli Güç Endeksi
+description=Aşağı ve yukarı yönlü birbirini takip eden hareketleri karşılaştırarak fiyatın gücünü gösterir.
+param_RSI_line_name=Göreli Güç Endeksi çizgi
+
+[ita]
+codepage=1252
+name=Relative Strength Index
+description=Mostra la forza della price action comparando i movimenti rialzisti o ribassisti dei prezzi di chiusura
+param_RSI_line_name=linea del Relative Strength Index
+
+[heb]
+codepage=1255
+name=מדד העוצמה היחסית
+description=מודד את עוצמת המחיר הנוכחי ביחס לממוצע המחירים בתקופה הנתונה.
+param_RSI_line_name=קו מדד העוצמה היחסית
+
+[pol]
+codepage=1250
+name=Wskaźnik siły relatywnej
+description=Pokazuje siłę kursu porównując sumę ruchów w górę i w dół
+param_RSI_line_name=linia Relative Strength Index
+
+[cze]
+codepage=1250
+name=Index relativní síly
+description=Ukazuje cenovou sílu srovnáním vzrůstajících a klesajících pohybů od závěru do závěru.
+param_RSI_line_name=linky RSI
+
+[por]
+codepage=1252
+name=Índice de Força Relativa
+description=Mostra a força do preço ao comparar os movimentos de subida e de descida de um fecho ao outro.
+param_RSI_line_name=linha do Índice de Força Relativa
+
+[gre]
+codepage=1253
+name=Relative Strength Index (RSI)
+description=Δείχνει την ισχύ της τιμής συγκρίνοντας κοντινές ανοδικές και καθοδικές κινήσεις.
+param_RSI_line_name=γραμμής του ταλαντωτή Relative Strength
+
+[hun]
+codepage=0
+name=Relative Strength Index
+description=A Relative Strength Index az árfolyam erősségét mérő indikátor.
+param_RSI_line_name=RSI (Relative Strength Index vonal)
+

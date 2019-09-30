@@ -1,0 +1,192 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Triangular Moving Average Convergence/Divergence
+description=A double-smoothed simple moving average where the middle portion of the data has more weight.
+param_SN_name=Fast MA periods
+param_SN_description=The number of periods to calculate the fast moving average.
+param_LN_name=Slow MA periods
+param_LN_description=The number of periods to calculate the slow moving average.
+param_TMACD_line_name=Triangular Moving Average Convergence/Divergence line
+
+[ara]
+codepage=1256
+name=مؤشر المثلث المعدل المتحرك للتقارب/الانحراف
+description=معدل متحرك مزدوج في الجزء المنتصف الذي يحمل أهم المعلومات
+param_SN_name=فترات MA السريع
+param_SN_description=عدد الفترات لحساب المتوسط المتحرك السريع.
+param_LN_name=فترات MA البطيئ
+param_LN_description=عدد الفترات لحساب المتوسط المتحرك البطيء.
+param_TMACD_line_name=الخط لمؤشر المثلث المعدل المتحرك للتقارب/الانحراف
+
+[chs]
+codepage=936
+name=三重移动平均汇聚背驰指标
+description=经过双重平滑后的移动平均线中间部分具有更多的权重
+param_SN_name=快MA时期
+param_SN_description=计算快平均时期数目
+param_LN_name=慢MA时期
+param_LN_description=计算慢平均时期数目
+param_TMACD_line_name=三重移户平均汇聚背驰指标线
+
+[cht]
+codepage=950
+name=三重移動平均匯聚背馳指標
+description=經過雙重平滑後的移動平均線中間部分具有更多的權重
+param_SN_name=快MA時期
+param_SN_description=計算快平均時期數目
+param_LN_name=慢MA時期
+param_LN_description=計算慢平均時期數目
+param_TMACD_line_name=三重移戶平均匯聚背馳指標線
+
+[ctt]
+codepage=950
+name=三重移戶平均匯聚背馳指標
+description=經過雙重平滑後的移動平均線中間部分具有更多的權重
+param_SN_name=
+param_SN_description=
+param_LN_name=
+param_LN_description=
+param_TMACD_line_name=
+
+[deu]
+codepage=1252
+name=Triangular moving average convergence/divergence
+description=Doppel-geglätteter gleitender Durchschnitt wobei Mittedatei ins stärkere Gewicht fällt.
+param_SN_name=Fast MA Perioden
+param_SN_description=Die Anzahl der Perioden um den Fast Moving Average zu berechnen
+param_LN_name=Slow MA Perioden
+param_LN_description=Die Anzahl der Perioden um den Slow Moving Average zu berechnen
+param_TMACD_line_name=Triangular-Moving Average-Convergence/Divergence Linie
+
+[esp]
+codepage=1252
+name=Convergencia/Divergencia Media Móvil Triangular
+description=Una Media Móvil simple donde la parte media asume más importancia
+param_SN_name=Periodos rápidos MA
+param_SN_description=Numero de periodos para calcular el promedio móvil rápido
+param_LN_name=Periodos lento MA
+param_LN_description=Numero de periodos para calcular el promedio móvil lento
+param_TMACD_line_name=línea de convergencia/divergencia media móvil triangular
+
+[fra]
+codepage=1252
+name=Moyenne mobile triangulaire convergente/divergente
+description=Une moyenne mobile doublement lissée dont la portion des données du milieu à plus de poids.
+param_SN_name=Périodes MA rapide
+param_SN_description=Le nombre de périodes pour calculer une moyenne mobile rapide
+param_LN_name=Périodes MA lente
+param_LN_description=Le nombre de périodes pour calculer une moyenne mobile lente
+param_TMACD_line_name=ligne de la moyenne mobile triangulaire convergente/divergente
+
+[jpn]
+codepage=932
+name=TMACD（三角移動平均 収束・拡大）
+description=中間部分におけるウェイトを重視した、二重に平滑化された単純移動平均線です。
+param_SN_name=Fast MA 期間
+param_SN_description=Fast Moving Averageを計算する期間
+param_LN_name=Slow MA 期間
+param_LN_description=Slow Moving Averageを計算する期間
+param_TMACD_line_name=TMACD（三角移動平均 収束・拡大）ライン
+
+[kor]
+codepage=949
+name=삼각 이동평균 수렴확산 (Triangular Moving Average Convergence Divergence)
+description=중간 데이터가 더 비중이있는 두번 부드럽게 만든 이동평균
+param_SN_name=
+param_SN_description=
+param_LN_name=
+param_LN_description=
+param_TMACD_line_name=
+
+[rus]
+codepage=1251
+name=Схождение/расхождение треугольных скользящих средних
+description=Дважды сглаженное простое скользящее среднее, в котором больший вес имеют цены середины периода.
+param_SN_name=Периоды для быстрого MA
+param_SN_description=Количество периодов для расчета быстрого скользящего среднего.
+param_LN_name=Периоды для медленного MA
+param_LN_description=Количество периодов для расчета медленного скользящего среднего.
+param_TMACD_line_name=линии схождения/расхождения треугольных скользящих средних
+
+[tur]
+codepage=1254
+name=Üçgensel Hareketli Ortalamaların Yakınsaması/Iraksaması
+description=Ortadaki verinin ağırlığının daha çok olduğu iki kere düzlenmiş basit hareketli ortalama.
+param_SN_name=Hızlı HO periyotları
+param_SN_description=Hızlı hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_LN_name=Yavaş HO periyotları
+param_LN_description=Yavaş hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_TMACD_line_name=Üçgensel Hareketli Ortalamaların Yakınsaması/Iraksaması çizgi
+
+[ita]
+codepage=1252
+name=Triangular Moving Average Convergence/Divergence
+description=Una simple moving average doppiamente smorzata dove la porzione di dati centrali ha più peso
+param_SN_name=MA veloce
+param_SN_description=Il numero di periodi per calcolare la media mobile veloce di una media di prezzi
+param_LN_name=MA lenta
+param_LN_description=Il numero di periodi per calcolare la media mobile lenta di una media di prezzi
+param_TMACD_line_name=linea del Triangular Moving Average Convergence/Divergence
+
+[heb]
+codepage=1255
+name=ממוצע נע משולש התכנסות\התפצלות
+description=ממוצע נע פשוט מוחלק שבו המקטע האמצעי של הנתונים מקבל חשיבות גדולה יותר.
+param_SN_name=תקופות ממוצע נע מהיר
+param_SN_description=מספר התקופות לחישוב הממוצע הנע המהיר.
+param_LN_name=תקופות ממוצע נע איטי
+param_LN_description=מספר התקופות לחישוב הממוצע הנע האיטי.
+param_TMACD_line_name=הקו של הממוצע הנע המשולש התכנסות\התפצלות
+
+[pol]
+codepage=1250
+name=Trójkątna średnia krocząca
+description=Dwukrotnie gładzona zwykła średnia krocząca, w której dane ze środkowej części okresu mają większą wagę
+param_SN_name=Okresy szybkiej MA
+param_SN_description=Liczba okresów do kalkulacji szybkiej średniej kroczącej.
+param_LN_name=Okresy wolnej MA
+param_LN_description=Liczba okresów do kalkulacji wolnej średniej kroczącej.
+param_TMACD_line_name=linii trójkątnej średniej kroczącej
+
+[cze]
+codepage=1250
+name=Trojúhelníkový klouzavý průměr Konvergence/Divergence
+description=Jednoduchý, dvojitě vyhlazený klouzavý průměr, při kterém mají větší váhu údaje ze středu periody
+param_SN_name=Periody pro rychlý klouzavý průměr
+param_SN_description=Počet period pro výpočet rychlého klouzavého průměru.
+param_LN_name=Periody pro pomalý klouzavý průměr
+param_LN_description=Počet period pro výpočet pomalého klouzavého průměru.
+param_TMACD_line_name=trojúhelníkového klouzavého průměru konvergence/divergence
+
+[por]
+codepage=1252
+name=Convergência/divergência da Média Móvel Triangular
+description=Uma média móvel simples duplamente nivelada em que a parte central dos dados assume maior importância.
+param_SN_name=Períodos de MM rápida
+param_SN_description=O número de períodos para calcular a média móvel rápida.
+param_LN_name=Períodos de MM lenta
+param_LN_description=O número de períodos para calcular a média móvel lenta.
+param_TMACD_line_name=Linha de convergência/divergência da Média Móvel Triangular
+
+[gre]
+codepage=1253
+name=Triangular Moving Average Convergence/Divergence
+description=Ένας απλός κινητός μέσος όρος που έχει εξομαλυνθεί διπλά, στον οποίο η μέση ποσότητα των δεδομένων έχει περισσότερη βαρύτητα.
+param_SN_name=Περίοδοι γρήγορου ΚΜΟ
+param_SN_description=Ο αριθμός των περιόδων που υπολογίζεται ο γρήγορος κινητός μέσος όρος.
+param_LN_name=Περίοδοι αργού ΚΜΟ
+param_LN_description=Ο αριθμός των περιόδων που υπολογίζεται ο αργός κινητός μέσος όρος.
+param_TMACD_line_name=γραμμής του Triangular Moving Average Convergence/Divergence
+
+[hun]
+codepage=0
+name=Tringular Mozgóátlag Konvergencia/Divergencia
+description=Duplán simított mozgóátlag, amely esetében az adatok középső része nagyobb súlyt kap.
+param_SN_name=Gyors mozgóátlag periódusa
+param_SN_description=Beállíthatja a gyors mozgóátlag periódusa értékét.
+param_LN_name=Lassú mozgóátlag periódusa
+param_LN_description=Beállíthatja a lassú mozgóátlag periódusa értékét.
+param_TMACD_line_name=Trianguláris Mozgóátlag Konvergencia/Divergencia vonal
+

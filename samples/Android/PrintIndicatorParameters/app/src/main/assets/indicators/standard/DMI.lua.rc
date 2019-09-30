@@ -1,0 +1,173 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Directional Movement Index
+description=Identifies whether there is a definable trend in the market.
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+ line
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI- line
+
+[ara]
+codepage=1256
+name=مؤشر التوجه المتحرك
+description=تحديد ما إذا كان هناك اتجاه واحد للسوق
+param_DIP_line_name=DI+
+param_DIP_line_desc=خط DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=خط DI-
+
+[chs]
+codepage=936
+name=趋向指标
+description=确认是否有可定义的趋势市
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+线
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI-线
+
+[cht]
+codepage=950
+name=趨向指標
+description=確認是否有可定義的趨勢市
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+線
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI-線
+
+[ctt]
+codepage=950
+name=趨向指標
+description=確認是否有可定義的趨勢市
+param_DIP_line_name=
+param_DIP_line_desc=
+param_DIM_line_name=
+param_DIM_line_desc=
+
+[deu]
+codepage=1252
+name=Directional Movement Indicator
+description=Zeigt an, ob der Markt nach einem bestimmten Trend sich bewegt.
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+ Linie
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI- Linie
+
+[esp]
+codepage=1252
+name=Índice de Movimiento Direccional
+description=Identifica si existe una tendencia que pueda definirse en el mercado.
+param_DIP_line_name=DI+
+param_DIP_line_desc=línea DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=línea DI-
+
+[fra]
+codepage=1252
+name=Indicateur de mouvement directionnel
+description=Identifie s'il y a une tendance clairement définie dans le marché
+param_DIP_line_name=DI+
+param_DIP_line_desc=ligne de DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=ligne de DI-
+
+[jpn]
+codepage=932
+name=ディレクショナル・ムーブメント指数
+description=限定できるトレンドがあるか明確にします
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+ライン
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI-ライン
+
+[kor]
+codepage=949
+name=DMI (시장방향성 지표)
+description=시장에서의 정의가능한 경향 확인
+param_DIP_line_name=
+param_DIP_line_desc=
+param_DIM_line_name=
+param_DIM_line_desc=
+
+[rus]
+codepage=1251
+name=Индекс направленного движения
+description=Показывает есть ли на рынке различимый тренд.
+param_DIP_line_name=DI+
+param_DIP_line_desc=линии DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=линии DI-
+
+[tur]
+codepage=1254
+name=Yönsel Hareket Endeksi
+description=Piyasada tanımlanabilir bir trendin olup olmadığını gösterir.
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+ çizgi
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI- çizgi
+
+[ita]
+codepage=1252
+name=Directional Movement Index
+description=Indentifica quando è presente un trend definibile nel mercato
+param_DIP_line_name=DI+
+param_DIP_line_desc=linea DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=linea DI-
+
+[heb]
+codepage=1255
+name=מדד התנועה הכיוונית
+description=מזהה האם השוק נע במגמה ברורה.
+param_DIP_line_name=DI+
+param_DIP_line_desc=קו DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=קו DI-
+
+[pol]
+codepage=1250
+name=Wskaźnik ruchu kierunkowego
+description=O ile to możliwe, identyfikuje kierunek trendu
+param_DIP_line_name=DI+
+param_DIP_line_desc=linii DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=linii DI-
+
+[cze]
+codepage=1250
+name=DMI
+description=Určení, zda na trhu převládá definovaný trend.
+param_DIP_line_name=DI+
+param_DIP_line_desc=linky DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=linky DI-
+
+[por]
+codepage=1252
+name=Índice de Movimento Direcional
+description=Identifica se existe uma tendência que pode ser definida no mercado.
+param_DIP_line_name=DI+
+param_DIP_line_desc=Linha DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=Linha DI-
+
+[gre]
+codepage=1253
+name=Directional Movement Index (DMI)
+description=Αναγνωρίζει εάν η αγορά βρίσκεται σε τάση ή όχι.
+param_DIP_line_name=DI+
+param_DIP_line_desc=γραμμής DI+
+param_DIM_line_name=DI-
+param_DIM_line_desc=γραμμής DI-
+
+[hun]
+codepage=0
+name=Directional Movement Index
+description=A árfolyam mozgásának trendszerűségét vizsgálja
+param_DIP_line_name=DI+
+param_DIP_line_desc=DI+ line
+param_DIM_line_name=DI-
+param_DIM_line_desc=DI- line
+

@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_KRI_line_name=Kairi Relative Index line
+
+[ara]
+codepage=1256
+name=مؤشر كياري النسبي
+description=مؤشر كياري النسبي
+param_KRI_line_name=خط مؤشر كياري النسبي
+
+[chs]
+codepage=936
+name=乖离相对指数
+description=乖离相对指数
+param_KRI_line_name=乖离相对指数线
+
+[cht]
+codepage=950
+name=乖離相對指數
+description=乖離相對指數
+param_KRI_line_name=乖離相對指數線
+
+[ctt]
+codepage=950
+name=乖離相對指數
+description=乖離相對指數
+param_KRI_line_name=
+
+[deu]
+codepage=1252
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_KRI_line_name=Kairi Relativen Index Linie
+
+[esp]
+codepage=1252
+name=Índice relativo Kairi
+description=Índice relativo Kairi
+param_KRI_line_name=línea del índice relativo Kairi
+
+[fra]
+codepage=1252
+name=Indice relatif de Kairi
+description=Indice relatif de Kairi.
+param_KRI_line_name=ligne de l'indice relatif Kairi
+
+[jpn]
+codepage=932
+name=乖離相対指数
+description=乖離相対指数
+param_KRI_line_name=Kairi Relative Indexライン
+
+[kor]
+codepage=949
+name=KRI (Kairi Relative Index)
+description=Kairi Relative Index
+param_KRI_line_name=
+
+[rus]
+codepage=1251
+name=Относительный индекс Каири
+description=Относительный индекс Каири
+param_KRI_line_name=линии относительного индекса Каири
+
+[tur]
+codepage=1254
+name=Kairi Göreli Endeksi
+description=Kairi Göreli Endeksi.
+param_KRI_line_name=Kairi Göreli Endeksi çizgi
+
+[ita]
+codepage=1252
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_KRI_line_name=linea Kairi Relative Index
+
+[heb]
+codepage=1255
+name=המדד היחסי של קיירי
+description=המדד היחסי של קיירי.
+param_KRI_line_name=קו המדד היחסי של קיירי
+
+[pol]
+codepage=1250
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_KRI_line_name=linii Kairi Relative Index
+
+[cze]
+codepage=1250
+name=Kairi Index
+description=Kairi Index.
+param_KRI_line_name=linky Kairi Relative Index
+
+[por]
+codepage=1252
+name=Índice Relativo de Kairi
+description=O Índice Relativo de Kairi.
+param_KRI_line_name=Linha do Índice Relativo de Kairi
+
+[gre]
+codepage=1253
+name=Ταλαντωτής Kairi Relative
+description=Kairi Relative Index
+param_KRI_line_name=γραμμής του ταλαντωτή Kairi Relative
+
+[hun]
+codepage=0
+name=Kairi Relative Index
+description=Kairi Relative Index
+param_KRI_line_name=Kairi Relative Index vonal
+
