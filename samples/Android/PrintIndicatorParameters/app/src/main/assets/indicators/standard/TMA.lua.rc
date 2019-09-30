@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Triangular Moving Average
+description=Re-averages a simple moving average to make it even smoother.
+param_TMA_line_name=Triangular Moving Average line
+
+[ara]
+codepage=1256
+name=مؤشر مثلث المتوسط المتحرك
+description=إعادة المتوسطات للمتوسط المتحرك البسيط لجعلها أكثر سلاسة
+param_TMA_line_name=الخط لمؤشر مثلث المتوسط المتحرك
+
+[chs]
+codepage=936
+name=三重移动平均线
+description=将移动平均线再平均使其更平滑
+param_TMA_line_name=三重移动平均线
+
+[cht]
+codepage=950
+name=三重移動平均線
+description=將移動平均線再平均使其更平滑
+param_TMA_line_name=三重移動平均線
+
+[ctt]
+codepage=950
+name=三重移動平均線
+description=將移動平均線再平均使其更平滑
+param_TMA_line_name=
+
+[deu]
+codepage=1252
+name=Triangular moving average
+description=Berechnet wieder den gleitenden Durchschnitt um den weiter zu glätten.
+param_TMA_line_name=dreieckigen gleitenden Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil triangular
+description=Promedia de nuevo una Media Móvil para hacerla más simple
+param_TMA_line_name=línea de la Media Móvil Triangular
+
+[fra]
+codepage=1252
+name=Moyenne mobile triangulaire
+description=Refait la moyenne de la moyenne mobile simple pour la rendre encore plus lisse.
+param_TMA_line_name=ligne de moyenne mobile triangulaire
+
+[jpn]
+codepage=932
+name=三角移動平均線
+description=単純移動平均線を再平均してさらに滑らかにします。
+param_TMA_line_name=Triangular Moving Averageライン
+
+[kor]
+codepage=949
+name=삼각 이동평균 (Triangular Moving Average)
+description=간단한 이동평균을 재 평균을 내어 더 부드럽게 만듬
+param_TMA_line_name=
+
+[rus]
+codepage=1251
+name=Треугольное скользящее среднее
+description=Представляет собой дважды сглаженное простое скользящее среднее.
+param_TMA_line_name=линии треугольного скользящего среднего
+
+[tur]
+codepage=1254
+name=Üçgensel Hareketli Ortalama
+description=Basit hareketli ortalamayı düzlemek için tekrar hareketli ortalaması hesaplanır.
+param_TMA_line_name=Üçgensel Hareketli Ortalama çizgi
+
+[ita]
+codepage=1252
+name=Triangular Moving Average
+description=Calcola la media di una simple moving average per renderla ulteriormente smorzata
+param_TMA_line_name=linea della Triangular Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע משולש
+description=מחליק את הממוצע הנע הפשוט.
+param_TMA_line_name=הקו של הממוצע הנע המשולש
+
+[pol]
+codepage=1250
+name=Dwukrotnie uśredniana średnia krocząca
+description=Zwykła średnia krocząca ponownie uśredniania celem poprawienia stopnia wygładzenia
+param_TMA_line_name=linii dwukrotnie uśrednianej średniej kroczącej
+
+[cze]
+codepage=1250
+name=Trojúhelníkový klouzavý průměr
+description=Znovuurčení jednoduchého klouzavého průměru.
+param_TMA_line_name=linky trojúhelníkového klouzavého průměru
+
+[por]
+codepage=1252
+name=Média Móvel Triangular
+description=Calcula uma nova média móvel simples para a tornar ainda mais nivelada.
+param_TMA_line_name=Linha da Média Móvel Triangular
+
+[gre]
+codepage=1253
+name=Triangular Moving Average
+description=Υπολογίζει εκ νέου τον απλό κινητό μέσο όρο για να τον εξομαλύνει ακόμη περισσότερο.
+param_TMA_line_name=γραμμής του Τriangular Moving Average
+
+[hun]
+codepage=0
+name=Tringular Mozgóátlag
+description=Az indikátor újraátlagol egy egyszerű mozgóátlagot, így simítva tovább annak jelzéseit.
+param_TMA_line_name=Trianguláris Mozgóátlag vonal
+

@@ -1,0 +1,146 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Accumulation Swing Index
+description=Gets signals from previous maximums and minimums of price.
+param_T_name=T
+param_T_description=Maximum price changing during the trade session.
+param_ASI_line_name=Accumulation Swing Index line
+
+[rus]
+codepage=1251
+name=Кумулятивный индекс колебаний
+description=Получает сигналы от предыдущих максимумов и минимумов цены.
+param_T_name=T
+param_T_description=Максимальное изменение цены в течение торговой сессии.
+param_ASI_line_name=линии кумулятивного индекса колебаний
+
+[fra]
+codepage=1252
+name=Accumulation Swing Index
+description=Obtient des signaux des précédents maximum et minimum de prix
+param_T_name=T
+param_T_description=Changement maximum de prix au cours de la session de trade
+param_ASI_line_name=ligne de l'Accumulation Swing Index
+
+[ara]
+codepage=1256
+name=مؤشر التراكم المتأرجح
+description=تحصل على إشارات من الأسعار العليا والدنيا السابقة
+param_T_name=T
+param_T_description=الحد الأقصى لتغير السعر خلال جلسة التداول
+param_ASI_line_name=الخط الخاص بمؤشر ASI
+
+[chs]
+codepage=936
+name=累计震荡量指标
+description=由以往最高及最低价格获取信号
+param_T_name=于交易时段内最大价格变化
+param_T_description=最高价格在交易时段内改变
+param_ASI_line_name=累计震荡量指标线
+
+[cht]
+codepage=950
+name=累計震盪量指標
+description=由以往最高及最低價格獲取信號
+param_T_name=於交易時段內最大價格變化
+param_T_description=最高價格在交易時段內改變
+param_ASI_line_name=累計震盪量指標線
+
+[esp]
+codepage=1252
+name=Índice de Acumulación Swing
+description=Obtiene señales de los precios máximos y mínimos anteriores.
+param_T_name=T
+param_T_description=Cambio máximo de precios durante la sesión de operaciones.
+param_ASI_line_name=línea del índice de acumulación Swing
+
+[heb]
+codepage=1255
+name=מדד הצטברות סווינג
+description=קבלת איתותים ממחירי מקסימום ומינימום קודמים
+param_T_name=T
+param_T_description=שינוי המחיר המקסימלי במהלך יום מהסחר
+param_ASI_line_name=קו מדד הצטברות סווינג
+
+[ita]
+codepage=1252
+name=Accumulation Swing Index
+description=Ricevi segnali dai precedenti minimi e massimi del prezzo
+param_T_name=T
+param_T_description=Massimo cambiamento del prezzo durante la sessione di trading.
+param_ASI_line_name=linea Accumulation Swing Index
+
+[pol]
+codepage=1250
+name=Accumulation Swing Index
+description=Daje sygnały na bazie poprzednich minimów i maksimów ceny.
+param_T_name=T
+param_T_description=Maksymalna zmiana ceny w trakcie sesji.
+param_ASI_line_name=linii Accumulation Swing Index
+
+[tur]
+codepage=1254
+name=Toplam Yön Değişim Endeksi
+description=Bir önceki en yüksek ve en düşük fiyata göre sinyalleri getir.
+param_T_name=T
+param_T_description=İşlem süresince gerçekleşen asgari fiyat değişimi
+param_ASI_line_name=Toplam Yön Değişim Endeksi çizgi
+
+[cze]
+codepage=1250
+name=Accumulation Swing Index
+description=Získává signály z předchozích cenových maxim a minim
+param_T_name=T
+param_T_description=Maximální cenová změna v průběhu seance
+param_ASI_line_name=linky Accumulation Swing Index
+
+[gre]
+codepage=1253
+name=Accumulation Swing Index
+description=Λαμβάνει σήματα από προηγούμενα υψηλά και χαμηλά τιμών
+param_T_name=T
+param_T_description=Μέγιστη μεταβολή της τιμής κατά τη διάρκεια της συναλλαγής
+param_ASI_line_name=γραμμής του ταλαντωτή Accumulation Swing
+
+[jpn]
+codepage=932
+name=アキュミュレーションスイングインデックス
+description=以前の最大値/最小値からシグナルを取得します。
+param_T_name=T
+param_T_description=この取引セッションでの最大価格変動値。
+param_ASI_line_name=Accumulation Swing Index ライン
+
+[por]
+codepage=1252
+name=Accumulation Swing Index
+description=Obtém sinais de máximos e mínimos de preços anteriores.
+param_T_name=T
+param_T_description=Variação máxima de preços durante a sessão de operações.
+param_ASI_line_name=Linha do Accumulation Swing Index
+
+[deu]
+codepage=1252
+name=Accumulation Swing Index
+description=Signale der vorherigen maximalen und minimalen Preise empfangen.
+param_T_name=T
+param_T_description=Maximale Preisänderung während der Handelssession
+param_ASI_line_name=Accumulation Swing Index Linie
+
+[hun]
+codepage=0
+name=Accumulation Swing Index
+description=Szignálok keresése ez előző maximumok és minimumok alapján.
+param_T_name=T
+param_T_description=Maximum árváltozás a kereskedés alatt
+param_ASI_line_name=Accumulation Swing Index 
+
+[kor]
+codepage=949
+name=
+description=
+param_T_name=
+param_T_description=
+param_ASI_line_name=
+

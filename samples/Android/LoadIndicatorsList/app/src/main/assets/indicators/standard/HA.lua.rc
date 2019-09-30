@@ -1,0 +1,92 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Heikin-Ashi Chart
+description=Helps to identify trends and trend changes more easily.
+
+[rus]
+codepage=1251
+name=Хейкин-Аши
+description=Помогает определять тренды и изменения трендов.
+
+[jpn]
+codepage=932
+name=平均足
+description=平均足を表示します。始値は前日の始値・終値の平均、終値は当日四本値の平均、高値・安値は当日の高値安値を採用します。
+
+[fra]
+codepage=1252
+name=Graphique Heikin-Ashi
+description=Aide à identifier les tendances et les changements de tendances plus facilement
+
+[ara]
+codepage=1256
+name=هايكن آشي
+description=يساعد في التعرف على الاتجاهات والتغيرات الاتجاه بسهولة أكثر
+
+[chs]
+codepage=936
+name=Heikin-Ashi蜡烛图
+description=有助于更容易确认趋势和趋势改变
+
+[cht]
+codepage=950
+name=Heikin-Ashi蠟燭圖
+description=有助於更容易確認趨勢和趨勢改變
+
+[esp]
+codepage=1252
+name=Grafica Heikin-Ashi
+description=Ayuda a identificar tendencias y cambios en las tendencias de manera mas fácil.
+
+[heb]
+codepage=1255
+name=גרף Heikin-Ashi
+description=מסייע לזהות ביתר קלות מגמות ושינוי מגמה
+
+[ita]
+codepage=1252
+name=Heikin-Ashi Chart
+description=Aiuta a identificare trend e cambiamenti nel trend più facilmente
+
+[pol]
+codepage=1250
+name=Wykres Heikin-Ashi
+description=Pomaga łatwiej rozpoznawać trendy i zmiany ich kierunków.
+
+[tur]
+codepage=1254
+name=Heikin-Ashi Grafiği
+description=Trendleri ve trend değişikliklerini daha kolay tanımlamakta yardımcı olur.
+
+[cze]
+codepage=1250
+name=Graf Heikin-Ashi
+description=Pomáhá snadněji identifikovat trendy a trendové kanály.
+
+[gre]
+codepage=1253
+name=Διάγραμμα Heikin-Ashi
+description=Βοηθάει στον εύκολο καθορισμό τάσεων και αντιστροφής τάσεων.
+
+[por]
+codepage=1252
+name=Gráfico Heikin-Ashi
+description=Ajuda a identificar mais facilmente tendências e alterações em tendências.
+
+[deu]
+codepage=1252
+name=Heikin-Ashi Grafik
+description=Beihilfe der Analyse der Preisvarianzen und Tendenzen.
+
+[hun]
+codepage=0
+name=Heikin-Ashi Grafikon
+description=Segít a trendek és a trendek változásának azonosításában.
+
+[kor]
+codepage=949
+name=
+description=
+

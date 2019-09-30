@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Load Indicators List</string>
+    <string name="indicators_standard">Standard</string>
+    <string name="indicators_custom">Custom</string>
+</resources>

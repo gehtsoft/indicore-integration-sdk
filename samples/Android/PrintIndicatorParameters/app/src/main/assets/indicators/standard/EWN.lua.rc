@@ -1,0 +1,230 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Elliot Wave Number
+description=Elliot Wave Number.
+param_Trigger_name=Trigger value (%)
+param_Trigger_description=The trigger value (%).
+param_EWN_line_name=Elliot Wave Number line
+param_FN_name=Fast MA periods
+param_FN_description=The number of periods to calculate the fast moving average.
+param_SN_name=Slow MA periods
+param_SN_description=The number of periods to calculate the slow moving average.
+
+[ara]
+codepage=1256
+name=رقم مؤشر إليوت
+description=رقم مؤشر إليوت
+param_Trigger_name=قيمة التحفيز(%)
+param_Trigger_description=قيمة التحفيز(%)
+param_EWN_line_name=الخط الخاص برقم مؤشر إليوت
+param_FN_name=فترات MA السريع
+param_FN_description=عدد الفترات لحساب المتوسط المتحرك السريع.
+param_SN_name=فترات MA البطيئ
+param_SN_description=عدد الفترات لحساب المتوسط المتحرك البطيء.
+
+[chs]
+codepage=936
+name=艾略特波浪数目
+description=艾略特波浪数目
+param_Trigger_name=触发数值(%)
+param_Trigger_description=触发数值(%)
+param_EWN_line_name=艾略特波浪数目线
+param_FN_name=快MA时期
+param_FN_description=计算快平均时期数目
+param_SN_name=慢MA时期
+param_SN_description=计算慢平均时期数目
+
+[cht]
+codepage=950
+name=艾略特波浪數目
+description=艾略特波浪數目
+param_Trigger_name=觸發數值(%)
+param_Trigger_description=觸發數值(%)
+param_EWN_line_name=艾略特波浪數目線
+param_FN_name=快MA時期
+param_FN_description=計算快平均時期數目
+param_SN_name=慢MA時期
+param_SN_description=計算慢平均時期數目
+
+[ctt]
+codepage=950
+name=艾略特波浪數目
+description=艾略特波浪數目
+param_Trigger_name=觸發數值(%)
+param_Trigger_description=觸發數值(%)
+param_EWN_line_name=
+param_FN_name=
+param_FN_description=
+param_SN_name=
+param_SN_description=
+
+[deu]
+codepage=1252
+name=Elliot Wave Nummer
+description=Elliot Wave Nummer
+param_Trigger_name=Trigger-Wert (%)
+param_Trigger_description=Trigger-Wert (%)
+param_EWN_line_name=Elliot Wave Nummer Linie
+param_FN_name=Fast MA Perioden
+param_FN_description=Die Anzahl der Perioden um den Fast Moving Average zu berechnen
+param_SN_name=Slow MA Perioden
+param_SN_description=Die Anzahl der Perioden um den Slow Moving Average zu berechnen
+
+[esp]
+codepage=1252
+name=Número de ondas Elliot
+description=Número de ondas Elliot
+param_Trigger_name=Valor de activación (%)
+param_Trigger_description=El valor de activación (%)
+param_EWN_line_name=línea del número de ondas Elliot
+param_FN_name=Periodos rápidos MA
+param_FN_description=Numero de periodos para calcular el promedio móvil rápido
+param_SN_name=Periodos lento MA
+param_SN_description=Numero de periodos para calcular el promedio móvil lento
+
+[fra]
+codepage=1252
+name=Numéro de vague d'Elliott
+description=Numéro de vague d'Elliott.
+param_Trigger_name=Valeur de déclenchement (%)
+param_Trigger_description=La valeur de déclenchement (%).
+param_EWN_line_name=ligne de Nombre de vague d'Elliot
+param_FN_name=Périodes MA rapide
+param_FN_description=Le nombre de périodes pour calculer une moyenne mobile rapide
+param_SN_name=Périodes MA lente
+param_SN_description=Le nombre de périodes pour calculer une moyenne mobile lente
+
+[jpn]
+codepage=932
+name=エリオット・ウェーブ・ナンバー
+description=エリオット・ウェーブ・ナンバー
+param_Trigger_name=トリガー・バリュー（％）
+param_Trigger_description=トリガー・バリュー（％）
+param_EWN_line_name=Elliot Wave Number ライン
+param_FN_name=Fast MA 期間
+param_FN_description=Fast Moving Averageを計算する期間
+param_SN_name=Slow MA 期間
+param_SN_description=Slow Moving Averageを計算する期間
+
+[kor]
+codepage=949
+name=EWN (Elliot Wave Number)
+description=Elliot Wave Number
+param_Trigger_name=트리거 가치 (%)
+param_Trigger_description=트리거 가치 (%)
+param_EWN_line_name=
+param_FN_name=
+param_FN_description=
+param_SN_name=
+param_SN_description=
+
+[rus]
+codepage=1251
+name=Число волны Эллиота
+description=Число волны Эллиота.
+param_Trigger_name=Значение триггера (%)
+param_Trigger_description=Значение триггера (%).
+param_EWN_line_name=линии числа волны Эллиота
+param_FN_name=Периоды для быстрого MA
+param_FN_description=Количество периодов для расчета быстрого скользящего среднего.
+param_SN_name=Периоды для медленного MA
+param_SN_description=Количество периодов для расчета медленного скользящего среднего.
+
+[tur]
+codepage=1254
+name=Elliot Dalga Sayısı
+description=Elliot Dalga Sayısı.
+param_Trigger_name=Tetik değeri (%)
+param_Trigger_description=Tetik değeri (%).
+param_EWN_line_name=Elliot Dalga Numarası çizgisinin
+param_FN_name=Hızlı HO periyotları
+param_FN_description=Hızlı hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_SN_name=Yavaş HO periyotları
+param_SN_description=Yavaş hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+
+[ita]
+codepage=1252
+name=Elliot Wave Number
+description=Elliot Wave Number
+param_Trigger_name=Trigger value (%)
+param_Trigger_description=Il trigger value (%)
+param_EWN_line_name=linea dell'Elliot Wave Number
+param_FN_name=MA veloce
+param_FN_description=Il numero di periodi per calcolare la media mobile veloce di una media di prezzi
+param_SN_name=MA lenta
+param_SN_description=Il numero di periodi per calcolare la media mobile lenta di una media di prezzi
+
+[heb]
+codepage=1255
+name=מספר גלי אליוט
+description=מספר גלי אליוט.
+param_Trigger_name=ערך טריגר (%)
+param_Trigger_description=ערך הטריגר (%).
+param_EWN_line_name=קו מספר גלי אליוט
+param_FN_name=תקופות ממוצע נע מהיר
+param_FN_description=מספר התקופות לחישוב הממוצע הנע המהיר.
+param_SN_name=תקופות ממוצע נע איטי
+param_SN_description=מספר התקופות לחישוב הממוצע הנע האיטי.
+
+[pol]
+codepage=1250
+name=Elliott Wave Number
+description=Elliott Wave Number.
+param_Trigger_name=Trigger (%)
+param_Trigger_description=Trigger (%)
+param_EWN_line_name=linii Elliot Wave Number
+param_FN_name=Okresy szybkiej MA
+param_FN_description=Liczba okresów do kalkulacji szybkiej średniej kroczącej.
+param_SN_name=Okresy wolnej MA
+param_SN_description=Liczba okresów do kalkulacji wolnej średniej kroczącej.
+
+[cze]
+codepage=1250
+name=Číselné Elliotovy vlny
+description=Číselné Elliotovy vlny.
+param_Trigger_name=Aktivační hodnota (%)
+param_Trigger_description=Aktivační hodnota (%)
+param_EWN_line_name=linky Elliotovy vlny
+param_FN_name=Periody pro rychlý klouzavý průměr
+param_FN_description=Počet period pro výpočet rychlého klouzavého průměru.
+param_SN_name=Periody pro pomalý klouzavý průměr
+param_SN_description=Počet period pro výpočet pomalého klouzavého průměru.
+
+[por]
+codepage=1252
+name=Número de Ondas de Elliot
+description=O número de ondas de Elliot.
+param_Trigger_name=Valor de ativação (%)
+param_Trigger_description=O valor de ativação (%).
+param_EWN_line_name=Linha do Número de Ondas de Elliot
+param_FN_name=Períodos de MM rápida
+param_FN_description=O número de períodos para calcular a média móvel rápida.
+param_SN_name=Períodos de MM lenta
+param_SN_description=O número de períodos para calcular a média móvel lenta.
+
+[gre]
+codepage=1253
+name=Elliot Wave Number
+description=Ο αριθμός των Elliot Waves
+param_Trigger_name=Τιμή ενεργοποίησης (%)
+param_Trigger_description=Η τιμή ενεργοποίησης (%).
+param_EWN_line_name=γραμμής Elliot Wave Number
+param_FN_name=Περίοδοι γρήγορου ΚΜΟ
+param_FN_description=Ο αριθμός των περιόδων που υπολογίζεται ο γρήγορος κινητός μέσος όρος.
+param_SN_name=Περίοδοι αργού ΚΜΟ
+param_SN_description=Ο αριθμός των περιόδων που υπολογίζεται ο αργός κινητός μέσος όρος.
+
+[hun]
+codepage=0
+name=Ellior Wave szám
+description=Ellior Wave szám
+param_Trigger_name=Trigger érték
+param_Trigger_description=A trigger értéke
+param_EWN_line_name=Elliot Hullám Szám
+param_FN_name=Gyors mozgóátlag periódusa
+param_FN_description=Beállíthatja a gyors mozgóátlag periódusa értékét.
+param_SN_name=Lassú mozgóátlag periódusa
+param_SN_description=Beállíthatja a lassú mozgóátlag periódusa értékét.
+

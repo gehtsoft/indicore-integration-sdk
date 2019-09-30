@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Rate of Change
+description=Shows the speed at which price is changing.
+param_ROC_line_name=Rate of Change line
+
+[ara]
+codepage=1256
+name=نسبة التغير
+description=إظهار السرعة التي يتغير السعر بها
+param_ROC_line_name=الخط لمؤشر نسبة التغير
+
+[chs]
+codepage=936
+name=变动率指标
+description=显示价格变动的速度
+param_ROC_line_name=变动率指标线
+
+[cht]
+codepage=950
+name=變動率指標
+description=顯示價格變動的速度
+param_ROC_line_name=變動率指標線
+
+[ctt]
+codepage=950
+name=變動率指標
+description=顯示價格變動的速度
+param_ROC_line_name=
+
+[deu]
+codepage=1252
+name=Aenderungsrate
+description=Die Rate wobei die Preise sich ändern.
+param_ROC_line_name=Rate of Change Linie
+
+[esp]
+codepage=1252
+name=Tasa de cambio
+description=Muestra la velocidad en la cual el precio esta cambiando
+param_ROC_line_name=línea de tasa de cambio
+
+[fra]
+codepage=1252
+name=Taux de changement
+description=Montre la vitesse à laquelle le prix change.
+param_ROC_line_name=ligne changement de taux
+
+[jpn]
+codepage=932
+name=変化率
+description=プライスの変化のスピードを表示します
+param_ROC_line_name=Rate of Changeライン
+
+[kor]
+codepage=949
+name=비율의 변화
+description=가격변동 속도를 보여줌
+param_ROC_line_name=
+
+[rus]
+codepage=1251
+name=Скорость изменения
+description=Показывает скорость, с которой меняется цена.
+param_ROC_line_name=линии скорости изменения
+
+[tur]
+codepage=1254
+name=Değişim Oranı
+description=Fiyattaki değişim hızını gösterir.
+param_ROC_line_name=Değişim Oranı çizgi
+
+[ita]
+codepage=1252
+name=Rate of Change
+description=Mostra la velocità alla quale sta cambiando il prezzo
+param_ROC_line_name=linea del Rate of Change
+
+[heb]
+codepage=1255
+name=שיעור השינוי
+description=מציג את מהירות שינויי המחירים.
+param_ROC_line_name=קו שיעור השינוי
+
+[pol]
+codepage=1250
+name=Wskaźnik zmian
+description=Pokazuje szybkość zmian cen
+param_ROC_line_name=linii ROC
+
+[cze]
+codepage=1250
+name=Míra změny
+description=Ukazuje rychlost za kterou se mění cena.
+param_ROC_line_name=linky pro míru změny
+
+[por]
+codepage=1252
+name=Velocidade de variação
+description=Mostra a velocidade a que o preço está a mudar.
+param_ROC_line_name=linha da velocidade de variação
+
+[gre]
+codepage=1253
+name=Rate of Change
+description=Δείχνει την ταχύτητα με την οποία η τιμή μεταβάλλεται.
+param_ROC_line_name=γραμμής Rate of Change
+
+[hun]
+codepage=0
+name=Rate of Change
+description=Az árfolyamváltozás sebességét mérő indikátor.
+param_ROC_line_name=ROC (Rate of Change) indikátor
+

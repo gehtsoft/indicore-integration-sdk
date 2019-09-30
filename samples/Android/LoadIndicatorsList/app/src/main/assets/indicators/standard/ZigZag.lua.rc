@@ -1,0 +1,290 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=ZigZag
+description=Helps to determine the most important price changes and turns.
+param_Depth_name=Depth
+param_Depth_description=The minimum number of periods used to draw one ZigZag line.
+param_Deviation_name=Deviation
+param_Deviation_description=The maximum distance in pips by which the current high/low must be lower/higher than the previous one to return Backstep periods back to check if the current high/low is a new max/min.
+param_Backstep_name=Backstep
+param_Backstep_description=The number of periods used to define a new min/max if the current high/low is lower/higher than the previous one by Deviation or less.
+param_Zig_name=Up Swing
+param_Zag_name=Down Swing
+param_Zig_desc=up swing
+param_Zag_desc=down swing
+param_ZigZag_line_name=ZigZag line
+
+[rus]
+codepage=1251
+name=Зигзаг
+description=Помогает определять наиболее важные изменения цен и развороты.
+param_Depth_name=Глубина
+param_Depth_description=Минимальное количество периодов, которое используется для отрисовки одной линии Зигзага.
+param_Deviation_name=Отклонение
+param_Deviation_description=Максимальное расстояние в пунктах, на которое текущий минимум/максимум должен быть ниже/выше предыдущего, чтобы вернуться на количество периодов Возврата назад и проверить, является ли текущий минимум/максимум новым минимумом/максимумом Зигзага.
+param_Backstep_name=Возврат
+param_Backstep_description=Количество периодов, которое используется для определения нового минимума/максимума Зигзага, если текущий минимум/максимум ниже/выше предыдущего на величину Отклонения или меньше.
+param_Zig_name=линии вверх
+param_Zag_name=линии вниз
+param_Zig_desc=линии вверх
+param_Zag_desc=линии вниз
+param_ZigZag_line_name=линии Зигзага
+
+[fra]
+codepage=1252
+name=ZigZag
+description=Aide à déterminer les changements et retournements de prix les plus importants
+param_Depth_name=Profondeur
+param_Depth_description=Le nombre minimum de périodes utilisées pour dessiner une ligne ZigZag
+param_Deviation_name=Déviation
+param_Deviation_description=La distance maximum en pips à partir de laquelle l'actuel plus bas/sommet doit être plus bas/plus haut que le précédent pour envoyer Backstep périodes vérifier si l'actuel plus bas/sommet est un nouveau maximum/minimum
+param_Backstep_name=Backstep
+param_Backstep_description=Le nombre de périodes utilisées pour définir un nouveau min/max si l'actuel plus haut/plus bas est plus bas/plus haut que le précédent d'un écart ou moins
+param_Zig_name=Swing haussier
+param_Zag_name=Swing baissier
+param_Zig_desc=swing haussier
+param_Zag_desc=swing baissier
+param_ZigZag_line_name=ligne de ZigZag
+
+[ara]
+codepage=1256
+name=مؤشر الزيغ زاغ
+description=يساعد على تحديد أهم التغيرات في الأسعار والتقلبات.
+param_Depth_name=العمق
+param_Depth_description=الحد الأدنى لعدد الفترات المستخدمة لرسم خط زيغ زاغ واحد.
+param_Deviation_name=الانحراف
+param_Deviation_description=المسافة القصوى بالنقاط التي يجب أن يكون من خلالها السعر الأدنى/ الأعلى الحالي أقل/أكثر من السابق ليعود مرة أخرى إلى فترات الخطة السابقة لتحدي ما إذا كان السعر الحالي الأعلى/الأقل هو قيمة عظمى/دنيا جديدة.
+param_Backstep_name=الخطوة السابقة
+param_Backstep_description=عدد الفترات المستخدمة لتحديد قيمة عظمى/ دنيا جديدة إذا كان السعر الأعلى/ الأدنى الحالي أقل/أكثر من سابقتها بالانحراف أو أقل.
+param_Zig_name=الخط الأعلى
+param_Zag_name=الخط الأدنى
+param_Zig_desc=بالخط الأعلى
+param_Zag_desc=بالخط الأدنى
+param_ZigZag_line_name=الخط لمؤشرالزيغ زاغ
+
+[chs]
+codepage=936
+name=之字形指标
+description=有助于确定关键的价格变动和转向
+param_Depth_name=深度
+param_Depth_description=绘画之字形线所使用
+param_Deviation_name=偏差值
+param_Deviation_description=如目前的高/低是最大/最少, 当前最高/最低最大距离点数 其中必须比前一个回退周期较低/较高
+param_Backstep_name=回退
+param_Backstep_description=如果当前的高点/低点比原来的高点/低点要低/高于偏差值或者更少，则周期数是用来定义新的最小/最大值，
+param_Zig_name=上扬
+param_Zag_name=下扬
+param_Zig_desc=上扬
+param_Zag_desc=下扬
+param_ZigZag_line_name=之字线
+
+[cht]
+codepage=950
+name=Z字轉向指標
+description=有助於確定關鍵的價格變動和轉向
+param_Depth_name=深度
+param_Depth_description=繪畫Z字形線所使用
+param_Deviation_name=偏差值
+param_Deviation_description=如目前的高/低是最大/最少, 當前最高/最低最大距離點數 其中必須比前一個回退周期較低/較高
+param_Backstep_name=回退
+param_Backstep_description=如果當前的高點/低點比原來的高點/低點要低/高於偏差值或者更少，則週期數是用來定義新的最小/最大值，
+param_Zig_name=上揚線
+param_Zag_name=下揚線
+param_Zig_desc=上揚線
+param_Zag_desc=下揚線
+param_ZigZag_line_name=之字線
+
+[esp]
+codepage=1252
+name=Zigzag
+description=Ayuda a determinar el cambio de precio mas importante y las desviaciones.
+param_Depth_name=Profundidad
+param_Depth_description=El numero de periodos mínimo utilizado para dibujar una línea de Zigzag
+param_Deviation_name=Deviación
+param_Deviation_description=La distancia máxima en pips en donde el alto/bajo actual debe ser menor/mayor que el anterior para devolver los periodos Backstep para averiguar si el alto/bajo actual es un nuevo Max/min.
+param_Backstep_name=Backstep
+param_Backstep_description=El numero de periodos utilizados para definir el nuevo min/Max si el alto/bajo actual es menor/mayor que el anterior por deviación o menor.
+param_Zig_name=Swing alto
+param_Zag_name=Swing bajo
+param_Zig_desc=Swing alto
+param_Zag_desc=Swing bajo
+param_ZigZag_line_name=línea ZigZag
+
+[heb]
+codepage=1255
+name=זיגזג
+description=מסייע לקבוע שינויי מחיר ומפנים חשובים
+param_Depth_name=עומק
+param_Depth_description=מספר התקופות המינימאלי כדי לשרטט קו זיגזג אחד
+param_Deviation_name=סטייה
+param_Deviation_description=המרחק המקסימלי בפיפסים בין שיא-שפל נוכחי לשיא-שפל קודם, כדי להשיב תקופות חזרה-לאחור כדי לבדוק אם השיא-שפל החדש הוא מקסימום-מינימום.
+param_Backstep_name=צעד אחורה
+param_Backstep_description=מספר התקופות המשמש כדי להגדיר מינימום\מקסימום חדש כאשר השיא\שפל הנוכחי נמוך\גבוה מהקודם בסטיית תקן אחת
+param_Zig_name=סווינג עולה
+param_Zag_name=סווינג יורד
+param_Zig_desc=הסווינג העולה
+param_Zag_desc=הסווינג היורד
+param_ZigZag_line_name=קו הזיג-זג
+
+[ita]
+codepage=1252
+name=ZigZag
+description=Aiuta a stabilire i maggiori cambiamenti di prezzi e inversioni.
+param_Depth_name=Depth
+param_Depth_description=Il minimo numero di periodi utilizzati per disegnare una linea Zag.
+param_Deviation_name=Deviation
+param_Deviation_description=La massima distanza in pips da cui il corrente high/low devono essere inferiore/superiore dei precedenti per fornire periodi Backstep da verificare se l'attuale high/low è un nuovo max/min
+param_Backstep_name=Backstep
+param_Backstep_description=Il numero di periodi utilizzati per definire un nuovo min/max se il max/min attuale è più basso/alto del precedente di una deviazione o meno
+param_Zig_name=Up Swing
+param_Zag_name=Down Swing
+param_Zig_desc=up swing
+param_Zag_desc=down swing
+param_ZigZag_line_name=linea ZigZag
+
+[pol]
+codepage=1250
+name=ZigZag
+description=Pomaga określić najistotniejsze zmiany cen i zwroty.
+param_Depth_name=Depth
+param_Depth_description=The minimum number of periods used to draw one ZigZag line.
+param_Deviation_name=Deviation
+param_Deviation_description=The maximum distance in pips by which the current high/low must be lower/higher than the previous one to return Backstep periods back to check if the current high/low is a new max/min.
+param_Backstep_name=Backstep
+param_Backstep_description=The number of periods used to define a new min/max if the current high/low is lower/higher than the previous one by Deviation or less.
+param_Zig_name=poprawy
+param_Zag_name=pogorszenia
+param_Zig_desc=poprawy
+param_Zag_desc=pogorszenia
+param_ZigZag_line_name=linii ZigZag
+
+[tur]
+codepage=1254
+name=ZigZag
+description=Önemli fiyat değişimleri ve dönüşleri belirlemeye yardımcı olur.
+param_Depth_name=Derinlik
+param_Depth_description=ZigZag çizgisinin çizimi için kullanılacak en az periyot sayısını belirtir.
+param_Deviation_name=Sapma
+param_Deviation_description=Güncel mumun en yüksek/en düşük değeri bir önceki mumdan daha düşük/yüksek olmalı ve önceki mumdan Geri Adım sayısı kadar geri gidip kontrol edilmesiyle güncel mumun En yüksek/En düşüğünün yeni Max/Min olacağının pip olarak mesafesini gösterir.
+param_Backstep_name=Geri Adım
+param_Backstep_description=Yeni min/max değerinin belirlenmesi için, güncel en yüksek/en düşüğün önceki mumdan sapma ya da daha az miktarda daha düşük/yüksek olduğunu belirlemede kullanılacak periyot sayısını belirler.
+param_Zig_name=Yukarı Salınım
+param_Zag_name=Aşağı salınım
+param_Zig_desc=Yukarı salınımın
+param_Zag_desc=Aşağı salınımın
+param_ZigZag_line_name=ZigZag çizgisinin
+
+[cze]
+codepage=1250
+name=ZigZag
+description=Pomáhá určit nejdůležitější změny a obraty ceny
+param_Depth_name=Hloubka
+param_Depth_description=Minimální počet období pro které je vykreslena jedna ZigZag linie
+param_Deviation_name=Odchylka
+param_Deviation_description=Maximální hodnota v pipech o kterou musí být překonáno předešlé max/min pro prověření, zda se jedná o nové max/min
+param_Backstep_name=Backstep
+param_Backstep_description=Počet period, které definují nové min/max pokud je nové min/max nižší/vyšší, než předchozí
+param_Zig_name=horní obrátky
+param_Zag_name=spodní obrátky
+param_Zig_desc=horní obrátky
+param_Zag_desc=spodní obrátky
+param_ZigZag_line_name=ZigZag linky
+
+[gre]
+codepage=1253
+name=ZigZag
+description=Βοηθά στον καθορισμό των πιο σημαντικών αλλαγών στις τιμές.
+param_Depth_name=Βάθος χρόνου
+param_Depth_description=Ο ελάχιστος αριθμός περιόδων που χρειάζονται για μια γραμμή ZigZag
+param_Deviation_name=Απόκλιση
+param_Deviation_description=Η μέγιστη απόσταση σε pips κατά την οποία το τρέχον υψηλό/χαμηλό πρέπει να είναι υψηλότερο/χαμηλότερο από το προηγούμενο, έτσι ώστε να καθοριστεί εάν υπάρχει νέο υψηλό/χαμηλό για την συγκεκριμένη περίοδο.
+param_Backstep_name=Παρελθόν
+param_Backstep_description=Ο αριθμός των περιόδων που θα χρησιμοποιηθούν για να καθοριστέι εάν εχει διαμορφωθεί νέο υψηλό/χαμηλό σε σχέση με το προηγούμενο υψηλό/χαμηλό κατ' απόκλιση ή λιγότερο.
+param_Zig_name=Ανοδικής Γραμμής
+param_Zag_name=Καθοδικής Γραμμής
+param_Zig_desc=ανοδικής γραμμής
+param_Zag_desc=καθοδικής γραμμής
+param_ZigZag_line_name=γραμμής ZigZag
+
+[jpn]
+codepage=932
+name=シグザグ
+description=最も重要な価格変動及び転換の決定を補助します。
+param_Depth_name=深さ
+param_Depth_description=一つのジグザグラインを描くのに使用する最小期間の数。
+param_Deviation_name=偏差
+param_Deviation_description=最大の距離をPipにて表示します。バックステップ期間に戻るには現在の高値/安値は前回より低い/高い必要があり、現在の高値/安値が新しい最大値/最小値かどうかを確認します。
+param_Backstep_name=バックステップ
+param_Backstep_description=もしも現在の高値/安値が前回より偏差以下で低い/高い場合に、新しい最大値/最小値の決定に使用する期間の数。
+param_Zig_name=Up Swing
+param_Zag_name=Down swing
+param_Zig_desc=Up Swing
+param_Zag_desc=Down swing
+param_ZigZag_line_name=ジグザグ線
+
+[por]
+codepage=1252
+name=ZigZag
+description=Ajuda a determinar as alterações e inversões de preços mais importantes.
+param_Depth_name=Profundidade
+param_Depth_description=O número mínimo de períodos utilizados para desenhar uma linha ZigZag.
+param_Deviation_name=Desvio
+param_Deviation_description=A distância máxima em pips pela qual o máximo/mínimo atual tem de ser mais baixo/mais alto do que o anterior para retornar períodos Backstep e verificar se o máximo/mínimo atual é um novo máx./mín.
+param_Backstep_name=Backstep
+param_Backstep_description=O número de períodos utilizados para definir um novo mín./máx. se o máximo/mínimo atual for mais baixo/mais alto do que o anterior por um Desvio ou menos.
+param_Zig_name=Swing Ascendente
+param_Zag_name=Swing Descendente
+param_Zig_desc=swing ascendente
+param_Zag_desc=swing descendente
+param_ZigZag_line_name=Linha ZigZag
+
+[deu]
+codepage=1252
+name=ZigZag
+description=Beihilfe der Analyse der wichtigsten Preisänderungen.
+param_Depth_name=Tiefe
+param_Depth_description=Die Mindestzahl von Perioden mit der Zigzaglinien aufgezeichnet werden
+param_Deviation_name=Abweichung
+param_Deviation_description=Die maximale Pip-Differenz womit der jetzige Hoch/Tief weniger oder hoeher als die voherige Differenz sein soll.
+param_Backstep_name=Rueckgang
+param_Backstep_description=Zahl der Perioden womit neue Min/Max bestimmt werden wenn die jetzigen Hoch/Tief weniger/hoeher als die Vorherige nach Abweichung oder wenigerem sich befindet.
+param_Zig_name=Up Swing
+param_Zag_name=Up Swing
+param_Zig_desc=Down Swing
+param_Zag_desc=Down Swing
+param_ZigZag_line_name=ZigZag Linie
+
+[hun]
+codepage=0
+name=ZigZag
+description=Segít megállapítani a legfontosabb árfolyam változásokat és fordulópontokat.
+param_Depth_name=Mélység
+param_Depth_description=Beállíthatja a ZigZag megrajzolásához használt minimum periódus értékét.
+param_Deviation_name=Eltérés
+param_Deviation_description=Az a maximális érték, amennyivel aktuális max/min értéknek alacsonyabbnak/magasabbnak kell lennie, mint a legutóbbinak, hogy a Backstep periódus visszatérjen annak ellenőrzéséhez, hogy az aktuális max/min egy új max/min értéknek minősül-e.
+param_Backstep_name=Backstep
+param_Backstep_description=Az új min/max meghatározásához használt periódusok száma, ha az aktuális max/min legfeljebb szórásnyival alacsonyabb/magasabb az előzőnél.
+param_Zig_name=Up Swing
+param_Zag_name=Down Swing
+param_Zig_desc=up swing
+param_Zag_desc=down swing
+param_ZigZag_line_name=ZigZag vonal
+
+[kor]
+codepage=949
+name=
+description=
+param_Depth_name=
+param_Depth_description=
+param_Deviation_name=
+param_Deviation_description=
+param_Backstep_name=
+param_Backstep_description=
+param_Zig_name=
+param_Zag_name=
+param_Zig_desc=
+param_Zag_desc=
+param_ZigZag_line_name=
+

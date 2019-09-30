@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=McGinley Dynamic
+description=McGinley Dynamic Indicator.
+param_MD_line_name=McGinley Dynamic line
+
+[ara]
+codepage=1256
+name=مؤشر ماك جينلي الديناميكي
+description=مؤشر ماك جينلي الديناميكي
+param_MD_line_name=خط الماك جينلي الديناميكي
+
+[chs]
+codepage=936
+name=McGinley动态
+description=McGinley动态指标
+param_MD_line_name=McGinley动态线
+
+[cht]
+codepage=950
+name=McGinley動態
+description=McGinley動態指標
+param_MD_line_name=McGinley動態線
+
+[ctt]
+codepage=950
+name=McGinley動態
+description=McGinley動態指標
+param_MD_line_name=
+
+[deu]
+codepage=1252
+name=McGinley Dynamic
+description=McGinley Dynamic Indikator
+param_MD_line_name=McGinley Dynamic Linie
+
+[esp]
+codepage=1252
+name=Dinámica de McGinley
+description=Indicador dinámico de McGinley
+param_MD_line_name=línea dinámica de McGinley
+
+[fra]
+codepage=1252
+name=Dynamique de McGingley
+description=Indicateur de la Dynamique de McGinley.
+param_MD_line_name=ligne McGinley Dynamic
+
+[jpn]
+codepage=932
+name=McGinley ダイナミック
+description=McGinley ダイナミック指数
+param_MD_line_name=McGinley Dynamicライン
+
+[kor]
+codepage=949
+name=MD (McGinley Dynamic)
+description=McGinley Dynamic 표지
+param_MD_line_name=
+
+[rus]
+codepage=1251
+name=Индикатор МакГинли
+description=Динамический индикатор МакГинли.
+param_MD_line_name=линии индикатора МакГинли
+
+[tur]
+codepage=1254
+name=McGinley Dinamik
+description=McGinley Dinamik Göstergesi.
+param_MD_line_name=McGinley Dinamik çizgisinin
+
+[ita]
+codepage=1252
+name=McGinley Dynamic
+description=McGinley Dynamic Indicator
+param_MD_line_name=linea McGinley Dynamic
+
+[heb]
+codepage=1255
+name=המדד הדינמי של מק'גינלי
+description=המדד הדינמי של מק'גינלי.
+param_MD_line_name=הקו של המדד הדינמי של מק'גינלי
+
+[pol]
+codepage=1250
+name=McGinley Dynamic
+description=Wskaźnik
+param_MD_line_name=linii McGinley Dynamic
+
+[cze]
+codepage=1250
+name=McGinley Dynamic
+description=Indikátor McGinley Dynamic
+param_MD_line_name=linky McGinley Dynamic
+
+[por]
+codepage=1252
+name=Dinâmica de McGinley
+description=Indicador de Dinâmica de McGinley.
+param_MD_line_name=Linha de Dinâmica de McGinley
+
+[gre]
+codepage=1253
+name=McGinley Dynamic
+description=McGinley Dynamic
+param_MD_line_name=γραμμής McGinley Dynamic
+
+[hun]
+codepage=0
+name=McGinley Dynamixc Indikátor
+description=McGinley Dynamixc Indikátor
+param_MD_line_name=McGinley Dynamic indikátor
+

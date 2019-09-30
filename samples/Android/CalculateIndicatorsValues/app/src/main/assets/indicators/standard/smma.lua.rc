@@ -1,0 +1,110 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Smoothed Moving Average
+description=Gives the recent prices an equal weighting to the historic ones.
+param_line_name=Smoothed Moving Average line
+
+[rus]
+codepage=1251
+name=Сглаженное скользящее среднее
+description=Придает равное значение недавним и историческим ценам.
+param_line_name=линии сглаженного скользящего среднего
+
+[ara]
+codepage=1256
+name=المتوسط المتحرك المصقول
+description=يعطي الأسعار الأخيرة وزناً متساوي للأسعار التاريخية.
+param_line_name=خط المتوسط المتحرك المتجانس
+
+[chs]
+codepage=936
+name=平滑移动平均
+description=相比过去价格赋予近期价格一个平均权值
+param_line_name=平滑移动平均线
+
+[cht]
+codepage=950
+name=平滑移動平均
+description=相比過去價格賦予近期價格一個平均權值
+param_line_name=平滑移動平均線
+
+[cze]
+codepage=1250
+name=Vyhlazený klouzavý průměr
+description=Průměr, kde mají všechny historické ceny stejnou váhu
+param_line_name=linky vyhlazeného klouzavého průměru
+
+[deu]
+codepage=1252
+name=Smoothed Moving Average
+description=Gibt den letzten Preisen ein gleiches Gewicht wie den historischen Preisen
+param_line_name=einer Smooted Moving Average Linie
+
+[fra]
+codepage=1252
+name=Moyenne mobile lissée
+description=Donne aux récents prix un poids égal aux prix historiques
+param_line_name=ligne de moyenne mobile lissée
+
+[gre]
+codepage=1253
+name=Smoothed Moving Average
+description=Δίνει στις πρόσφατες τιμές μία ίση στάθμιση με τις προηγούμενες.
+param_line_name=γραμμής του Smoothed Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע מוחלק
+description=נותן למחירים הנוכחיים שווה ערך משוקלל למחירים ההיסטוריים.
+param_line_name=הקו של הממוצע הנע המוחלק
+
+[ita]
+codepage=1252
+name=Media Mobile Smoothed
+description=Fornisce ai prezzi recenti un peso uguale ai dati storici
+param_line_name=linea Smoothed Moving Average
+
+[jpn]
+codepage=932
+name=平滑移動平均
+description=最近のプライスを平滑化して描いた移動平均線です。
+param_line_name=平滑移動平均ライン
+
+[tur]
+codepage=1254
+name=Düzeltilmiş Hareketli Ortalama
+description=Son fiyatlara geçmiş fiyatlarla aynı ağırlığı verir.
+param_line_name=Düzeltilmiş Hareketli Ortalama çizgi
+
+[pol]
+codepage=1250
+name=Wygładzona Średnia Krocząca
+description=Daje obecnym cenom rozkład wagowy cen historycznych.
+param_line_name=lini Wygładzonej Średniej Kroczącej
+
+[por]
+codepage=1252
+name=Média Móvel Nivelada
+description=Dá aos preços recentes uma ponderação igual à dos históricos.
+param_line_name=linha da Média Móvel Nivelada
+
+[esp]
+codepage=1252
+name=Promedio Móvil Suavizado
+description=Da a los precios actuales la misma importancia que los precios históricos.
+param_line_name=línea del Promedio Móvil Suavizado
+
+[hun]
+codepage=0
+name=Simított Mozgóátlag
+description=Olyam mozgóátlag, amely minden árhoz ugyanazt a súlyt rendeli.
+param_line_name=Simított Mozgóátlag
+
+[kor]
+codepage=949
+name=
+description=
+param_line_name=
+

@@ -1,0 +1,254 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Show Time To End
+description=Shows the time remaining to the closing of the current candle.
+param_T_name=Display mode
+param_T_description=Defines whether the time is displayed as time or as percentage or both.
+string_alternative_T_Time=Time
+string_alternative_T_Percentage=Percentage
+string_alternative_T_Both=Both
+param_FC_name=Font
+param_FC_desc=font
+assert_livePrice=The chart must be live price, not history.
+assert_bar=The chart must be bar, not tick.
+
+[rus]
+codepage=1251
+name=Показ времени до конца периода
+description=Показывает время, оставшееся до закрытия текущего периода.
+param_T_name=Отображение
+param_T_description=Определяет, будет ли время отображаться как время, как процент, или оба варианта.
+string_alternative_T_Time=Время
+string_alternative_T_Percentage=Процент
+string_alternative_T_Both=Оба
+param_FC_name=шрифта
+param_FC_desc=шрифта
+assert_livePrice=График должен показывать цены в реальном времени, а не историю цен.
+assert_bar=График должен быть в барах, а не в тиках.
+
+[ara]
+codepage=1256
+name=إظهار الوقت حتى الإنتهاء
+description=يظهر الوقت المتبقي لإغلاق الشمعة الحالية.
+param_T_name=طريقة العرض
+param_T_description=يحدد ما إذا كان الوقت سيتم عرضه مع مرور الوقت أو كنسبة مئوية أو كليهما.
+string_alternative_T_Time=الوقت
+string_alternative_T_Percentage=النسبة المئوية
+string_alternative_T_Both=كليهما
+param_FC_name=حجم
+param_FC_desc=حجم
+assert_livePrice=يجب أن يكون الرسم البياني للأسعار المباشرة، وليس التاريخية.
+assert_bar=ويجب أن يكون الرسم البياني من نوع أعمدة ، وليس من نوع تيك.
+
+[chs]
+codepage=936
+name=显示完结时间
+description=显示当前蜡烛的剩余时间
+param_T_name=显示模式
+param_T_description=定义时间是以时钟还是百分比或两者同时显示
+string_alternative_T_Time=时间
+string_alternative_T_Percentage=百分比
+string_alternative_T_Both=两者
+param_FC_name=字体
+param_FC_desc=字体
+assert_livePrice=图表必须要是实即价格, 并不是历史价格
+assert_bar=图表必须要是棒, 并不能是点线
+
+[cht]
+codepage=950
+name=顯示完結時間
+description=顯示當前蠟燭的剩餘時間
+param_T_name=顯示模式
+param_T_description=定義時間是以時鐘還是百分比或兩者同時顯示
+string_alternative_T_Time=時間
+string_alternative_T_Percentage=百分比
+string_alternative_T_Both=兩者
+param_FC_name=字體
+param_FC_desc=字體
+assert_livePrice=圖表必須要是實即價格, 並不是歷史價格
+assert_bar=圖表必須要是棒, 並不能是點線
+
+[cze]
+codepage=1250
+name=Zobrazit čas do konce periody
+description=Zobrazí čas, který zbývá do uzavření aktuální svíčky.
+param_T_name=Styl zobrazení
+param_T_description=Definuje, zda je čas do uzavření aktuální svíčky zobrazován jako čas, nebo procento. Eventuelně jako obojí najednou.
+string_alternative_T_Time=Čas
+string_alternative_T_Percentage=Procento
+string_alternative_T_Both=Čas + Procento
+param_FC_name=fontu
+param_FC_desc=fontu
+assert_livePrice=Graf musí zobrazovat aktuální cenu, ne historickou
+assert_bar=Graf musí být s delší periodou, než tick.
+
+[deu]
+codepage=1252
+name=Zeit bis Ende anzeigen
+description=Zeigt die verbleibende Zeit bis zur Schließung der aktuellen Kerze an.
+param_T_name=Anzeigemodus
+param_T_description=Definiert, ob die Zeit als Zeit, prozentual oder beides angezeigt wird
+string_alternative_T_Time=Zeit
+string_alternative_T_Percentage=Prozent
+string_alternative_T_Both=Beides
+param_FC_name=Schrift
+param_FC_desc=Schrift
+assert_livePrice=Der Chart muss Live Preise haben, nicht historische.
+assert_bar=Der Chart muss Bars haben, keine Ticks
+
+[fra]
+codepage=1252
+name=Montrer temps jusqu'à la fin
+description=Montre le temps restant avant la fermeture de la bougie actuelle
+param_T_name=Mode d'affichage
+param_T_description=Définit si le temps est affiché en pourcentage, temps ou les deux
+string_alternative_T_Time=Temps
+string_alternative_T_Percentage=Pourcentage
+string_alternative_T_Both=Les deux
+param_FC_name=police
+param_FC_desc=police
+assert_livePrice=Le graphique doit être un prix en temps réel et non un historique
+assert_bar=Le graphique doit être en barres et non en tick
+
+[gre]
+codepage=1253
+name=Show Time To End
+description=Δείχνει το χρόνο που απομένει μέχρι το κλείσιμο του τρέχοντος κεριού.
+param_T_name=Μέθοδος Προβολής
+param_T_description=Καθορίζει αν ο χρόνος εμφανίζεται ως χρόνος ή ως ποσοστό ή και τα δύο.
+string_alternative_T_Time=Χρόνος
+string_alternative_T_Percentage=Ποσοστό
+string_alternative_T_Both=Και τα δύο
+param_FC_name=γραμματοσειράς
+param_FC_desc=γραμματοσειράς
+assert_livePrice=Το διάγραμμα πρέπει να απεικονίζει live τιμές, όχι παλιότερες.
+assert_bar=Το διάγραμμα πρέπει να είναι σε ράβδους, όχι σε tick.
+
+[heb]
+codepage=1255
+name=הצג זמן עד נעילה
+description=מציג כמה זמן נותר עד לנעילת הנר הנוכחי.
+param_T_name=מצב תצוגה
+param_T_description=מגדיר האם הזמן הנותר יוצג ביחידות זמן או באחוזים או בשני האופנים.
+string_alternative_T_Time=זמן
+string_alternative_T_Percentage=אחוז
+string_alternative_T_Both=שניהם
+param_FC_name=גופן
+param_FC_desc=הגופן
+assert_livePrice=הגרף חייב להיות גרף חי ולא גרף של מחירי עבר.
+assert_bar=הגרף חייב להיות גרף עמודות ולא גרף טיק.
+
+[ita]
+codepage=1252
+name=Mostra Tempo alla Fine
+description=Mostra il tempo rimanente alla chiusura della candela corrente
+param_T_name=Modalità visualizzazione
+param_T_description=Definisce
+string_alternative_T_Time=Tempo
+string_alternative_T_Percentage=Percentuale
+string_alternative_T_Both=Entrambi
+param_FC_name=font
+param_FC_desc=font
+assert_livePrice=Il grafico deve essere un prezzo reale, non storico
+assert_bar=Il grafico deve essere a barre, non tick
+
+[jpn]
+codepage=932
+name=Time To Endを表示する
+description=現在のローソクの残り時間表示する
+param_T_name=表示　モード
+param_T_description=残り時間表示を時間、パーセント、もしくはそれら両方で表示する
+string_alternative_T_Time=時間
+string_alternative_T_Percentage=パーセント
+string_alternative_T_Both=両方
+param_FC_name=フォント
+param_FC_desc=フォント
+assert_livePrice=チャートはライブで、過去のデータは使えません
+assert_bar=チャートはバーチャートで、ティックチャートは使えません
+
+[tur]
+codepage=1254
+name=Bitişe Kalan Zamanı Göster
+description=Mevcut mumun bitişine kalan zamanı gösterir.
+param_T_name=Görüntüleme modu
+param_T_description=Zamanın, yüzde olarak mı yoksa zaman olarak mı gösterileceğini belirler.
+string_alternative_T_Time=Zaman
+string_alternative_T_Percentage=Yüzde
+string_alternative_T_Both=Her ikisi
+param_FC_name=Yazı tipi
+param_FC_desc=Yazı tipinin
+assert_livePrice=Grafik gerçek zamanlı olmalı, geçmiş zamana ait olmamalı.
+assert_bar=Grafik çubuk grafiği olmalı, tik grafiği olmamalı.
+
+[pol]
+codepage=1250
+name=Pokaż czas do końca
+description=Pokaż czas pozostały do zamknięcia obecnej świecy.
+param_T_name=Tryb wyświetlania
+param_T_description=Określa czy czas jest wyświetlany w formie standardowej czy procentowej lub przy wykorzystaniu obu sposobów.
+string_alternative_T_Time=Czas
+string_alternative_T_Percentage=Procent
+string_alternative_T_Both=Oba
+param_FC_name=czcionki
+param_FC_desc=czcionki
+assert_livePrice=Znak musi być ceną aktualną, a nie historyczną.
+assert_bar=Znak musi być polem, a nie "haczykiem".
+
+[por]
+codepage=1252
+name=Mostrar tempo até ao fim
+description=Mostra o tempo que falta até ao fecho da vela atual.
+param_T_name=Modo de apresentação
+param_T_description=Define se o tempo é apresentado como um valor de tempo, de percentagem ou ambos.
+string_alternative_T_Time=Tempo
+string_alternative_T_Percentage=Percentagem
+string_alternative_T_Both=Ambos
+param_FC_name=Tipo de letra
+param_FC_desc=tipo de letra
+assert_livePrice=O gráfico tem de ser de preços atuais, não históricos
+assert_bar=O gráfico tem de ser de barras, não de ticks
+
+[esp]
+codepage=1252
+name=Mostrar tiempo en el que finaliza
+description=Mostrar el tiempo restante para el cierre de la vela actual
+param_T_name=Modo de presentación
+param_T_description=Define si el tiempo se muestra ya sea en tiempo o porcentaje o en ambos
+string_alternative_T_Time=Tiempo
+string_alternative_T_Percentage=Porcentaje
+string_alternative_T_Both=Ambos
+param_FC_name=fuente
+param_FC_desc=fuente
+assert_livePrice=El grafico debe de mostrar precios actualizados no precios históricos
+assert_bar=El grafico debe de ser en barras no en ticks
+
+[hun]
+codepage=0
+name=Zárásig hátralévő idő
+description=Megmutatja mennyi idő múlva záródik egy adott gyertya.
+param_T_name=Megjelenítés módja
+param_T_description=Beállíthatja, hogy az indikátor a hátralévő időt, a százalékot vagy mindkettőt mutassa.
+string_alternative_T_Time=Idő
+string_alternative_T_Percentage=Százalék
+string_alternative_T_Both=Mindkettő
+param_FC_name=Szövegtípus
+param_FC_desc=Betűtípus
+assert_livePrice=Élő árakat kell használni, a historikus adatok nem alkalmazhatóak.
+assert_bar=A grafikon nem lehet tick alapú.
+
+[kor]
+codepage=949
+name=
+description=
+param_T_name=
+param_T_description=
+string_alternative_T_Time=
+string_alternative_T_Percentage=
+string_alternative_T_Both=
+param_FC_name=
+param_FC_desc=
+assert_livePrice=
+assert_bar=
+

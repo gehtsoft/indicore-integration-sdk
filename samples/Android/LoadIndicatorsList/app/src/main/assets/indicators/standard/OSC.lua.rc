@@ -1,0 +1,192 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=OSC Oscillator
+description=Compares where a security price closed relative to its price range over a given time period.
+param_N_name=Fast MA periods
+param_N_description=The number of periods to calculate the fast moving average.
+param_M_name=Slow MA periods
+param_M_description=The number of periods to calculate the slow moving average.
+param_OSC_line_name=Oscillator line
+
+[ara]
+codepage=1256
+name=مؤشر المذبذبات
+description=يقارن سعر الاغلاق مع معدل تحرك السعر خلال فترة معينة
+param_N_name=فترات MA السريع
+param_N_description=عدد الفترات لحساب المتوسط المتحرك السريع.
+param_M_name=فترات MA البطيئ
+param_M_description=عدد الفترات لحساب المتوسط المتحرك البطيء.
+param_OSC_line_name=خط مؤشر المذبذبات
+
+[chs]
+codepage=936
+name=摆荡指标
+description=对比收盘价与过去某一时期的交易区间
+param_N_name=快MA时期
+param_N_description=计算快平均时期数目
+param_M_name=慢MA时期
+param_M_description=计算慢平均时期数目
+param_OSC_line_name=摆荡指标线
+
+[cht]
+codepage=950
+name=擺盪指標
+description=對比收盤價與過去某一時期的交易區間
+param_N_name=快MA時期
+param_N_description=計算快平均時期數目
+param_M_name=慢MA時期
+param_M_description=計算慢平均時期數目
+param_OSC_line_name=擺盪指標線
+
+[ctt]
+codepage=950
+name=擺盪指標
+description=對比收盤價與過去某一時期的交易區間
+param_N_name=
+param_N_description=
+param_M_name=
+param_M_description=
+param_OSC_line_name=
+
+[deu]
+codepage=1252
+name=OSC Oszillator
+description=Zieht einen verhältnismäßigen Vergleich zwischen dem Schlusspreis eines Wertpapiers und der Kursspanne über einer gewissen Zeitspanne
+param_N_name=Fast MA Perioden
+param_N_description=Die Anzahl der Perioden um den Fast Moving Average zu berechnen
+param_M_name=Slow MA Perioden
+param_M_description=Die Anzahl der Perioden um den Slow Moving Average zu berechnen
+param_OSC_line_name=Oszilatorenlinie
+
+[esp]
+codepage=1252
+name=Oscilador OSC
+description=Compara el precio de un título de valor con respecto a su rango de precios dado en un lapso de tiempo determinado.
+param_N_name=Periodos rápidos MA
+param_N_description=Numero de periodos para calcular el promedio móvil rápido
+param_M_name=Periodos lento MA
+param_M_description=Numero de periodos para calcular el promedio móvil lento
+param_OSC_line_name=línea Osciladora.
+
+[fra]
+codepage=1252
+name=Oscillateur OSC
+description=Compare la où un prix à clôturé en rapport à un prix sur une période donnée.
+param_N_name=Périodes MA rapide
+param_N_description=Le nombre de périodes pour calculer une moyenne mobile rapide
+param_M_name=Périodes MA lente
+param_M_description=Le nombre de périodes pour calculer une moyenne mobile lente
+param_OSC_line_name=ligne de l'oscillateur
+
+[jpn]
+codepage=932
+name=OSC オシレーター（相対性指数）
+description=クローズされたセキュリティープライスと特定の期間のプライスレンジの関連性を比較します
+param_N_name=Fast MA 期間
+param_N_description=Fast Moving Averageを計算する期間
+param_M_name=Slow MA 期間
+param_M_description=Slow Moving Averageを計算する期間
+param_OSC_line_name=Oscillatorライン
+
+[kor]
+codepage=949
+name=OSC (OSC Oscillator)
+description=주어진 기간의 가격 범위네에서 닫힌 담보가격 비교
+param_N_name=장기간 정하기
+param_N_description=긴 단순 이동평균의 기간 개수
+param_M_name=단기간 정하기
+param_M_description=짧은 단순 이동평균의 기간 개수
+param_OSC_line_name=
+
+[rus]
+codepage=1251
+name=Осциллятор OSC
+description=Показывает отношение цены, по которой период бы закрыт, с диапазоном цен за этот период.
+param_N_name=Периоды для быстрого MA
+param_N_description=Количество периодов для расчета быстрого скользящего среднего.
+param_M_name=Периоды для медленного MA
+param_M_description=Количество периодов для расчета медленного скользящего среднего.
+param_OSC_line_name=линии осциллятора OSC
+
+[tur]
+codepage=1254
+name=OSC Osilatörü
+description=Belirtilen zaman periyodunda kapanış fiyatının fiyat aralığına göre yerini karşılaştırır.
+param_N_name=Hızlı HO periyotları
+param_N_description=Hızlı hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_M_name=Yavaş HO periyotları
+param_M_description=Yavaş hareketli ortalamayı hesaplamak için kullanılacak periyotların sayısı.
+param_OSC_line_name=Osilatör çizgisinin
+
+[ita]
+codepage=1252
+name=OSC Oscillator
+description=Paragona la chiusura più recente di un attività finanziaria con la sua escursione calcolata su un dato periodo temporale
+param_N_name=MA veloce
+param_N_description=Il numero di periodi per calcolare la media mobile veloce di una media di prezzi
+param_M_name=MA lenta
+param_M_description=Il numero di periodi per calcolare la media mobile lenta di una media di prezzi
+param_OSC_line_name=linea dell'Oscillatore
+
+[heb]
+codepage=1255
+name=מתנד OSC
+description=בוחן את מחיר הסגירה ביחס לטווח המחיר בתקופה הנתונה.
+param_N_name=תקופות ממוצע נע מהיר
+param_N_description=מספר התקופות לחישוב הממוצע הנע המהיר.
+param_M_name=תקופות ממוצע נע איטי
+param_M_description=מספר התקופות לחישוב הממוצע הנע האיטי.
+param_OSC_line_name=הקו של המתנד
+
+[pol]
+codepage=1250
+name=Oscylator zwykły
+description=Porównuje gdzie cena zamknęła się w relacji do zakresu osiąganego w danym okresie
+param_N_name=Okresy szybkiej MA
+param_N_description=Liczba okresów do kalkulacji szybkiej średniej kroczącej.
+param_M_name=Okresy wolnej MA
+param_M_description=Liczba okresów do kalkulacji wolnej średniej kroczącej.
+param_OSC_line_name=linii oscylatora
+
+[cze]
+codepage=1250
+name=OSC Oscilátor
+description=Porovnává, kde cena uzavřela ve vztahu k rozpětí cen za určité období
+param_N_name=Periody pro rychlý klouzavý průměr
+param_N_description=Počet period pro výpočet rychlého klouzavého průměru.
+param_M_name=Periody pro pomalý klouzavý průměr
+param_M_description=Počet period pro výpočet pomalého klouzavého průměru.
+param_OSC_line_name=linky oscilátoru
+
+[por]
+codepage=1252
+name=Oscilador OSC
+description=Compara o preço em que um título de valor fecha relativo ao seu intervalo de preços, dado um lapso de tempo determinado.
+param_N_name=Períodos de MM rápida
+param_N_description=O número de períodos para calcular a média móvel rápida.
+param_M_name=Períodos de MM lenta
+param_M_description=O número de períodos para calcular a média móvel lenta.
+param_OSC_line_name=Linha do oscilador
+
+[gre]
+codepage=1253
+name=Ταλαντωτής OSC
+description=Συγκρίνει το κλείσιμο της τιμής ενός αξιόγραφου σε σχέση με τα όρια διακύμανσής της μέσα σε μια συγκεκριμένη χρονική περίοδο.
+param_N_name=Περίοδοι γρήγορου ΚΜΟ
+param_N_description=Ο αριθμός των περιόδων που υπολογίζεται ο γρήγορος κινητός μέσος όρος.
+param_M_name=Περίοδοι αργού ΚΜΟ
+param_M_description=Ο αριθμός των περιόδων που υπολογίζεται ο αργός κινητός μέσος όρος.
+param_OSC_line_name=γραμμής Oscillator
+
+[hun]
+codepage=0
+name=OSC Oscillátor
+description=Megmutatja, hogy egy instrumentum hol zár egy időszak árfolyamsávjához képest.
+param_N_name=Gyors mozgóátlag periódusa
+param_N_description=Beállíthatja a gyors mozgóátlag periódusa értékét.
+param_M_name=Lassú mozgóátlag periódusa
+param_M_description=Beállíthatja a lassú mozgóátlag periódusa értékét.
+param_OSC_line_name=Oszcillátor 
+

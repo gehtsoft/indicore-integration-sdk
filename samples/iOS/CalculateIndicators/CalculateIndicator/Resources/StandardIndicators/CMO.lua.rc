@@ -1,0 +1,110 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Chande Momentum Oscillator
+description=Measures overbought and oversold levels, trendiness and divergence based on the recent losses and gains.
+param_CMO_line_name=Chande Momentum line
+
+[rus]
+codepage=1251
+name=Осциллятор ценовых моментов Чанде
+description=Измеряет уровни перекупленности и перепроданности, силу тренда и расхождение, основываясь на недавних прибылях и убытках.
+param_CMO_line_name=линии ценовых моментов Чанде
+
+[ara]
+codepage=1256
+name=مؤشر Chande Momentum Oscillator
+description=يقيس مستويات الزيادة بالشراء والزيادة بالبيع، الاتجاه والاختلاف على أساس الأرباح والخسائر الأخيرة.
+param_CMO_line_name=الخط الخاص بمؤشر تشاند للزخم
+
+[chs]
+codepage=936
+name=钱德动量摆动指标
+description=根据最近亏损及盈利, 量度超买及超卖水平, 趋势及背驰
+param_CMO_line_name=钱德动量摆动线
+
+[cht]
+codepage=950
+name=錢德動量擺動指標
+description=根據最近虧損及盈利, 量度超買及超賣水平, 趨勢及背馳
+param_CMO_line_name=錢德動量擺動線
+
+[cze]
+codepage=1250
+name=Chande Momentum Oscilátor
+description=Meří hranice přeprodanosti a překoupenosti, trendovost a divergenci na základě minulých zisků a ztrát.
+param_CMO_line_name=linky Chande Momentum Oscilátoru
+
+[deu]
+codepage=1252
+name=Chande Momentum Oszillator
+description=Misst überkauft und überverkauft Level, Trendstärke und Divergenz auf Basis der kürzlichen Verluste und Gewinne.
+param_CMO_line_name=Chande Momentum Linie
+
+[fra]
+codepage=1252
+name=Oscillateur Momemtum Chande
+description=Mesure les niveaux de surachat et survente, la tendance et la divergence sur la base des récents gains et pertes
+param_CMO_line_name=ligne Chande Momentum
+
+[gre]
+codepage=1253
+name=Ταλαντωτής Chande Momentum
+description=Μετρά τα υπεραγορασμένα και υπερπουλημένα επίπεδα, την τάση και την απόκλιση με βάση τις πρόσφατες απώλειες και κέρδη.
+param_CMO_line_name=γραμμής του Chande Momentum
+
+[heb]
+codepage=1255
+name=מתנד המומנטום של צ'נדה
+description=מודד מכירת-יתר וקניית-יתר, מגמתיות וסטייה, בהתאם לעליות והירידות האחרונות.
+param_CMO_line_name=קו המומנטום של אינדיקטור שאנדה
+
+[ita]
+codepage=1252
+name=Chande Momentum Oscillator
+description=Misura livelli di ipercomprato e ipervenduto, tendenza e divergenza basati sui recenti guadagni e perdite
+param_CMO_line_name=linea del Chande Momentum
+
+[jpn]
+codepage=932
+name=シャンデ・モメンタム・オシレーター
+description=最近の騰落に基づき、トレンド発生の有無や売られすぎ・買われすぎ水準を測ります。
+param_CMO_line_name=CMO ライン
+
+[tur]
+codepage=1254
+name=Chande Momentum Osilatörü
+description=Son kayıp ve kazançlara dayanarak aşırı alış ve aşırı satış seviyelerini, trend durumunu ve sapmaları ölçer.
+param_CMO_line_name=Chande Momentum çizgi
+
+[pol]
+codepage=1250
+name=Chande Momentum Oscillator
+description=Mierzy poziom nadwymiarowych zakupów i sprzedaży, trend i zbieżność oparta na ostatnich stratach i zyskach.
+param_CMO_line_name=Chande Momentum line
+
+[por]
+codepage=1252
+name=Oscilador de Movimento de Chande
+description=Mede os níveis de sobrecompra e de sobrevenda, as tendências e a divergência com base nas perdas e ganhos recentes.
+param_CMO_line_name=Linha de Movimento de Chande
+
+[esp]
+codepage=1252
+name=Oscilador Momentum Chande
+description=Mida niveles de sobrecompra o sobreventa, tendencia y divergencia basado en recientes perdidas y ganancias
+param_CMO_line_name=línea Momentum Chande
+
+[hun]
+codepage=0
+name=Chande Momentum Oscillator
+description=Az indikátor a túlvett és a túladott szinteket, a trend erősségét és a divergenciákat méri a friss árfolyammozgások fényében.
+param_CMO_line_name=Chande Momentum oszcillátor
+
+[kor]
+codepage=949
+name=
+description=
+param_CMO_line_name=
+

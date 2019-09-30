@@ -1,0 +1,128 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=On Balance Volume
+description=Relates volume to price change.
+param_V_line_name=On Balance Volume line
+assert_hasVolume=The source must have volume.
+
+[rus]
+codepage=1251
+name=Индикатор балансового объема
+description=Связывает объем с изменение цены.
+param_V_line_name=линии индикатора балансового объема
+assert_hasVolume=Источник данных должен содержать объем.
+
+[ara]
+codepage=1256
+name=على حجم الرصيد
+description=يربط الحجم مع تغير الأسعار.
+param_V_line_name=الخط الخاص بمؤشر حجم الرصيد
+assert_hasVolume=يجب أن يتوفر حجم للمصدر.
+
+[chs]
+codepage=936
+name=能量分析
+description=与价格变动量有关
+param_V_line_name=能量分析线
+assert_hasVolume=来源必须要有价格量
+
+[cht]
+codepage=950
+name=能量分析
+description=與價格變動量有關
+param_V_line_name=能量分析線
+assert_hasVolume=來源必須要有價格量
+
+[cze]
+codepage=1250
+name=Objem za periodu
+description=Propojuje objem s cenovou změnou.
+param_V_line_name=linky On Balance Volume
+assert_hasVolume=Zdrojová data neobsahují objem.
+
+[deu]
+codepage=1252
+name=On Balance Volumen
+description=Setzt Volumen zur Preisveränderung ins Verhältnis
+param_V_line_name=On Balance Volumen Linie
+assert_hasVolume=Die Quelle muss Volumen haben
+
+[fra]
+codepage=1252
+name=On Balance Volume
+description=Relie le volume aux changements de prix
+param_V_line_name=ligne du On Balance Volume
+assert_hasVolume=La source doit avoir un volume
+
+[gre]
+codepage=1253
+name=On Balance Volume
+description=Συσχετίζει τον όγκο με την μεταβολή των τιμών.
+param_V_line_name=γραμμής του On Balance Volume.
+assert_hasVolume=Η πηγή πρέπει να έχει όγκο.
+
+[heb]
+codepage=1255
+name=נפח מאוזן
+description=משווה את הנפח לשינוי במחיר.
+param_V_line_name=קו הנפח המאוזן
+assert_hasVolume=המקור חייב להיות בעל נפח.
+
+[ita]
+codepage=1252
+name=Bilanciato sul volume
+description=Collega il volume alla variazione del prezzo
+param_V_line_name=linea dell'On Balance Volume
+assert_hasVolume=La sorgente deve avere un volume
+
+[jpn]
+codepage=932
+name=On Balance Volume
+description=価格変化にプライスを連動させる
+param_V_line_name=OBV ライン
+assert_hasVolume=ボリュームが伴わないと無効です
+
+[tur]
+codepage=1254
+name=Denge İşlem Hacmi
+description=Hacim ile fiyat değişikliklerini ilişkilendirir.
+param_V_line_name=Denge İşlem Hacmi çizgi
+assert_hasVolume=Kaynak hacim olmalı.
+
+[pol]
+codepage=1250
+name=On Balance Volume
+description=Odnosi wolumen do zmiany ceny.
+param_V_line_name=On Balance Volume line
+assert_hasVolume=Źródło musi posiadać wolumen
+
+[por]
+codepage=1252
+name=Gráfico do Volume de Transações
+description=Relaciona o volume com as variações de preços.
+param_V_line_name=Linha do Gráfico do Volume de Transações
+assert_hasVolume=A origem tem de ter um volume.
+
+[esp]
+codepage=1252
+name=Volumen en balance
+description=Relación del volumen al cambio del precio
+param_V_line_name=línea On Balance Volume
+assert_hasVolume=El origen debe de tener volumen
+
+[hun]
+codepage=0
+name=On Balance Volume
+description=Az indikátor összekapcsolja az árfolyamváltozásokat a forgalommal.
+param_V_line_name=OBV indikátor
+assert_hasVolume=A forrásnak rendelkeznie kell forgalmi adatokkal.
+
+[kor]
+codepage=949
+name=
+description=
+param_V_line_name=
+assert_hasVolume=
+

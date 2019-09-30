@@ -1,0 +1,1 @@
+Run strategy and prints it alerts.

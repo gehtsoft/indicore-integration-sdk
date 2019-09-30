@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="24dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/parameterNameTextView"
+        style="@style/AppTheme.ParameterNameTextView"
+        tools:text="parameter name"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="102dp"
+            android:background="@android:color/darker_gray"/>
+
+        <View
+            android:id="@+id/colorView"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="1dp"
+            android:background="@android:color/white"/>
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <TextView
+            android:id="@+id/rValueTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            tools:text="344"/>
+
+        <SeekBar
+            android:id="@+id/rSeekBar"
+            style="@style/AppTheme.ColorSeekBar"
+            android:layout_toLeftOf="@+id/rValueTextView"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <TextView
+            android:id="@+id/gValueTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            tools:text="344"/>
+
+        <SeekBar
+            android:id="@+id/gSeekBar"
+            style="@style/AppTheme.ColorSeekBar"
+            android:layout_toLeftOf="@+id/gValueTextView"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp">
+
+        <TextView
+            android:id="@+id/bValueTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            tools:text="344"/>
+
+        <SeekBar
+            android:id="@+id/bSeekBar"
+            style="@style/AppTheme.ColorSeekBar"
+            android:layout_toLeftOf="@+id/bValueTextView"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/okButton"
+        style="@style/AppTheme.ConfirmButton" />
+
+</LinearLayout>

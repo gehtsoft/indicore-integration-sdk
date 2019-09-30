@@ -1,0 +1,249 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Bollinger Band
+description=Provides a relative definition of high and low based on standard deviations and a simple moving average.
+param_Dev_name=Number of standard deviations
+param_Dev_description=The number of standard deviations.
+param_BBB_line_name=Band lines
+param_BBB_line_desc=upper and lower lines of the band
+param_BBA_line_name=Average line
+param_BBA_line_desc=average line of the band
+param_HideA_name=Hide average line
+param_HideA_description=Defines whether the BB average line is hidden.
+
+[ara]
+codepage=1256
+name=بولينجير باند
+description=تقديم التعريف النسبي الأعلى والأدنى المعتمدة على الانحراف المعياري والمتوسط المتحرك البسيط
+param_Dev_name=عدد الانحرافات المعيارية
+param_Dev_description=عدد الانحرافات المعيارية
+param_BBB_line_name=الخط الخاص بمؤشر BB
+param_BBB_line_desc=الخط الخاص بالخط الأعلى واالأدنى لمؤشر BB
+param_BBA_line_name=الخط المتوسط
+param_BBA_line_desc=الخط المتوسط لمؤشر BB
+param_HideA_name=إخفاء الخط المتوسط
+param_HideA_description=تحديد ما إذا كان خط متوسط BB مخفي
+
+[chs]
+codepage=936
+name=保力加通道
+description=基础于标准差及移动平均线提供相关高及低的定义
+param_Dev_name=标准差数目
+param_Dev_description=标准差数目
+param_BBB_line_name=轨道线
+param_BBB_line_desc=上下轨道线
+param_BBA_line_name=平均线
+param_BBA_line_desc=平均线
+param_HideA_name=隐藏平均线
+param_HideA_description=定义保力加平均线是否被隐藏
+
+[cht]
+codepage=950
+name=保力加通道
+description=基礎於標準差及移動平均線提供相關高及低的定義
+param_Dev_name=標準差數目
+param_Dev_description=標準差數目
+param_BBB_line_name=軌道線
+param_BBB_line_desc=上下軌道線
+param_BBA_line_name=平均線的
+param_BBA_line_desc=平均線通道的
+param_HideA_name=隱藏平均線
+param_HideA_description=定義保力加平均線是否被隱藏
+
+[ctt]
+codepage=950
+name=保力加通道
+description=基礎於標準差及移動平均線提供相關高及低的定義
+param_Dev_name=標準差數目
+param_Dev_description=標準差數目
+param_BBB_line_name=
+param_BBB_line_desc=
+param_BBA_line_name=
+param_BBA_line_desc=
+param_HideA_name=
+param_HideA_description=
+
+[deu]
+codepage=1252
+name=Bollinger Band
+description=Leistet eine verhältnismäßige Definition von Hoch- und Tiefpunkten aufgrund Standardabweichungen und gleitenden Durcschnitts
+param_Dev_name=Anzahl der Standardabweichungen
+param_Dev_description=Anzahl von Standardabweichungen
+param_BBB_line_name=Bänderlinien
+param_BBB_line_desc=oberen und unteren Linie der Bänder
+param_BBA_line_name=Durchschnittswertzeile
+param_BBA_line_desc=Durchschnittswertzeile
+param_HideA_name=Durchschnittslinie umhüllen
+param_HideA_description=Bestimmt ob die BB Durchschnittslinie ausgeblendet ist.
+
+[esp]
+codepage=1252
+name=Banda Bollinger
+description=Provee una definición relativa de alto y bajo basado en desviaciones estándar y un promedio móvil simple
+param_Dev_name=Número de desviaciones estándar
+param_Dev_description=El número de desviaciones estándar
+param_BBB_line_name=líneas de las bandas
+param_BBB_line_desc=líneas superiores e inferiores de la banda
+param_BBA_line_name=línea de promedio
+param_BBA_line_desc=línea de promedio de la banda
+param_HideA_name=Ocultar la línea promedio
+param_HideA_description=Define si la línea del promedio BB esta oculto.
+
+[fra]
+codepage=1252
+name=Bandes de Bollinger
+description=Fournit une définition relative de Haut et de Bas, basée sur des écart-types et une moyenne mobile simple.
+param_Dev_name=Nombre d'écart-types
+param_Dev_description=Le nombre d'écart-types
+param_BBB_line_name=lignes de Bande
+param_BBB_line_desc=lignes supérieure et inférieure de la bande
+param_BBA_line_name=ligne de moyenne
+param_BBA_line_desc=ligne de moyenne
+param_HideA_name=Masquer la ligne moyenne
+param_HideA_description=Définit si la ligne moyenne de BB est masquée
+
+[jpn]
+codepage=932
+name=ボリンジャーバンド
+description=逸脱数と単純移動平均に基づいた相対的な定義を提供します
+param_Dev_name=逸脱数
+param_Dev_description=逸脱数
+param_BBB_line_name=バンドライン
+param_BBB_line_desc=上下バンドライン
+param_BBA_line_name=平均線
+param_BBA_line_desc=平均線
+param_HideA_name=平均線を隠す
+param_HideA_description=BB平均線を隠すか決定します。
+
+[kor]
+codepage=949
+name=볼린저밴드
+description=표준 편차 와 간단한 이동평균에 대한 높음 와 낮음에 관계있는 정의 제공
+param_Dev_name=표준 편차의 개수
+param_Dev_description=표준 편차의 개수
+param_BBB_line_name=
+param_BBB_line_desc=
+param_BBA_line_name=
+param_BBA_line_desc=
+param_HideA_name=
+param_HideA_description=
+
+[rus]
+codepage=1251
+name=Полосы Боллинджера
+description=Определяет относительные максимум и минимум на основе стандартных отклонений и простого скользящего среднего.
+param_Dev_name=Количество стандартных отклонений
+param_Dev_description=Количество стандартных отклонений.
+param_BBB_line_name=линий ленты
+param_BBB_line_desc=верхней и нижней линий ленты
+param_BBA_line_name=средней линии
+param_BBA_line_desc=средней линии
+param_HideA_name=Скрыть среднюю линию
+param_HideA_description=Определяет, будет ли скрыта средняя линия BB.
+
+[tur]
+codepage=1254
+name=Bollinger Bandı
+description=Standart sapma ve basit hareketli ortalama ile düşük ve yüksek seviyeleri göreli olarak belirtir.
+param_Dev_name=Standart sapmaların sayısı
+param_Dev_description=Standart sapmaların sayısı.
+param_BBB_line_name=Bant çizgileri
+param_BBB_line_desc=Alt ve üst bant çizgilerinin
+param_BBA_line_name=Ortalama çizgisinin
+param_BBA_line_desc=Bandın ortalama çizgisinin
+param_HideA_name=Ortalama çizgisini gizle
+param_HideA_description=BB ortalama çizgisinin gizlenip gizlenmeyeceğini belirtir.
+
+[ita]
+codepage=1252
+name=Bollinger Band
+description=Fornisce una definizione relativa di high e low basata su standard deviations e una simple moving average
+param_Dev_name=Numero di standard deviation
+param_Dev_description=Il numero di standard deviation
+param_BBB_line_name=Band lines
+param_BBB_line_desc=linea superiore ed inferiore della banda
+param_BBA_line_name=linea della media
+param_BBA_line_desc=linea media della banda
+param_HideA_name=Nascondi average line
+param_HideA_description=Definisce se la media di BB è nascosta
+
+[heb]
+codepage=1255
+name=רצועת בולינג'ר
+description=מספר אומדן של גבולות טווח המחיר על בסיס חישוב סטיות תקן וממוצעים נעים.
+param_Dev_name=מספר סטיות התקן
+param_Dev_description=מספר סטיות התקן.
+param_BBB_line_name=קווי הרצועות
+param_BBB_line_desc=הרצועות העליונות והתחתונות
+param_BBA_line_name=קו הממוצע
+param_BBA_line_desc=הקו של רצועת הממוצע
+param_HideA_name=הסתר קו ממוצע
+param_HideA_description=מגדיר האם קו ממוצעי BB יוסתר
+
+[pol]
+codepage=1250
+name=Wstęga Bollingera
+description=Definicja możliwego zakresu ruchu w górę i w dół oparta na odchyleniu standardowym i zwykłej średniej kroczącej
+param_Dev_name=Krotność odchyleń standardowych
+param_Dev_description=Krotność odchyleń standardowych
+param_BBB_line_name=linii wstęgi
+param_BBB_line_desc=dolnej i górnej linii wstęgi
+param_BBA_line_name=linii średniej
+param_BBA_line_desc=linii średniej kroczącej wstęgi
+param_HideA_name=Ukryj linię średniej kroczącej
+param_HideA_description=Określa, czy średnia krocząca wstęgi Bollingera jest ukryta.
+
+[cze]
+codepage=1250
+name=Bollingerovy pásy
+description=Poskytuje relativní definici maxim a minim na principu standardních odchylek a jednoduchého klouzavého průměru.
+param_Dev_name=Počet standardních odchylek
+param_Dev_description=Počet standardních odchylek.
+param_BBB_line_name=Bollingerových pásů
+param_BBB_line_desc=spodních a horních Bollingerových pásů
+param_BBA_line_name=linky průměru
+param_BBA_line_desc=průměrné linky pro skupinu
+param_HideA_name=Skrýt střední linku
+param_HideA_description=Definovat, zda je zobrazena, nebo skryta střední linka Bollingerových pásů
+
+[por]
+codepage=1252
+name=Banda de Bollinger
+description=Fornece uma definição relativa de máximo e mínimo com base em desvios padrão e numa média móvel simples.
+param_Dev_name=Número de desvios padrão
+param_Dev_description=O número de desvios padrão.
+param_BBB_line_name=Linhas de banda
+param_BBB_line_desc=Linhas superiores e inferiores da banda
+param_BBA_line_name=Linha de média
+param_BBA_line_desc=Linha de média da banda
+param_HideA_name=Ocultar linha de média
+param_HideA_description=Define se a linha de média da BB é oculta.
+
+[gre]
+codepage=1253
+name=Bollinger Band
+description=Παρέχει ένα σχετικό ορισμό του ανώτερου και του κατώτερου ορίου βάσει τυπικών αποκλίσεων και έναν απλό κινητό μέσο όρο.
+param_Dev_name=Αριθμός τυπικών αποκλίσεων
+param_Dev_description=Ο αριθμός των τυπικών αποκλίσεων.
+param_BBB_line_name=Bollinger Bands
+param_BBB_line_desc=επάνω και της κάτω γραμμής των Βollinger Bands
+param_BBA_line_name=γραμμής μέσου όρου
+param_BBA_line_desc=γραμμής του μέσου όρου των Bollinger Bands
+param_HideA_name=Απόκρυψη μέσης γραμμής
+param_HideA_description=Καθορίζει εάν η μέση γραμμή Bollinger θα εμφανίζεται ή όχι
+
+[hun]
+codepage=0
+name=Bollinger Szalagok
+description=Az árfolyamhoz viszonyított magas és alacsony árakat adja meg
+param_Dev_name=Standard szórás 
+param_Dev_description=Standard szórás mértéke
+param_BBB_line_name=Szalag
+param_BBB_line_desc=a szalag felső és alsó vonala
+param_BBA_line_name=Átlagvonal
+param_BBA_line_desc=a szalag átlagvonala
+param_HideA_name=Mozgóátlag elrejtése
+param_HideA_description=A mozgóátlag láthatóságát állíthatjuk be
+

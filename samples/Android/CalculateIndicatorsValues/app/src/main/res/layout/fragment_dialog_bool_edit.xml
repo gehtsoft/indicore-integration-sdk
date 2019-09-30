@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="24dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/parameterNameTextView"
+        style="@style/AppTheme.ParameterNameTextView"
+        tools:text="parameter name"/>
+
+    <RadioGroup
+        android:id="@+id/parameterValues"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp">
+
+        <RadioButton
+            android:id="@+id/trueRadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="true"/>
+
+        <RadioButton
+            android:id="@+id/falseRadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="false"/>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/okButton"
+        style="@style/AppTheme.ConfirmButton" />
+
+</LinearLayout>

@@ -1,0 +1,218 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Accumulation/Distribution
+description=Measures supply and demand by determining whether investors are generally accumulating (buying) or distributing (selling) a certain instrument by identifying divergences between the instrument price and volume flow.
+param_Method_name=Calculation mode
+param_Method_description=The mode of Accumulation/Distribution calculation.
+string_alternative_Method_Classic=Classic
+string_alternative_Method_ClassicIncremental=Classic Incremental
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=Accumulation/Distribution line
+assert_supportsVolume=The source must have volume.
+
+[rus]
+codepage=1251
+name=Накопление/распределение
+description=Измеряет спрос и предложение, определяя, что инвесторы делают в основном, накапливают (покупают) или распределяют (продают) определенный инструмент, определяя расхождения между ценой инструмента и объемом.
+param_Method_name=Метод расчета
+param_Method_description=Метод расчета накопления/распределения.
+string_alternative_Method_Classic=Классический
+string_alternative_Method_ClassicIncremental=Классический с приращением
+string_alternative_Method_TradeStation=Торговая станция
+param_AD_line_name=линии накопления/распределения
+assert_supportsVolume=Источник данных должен содержать объем.
+
+[ara]
+codepage=1256
+name=مؤشر التراكم/التوزيع AD
+description=يقيس العرض والطلب عن طريق تحديد ما إذا كان المستثمرون عموماً يراكمون أو يجمعون (الشراء) أو يوزعون (البيع) لأداة معينة عن طريق تحديد الاختلافات بين سعر الأداة وحجم التدفق.
+param_Method_name=طريقة الحساب
+param_Method_description=طريقة حساب مؤشر التراكم/التوزيع
+string_alternative_Method_Classic=الكلاسيكي
+string_alternative_Method_ClassicIncremental=الكلاسي التراكمي
+string_alternative_Method_TradeStation=محطة التداول
+param_AD_line_name=خط مؤشر التراكم/التوزيع
+assert_supportsVolume=يجب أن يتوفر حجم للمصدر.
+
+[chs]
+codepage=936
+name=累积/分配
+description=通过观察价格与资金流量的分岐，来判断投资者普遍是买入或是卖出某一商品，从而来衡量供求
+param_Method_name=计算模式
+param_Method_description=累积/分配计算模式
+string_alternative_Method_Classic=典型
+string_alternative_Method_ClassicIncremental=典型增量
+string_alternative_Method_TradeStation=交易平台
+param_AD_line_name=累积/分配线
+assert_supportsVolume=来源必须要有价格量
+
+[cht]
+codepage=950
+name=累積/分配
+description=通過觀察價格與資金流量的分岐，來判斷投資者普遍是買入或是賣出某一商品，從而來衡量供求
+param_Method_name=計算模式
+param_Method_description=累積/分配計算模式
+string_alternative_Method_Classic=典型
+string_alternative_Method_ClassicIncremental=典型增量
+string_alternative_Method_TradeStation=交易平台
+param_AD_line_name=累積/分配線
+assert_supportsVolume=來源必須要有價格量
+
+[cze]
+codepage=1250
+name=A/D
+description=Měří nabídku a poptávku pomocí zjištění, zda převažuje prodejní, nebo nákupní tlak na daný instrument. Identifikuje divergence mezi cenou instrumentu a tokem objemu.
+param_Method_name=Způsob výpočtu A/D
+param_Method_description=Způsob výpočtu A/D
+string_alternative_Method_Classic=Klasický
+string_alternative_Method_ClassicIncremental=Klasický přírůstový
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=linky A/D
+assert_supportsVolume=Zdrojová data neobsahují objem
+
+[deu]
+codepage=1252
+name=Akkumulation / Distribution
+description=Misst Angebot und Nachfrage indem bestimmt wird ob das Instrument akkumuliert (gekauft) oder abgestoßen (verkauft) wird, durch Identifikation der Divergenz zwischen Preis und Volumen
+param_Method_name=Berechnungsmodus
+param_Method_description=Der Modus der Akkumulation/Distribution Berechnung
+string_alternative_Method_Classic=Klassisch
+string_alternative_Method_ClassicIncremental=Klassisch inkrementell
+string_alternative_Method_TradeStation=Handelsstation
+param_AD_line_name=Accumulation/Distribution Linie
+assert_supportsVolume=Die Quelle muss Volumen haben
+
+[fra]
+codepage=1252
+name=Accumulation/Distribution
+description=Mesure l'offre et la demande en déterminant si les investisseurs sont en majorité en accumulation (achat) ou distribution (vente) d'un certain instrument en identifiant les divergences entre le prix de l'instrument et les volumes
+param_Method_name=Mode de calcul A/D
+param_Method_description=Le mode de calcul de Accumulation/Distribution
+string_alternative_Method_Classic=Classique
+string_alternative_Method_ClassicIncremental=Incrémentation classique
+string_alternative_Method_TradeStation=Station de trading
+param_AD_line_name=ligne Accumulation/Distribution
+assert_supportsVolume=La source doit avoir un volume
+
+[gre]
+codepage=1253
+name=Accumulation/Distribution
+description=Μετρά την προσφορά και τη ζήτηση, καθορίζοντας εάν οι επενδυτές γενικώς αγοράζουν ή πωλούν ένα συγκεκιμένο προϊόν, αναγνωρίζοντας τις αποκλίσεις μεταξύ της τιμής του προϊόντος και του όγκου.
+param_Method_name=Μέθοδος Υπολογισμού
+param_Method_description=Η μέθοδος υπολογισμού του Accumulation/Distribution.
+string_alternative_Method_Classic=Classic
+string_alternative_Method_ClassicIncremental=Classic Incremental
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=γραμμής Accumulation/Distribution
+assert_supportsVolume=Η πηγή πρέπει να έχει όγκο.
+
+[heb]
+codepage=1255
+name=צבירה\תפוצה
+description=מזהה צבירה (קנייה) או תפוצה (מכירה) של נכס מסוים על ידי השוואה בין מחיר הנכס לנפח.
+param_Method_name=מצב חישוב
+param_Method_description=מצב חישוב הצבירה או התפוצה.
+string_alternative_Method_Classic=קלאסי
+string_alternative_Method_ClassicIncremental=הוספה קלאסית
+string_alternative_Method_TradeStation=תחנת מסחר
+param_AD_line_name=של קו הצבירה\תפוצה
+assert_supportsVolume=המקור חייב להיות בעל נפח.
+
+[ita]
+codepage=1252
+name=Accumulazione/Distribuzione
+description=Misura l'offerta e la domanda, determinando se gli investitori sono generalmente in accumulo (acquisto) o in distribuzione (vendita) di uno strumento certo, identificando le divergenze tra il prezzo dello strumento e del flusso di volume.
+param_Method_name=Metodo di calcolo
+param_Method_description=Il metodo di calcolo di Accumulazione/Distribuzione
+string_alternative_Method_Classic=Classico
+string_alternative_Method_ClassicIncremental=Classico incrementale
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=Linea di Accumulazione/Distribuzione
+assert_supportsVolume=La sorgente deve avere un volume
+
+[jpn]
+codepage=932
+name=Accumulation(買い）/Distribution(売り）
+description=価格とボリュームの流れから転換点を見つけ出し買い優勢か売り優勢かを判断します。
+param_Method_name=計算モード
+param_Method_description=Accumulation/Distribution 計算モード
+string_alternative_Method_Classic=Classic
+string_alternative_Method_ClassicIncremental=Classic Incremental
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=ライン
+assert_supportsVolume=ボリュームが伴わないと無効です
+
+[tur]
+codepage=1254
+name=Alım/Dağıtım
+description=Enstrümanın fiyatı ve hacmi arasındaki sapmalardan yola çıkarak belli bir enstrümanın yatırımcılar tarafından alındığını mı yoksa dağıtıldığını (satıldığını) mı belirleyerek arz ve talebi ölçer
+param_Method_name=Hesaplama modu
+param_Method_description=Alım/Dağıtım hesaplama modu.
+string_alternative_Method_Classic=Klasik
+string_alternative_Method_ClassicIncremental=Klasik Artan
+string_alternative_Method_TradeStation=Trading Station
+param_AD_line_name=Alım/Dağıtım çizgi
+assert_supportsVolume=Kaynak hacimli olmalı.
+
+[pol]
+codepage=1250
+name=Akumulacja/Dystrybucja
+description=Mierzy podaż i popyt okreslając czy inwestorzy zwykle akumulują (kupują) czy dystrybuują (sprzedają) instrumenty poprzez identyfikację rozbieżności między ceną instumentu a przepływem wolumenu.
+param_Method_name=Metoda kalkulacji
+param_Method_description=Tryb kalkulacji Akumulacja/Dystrybucja.
+string_alternative_Method_Classic=Klasyczny
+string_alternative_Method_ClassicIncremental=Klasyczny Przyrostowy
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=lini Akumulacja/Dystrybucja
+assert_supportsVolume=Źródło musi posiadać wolumen
+
+[por]
+codepage=1252
+name=Acumulação/Distribuição
+description=Mede os níveis de oferta e de procura ao determinar se os investidores estão a acumular (comprar) ou a distribuir (vender) de forma geral um determinado instrumento através da identificação de divergências entre o preço do instrumento e o fluxo de volume.
+param_Method_name=Modo de cálculo
+param_Method_description=O modo de cálculo de Acumulação/Distribuição.
+string_alternative_Method_Classic=Clássico
+string_alternative_Method_ClassicIncremental=Clássico incremental
+string_alternative_Method_TradeStation=Estação de operações
+param_AD_line_name=Linha de Acumulação/Distribuição
+assert_supportsVolume=A origem tem de ter um volume.
+
+[esp]
+codepage=1252
+name=Acumulación/Distribución
+description=Suministra la oferta y la demanda mediante la decisión si los inversores acumulan ( compra) o distribuyen (venta) un instrumento determinado mediante la identificación de las divergencias entre el precio del instrumento y el flujo de volumen.
+param_Method_name=Modo de calculo
+param_Method_description=El Modo de calculo de Acumulación/Distribución
+string_alternative_Method_Classic=Clásico
+string_alternative_Method_ClassicIncremental=Incremento clásico
+string_alternative_Method_TradeStation=Estación de Operaciones
+param_AD_line_name=línea de Acumulación/Distribución
+assert_supportsVolume=El origen debe de tener volumen
+
+[hun]
+codepage=0
+name=Accumulation/Distribution
+description=Az indikátor megmutatja, hogy felhalmozás vagy disztribúció zajlik-e a piacon az ár és a forgalom közti divergenciák vizsgálatával.
+param_Method_name=Számítási eljárás
+param_Method_description=Beállíthatja az A/C számításának módját.
+string_alternative_Method_Classic=Klasszikus
+string_alternative_Method_ClassicIncremental=Klasszikus növekedési
+string_alternative_Method_TradeStation=Trade Station
+param_AD_line_name=Akkumuláció/Disztribúció vonal
+assert_supportsVolume=A forrásnak rendelkeznie kell forgalmi adatokkal.
+
+[kor]
+codepage=949
+name=
+description=
+param_Method_name=
+param_Method_description=
+string_alternative_Method_Classic=
+string_alternative_Method_ClassicIncremental=
+string_alternative_Method_TradeStation=
+param_AD_line_name=
+assert_supportsVolume=
+

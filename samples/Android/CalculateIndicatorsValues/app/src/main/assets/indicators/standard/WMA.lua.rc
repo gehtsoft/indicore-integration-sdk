@@ -1,0 +1,110 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Wilder's Moving Average
+description=Similar to the Exponential Moving Average, but it is a bit slower in reflecting price changes.
+param_WMA_line_name=Wilder's Moving Average line
+
+[rus]
+codepage=1251
+name=Скользящее среднее Уайлдера
+description=Аналогичен экспоненциальному скользящему среднему, но немного медленнее отражает изменения цены.
+param_WMA_line_name=линии скользящего среднего Уайлдера
+
+[ara]
+codepage=1256
+name=متوسط فيلدرز المتحرك
+description=يشاه المتوسط المتحرك المضاعف، ولكنه أبطئ قليلاً بعكس التغييرات في الأسعار.
+param_WMA_line_name=خط متوسط فيلدرز المتحرك
+
+[chs]
+codepage=936
+name=威尔德移动平均线
+description=跟指数平均线相似, 但反映价格变动比较慢
+param_WMA_line_name=威尔德移动平均线
+
+[cht]
+codepage=950
+name=威爾德移動平均線
+description=跟指數平均線相似, 但反映價格變動比較慢
+param_WMA_line_name=威爾德移動平均線
+
+[cze]
+codepage=1250
+name=Wilderův klouzavý průměr
+description=Klouzavý průměr, který je podobný exponenciálnímu, jen je méně volatilní v porovnání se změnou ceny.
+param_WMA_line_name=linky Wilderova klouzavého průměru
+
+[deu]
+codepage=1252
+name=Wilders Moving Average
+description=Ähnlich des Exponential Moving Averages, reflektiert aber langsamer die Preisänderungen
+param_WMA_line_name=Wilders Moving Average Linie.
+
+[fra]
+codepage=1252
+name=Moyenne mobile Wilders
+description=Similaire à la moyenne mobile exponentielle, mais elle est légèrement plus lente à refléter les changements de prix
+param_WMA_line_name=la ligne de moyenne mobile Wilders.
+
+[gre]
+codepage=1253
+name=Wilders Moving Average
+description=Παρόμοιο με το Exponential Moving Average, αλλά λίγο πιο αργό στο να αντικατοπτρίζει τις μεταβολές των τιμών.
+param_WMA_line_name=γραμμής του Wilders Moving Average
+
+[heb]
+codepage=1255
+name=הממוצע הנע של וילדר
+description=דומה לממוצע הנע האקספוננציאלי, אולם משקפת את המחיר באופן מעט איטי יותר.
+param_WMA_line_name=הקו של הממוצע הנע של וילדר
+
+[ita]
+codepage=1252
+name=Wilders Moving Average
+description=Simile alla Media Mobile Esponenziale, ma è più lenta nel riflettere cambiamenti di prezzo
+param_WMA_line_name=linea Wilders Moving Average
+
+[jpn]
+codepage=932
+name=ワイルダー移動平均
+description=指数加重移動平均線（EMA)に似ていますが、最近のレート変動の影響を受けにくくしています。
+param_WMA_line_name=ワイルダー移動平均線
+
+[tur]
+codepage=1254
+name=Wilder Hareketli Ortalama
+description=Üssel Hareketli Ortalama’ya benzer ancak fiyat değişikliklerini biraz daha geç yansıtır.
+param_WMA_line_name=Wilders Hareketli Ortalama çizgi
+
+[pol]
+codepage=1250
+name=Średnia Kroczącza Wildera
+description=Podobnie do Eksponencjalnej Średniej Kroczącej, lecz trochę wolniej w odzwierciedleniu zmian ceny.
+param_WMA_line_name=lini Średniej Kroczące Wildersa
+
+[por]
+codepage=1252
+name=Média Móvel de Wilder
+description=Semelhante à Média Móvel Exponencial, mas um pouco mais lenta a refletir alterações de preços.
+param_WMA_line_name=Linha da Média Móvel de Wilder
+
+[esp]
+codepage=1252
+name=Promedio Móvil Wilders
+description=Es similar al promedio móvil exponencial , pero es un poco lento para reflejar los cambiaron en los precios
+param_WMA_line_name=línea del Promedio Móvil Wilders
+
+[hun]
+codepage=0
+name=Wilder Mozgóátlaga
+description=Az indikátor hasonló egy exponenciális mozgóátlaghoz de annál lassabban reagál az árfolyam változásaira.
+param_WMA_line_name=Wilders Mozgóátlag vonal
+
+[kor]
+codepage=949
+name=
+description=
+param_WMA_line_name=
+

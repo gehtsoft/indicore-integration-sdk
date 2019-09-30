@@ -1,0 +1,223 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+param_Name=Stochastic Momentum Index
+param_Description=Stochastic Momentum Index (SMI) displays the location of the close price relative to the midpoint of the last high/low range, compared to the close relative to the recent high/low with the Stochastic Oscillator.
+param_CalculationGroup=Calculation
+param_Period_Q=Period Q
+param_Period_R=Period R
+param_Period_S=Period S
+param_Period_Signal=Period Signal
+param_StyleGroup=Style
+param_DATAclr=Color of DATA line
+param_SIGNALclr=Color of SIGNAL line
+
+[rus]
+codepage=1251
+param_Name=Индекс стохастического моментума
+param_Description=Индекс стохастического моментума (Stochastic Momentum Index, SMI) показывает расположение цены закрытия в средней точке расстояния между последним максимумом и минимумом по сравнению с ценой закрытия в точке последнего максимума/минимума со стохастическим осциллятором.
+param_CalculationGroup=Расчет
+param_Period_Q=Период Q
+param_Period_R=Период R
+param_Period_S=Период S
+param_Period_Signal=Сигнал периода
+param_StyleGroup=Оформление
+param_DATAclr=Цвет линии ДАННЫХ
+param_SIGNALclr=Цвет линии СИГНАЛА
+
+[cht]
+codepage=950
+param_Name=隨機指標動力指數
+param_Description=隨機指標動力指數 (SMI) 顯示收盤價相對於近期最高價/最低價範圍中點的位置，而隨機擺盪指標顯示的是收盤價相對於近期最高價/最低價的位置。
+param_CalculationGroup=計算
+param_Period_Q=週期 Q
+param_Period_R=週期 R
+param_Period_S=週期 S
+param_Period_Signal=週期訊號
+param_StyleGroup=樣式
+param_DATAclr=數據線顏色
+param_SIGNALclr=訊號線顏色
+
+[chs]
+codepage=936
+param_Name=随机指标动力指数
+param_Description=随机指标动力指数 (SMI) 显示收盘价相对于近期最高价/最低价范围中点的位置，而随机摆荡指标显示的是收盘价相对于近期最高价/最低价的位置。
+param_CalculationGroup=计算
+param_Period_Q=周期 Q
+param_Period_R=周期 R
+param_Period_S=周期 S
+param_Period_Signal=周期信号
+param_StyleGroup=样式
+param_DATAclr=数据线颜色
+param_SIGNALclr=信号线颜色
+
+[jpn]
+codepage=932
+param_Name=ストキャスティクスモメンタム指数
+param_Description=ストキャスティクスモメンタム指数（SMI）は、ストキャスティクスオシレーターを使用して、最後の高値/安値の中間点を基準とした終値の位置を、最近の高値/安値に対する終値と比較して表示します。
+param_CalculationGroup=計算
+param_Period_Q=期間 Q
+param_Period_R=期間 R
+param_Period_S=期間 S
+param_Period_Signal=期間シグナル
+param_StyleGroup=スタイル
+param_DATAclr=データ線の色
+param_SIGNALclr=シグナル線の色
+
+[fra]
+codepage=1252
+param_Name=Indice de momentum de stochastique
+param_Description=L’Indice de momentum de stochastique (SMI) affiche la position du prix de fermeture relatif au point médian de la dernière gamme haute/basse, comparée à la fermeture relative à la récente hausse/baisse avec le Stochastic Oscillator.
+param_CalculationGroup=Calcul
+param_Period_Q=Période Q
+param_Period_R=Période R
+param_Period_S=Période S
+param_Period_Signal=Signal de période
+param_StyleGroup=Style
+param_DATAclr=Couleur de la ligne de DONNÉES
+param_SIGNALclr=Couleur de la ligne de SIGNAL
+
+[esp]
+codepage=1252
+param_Name=Índice de movimiento del oscilador estocástico
+param_Description=El índice de movimiento del oscilador estocástico (SMI) muestra la ubicación del precio de cierre en relación con el punto medio del último intervalo alto/bajo y lo compara con el precio de cierre en relación con el intervalo alto/bajo reciente mediante el oscilador estocástico.
+param_CalculationGroup=Cálculo
+param_Period_Q=Período Q
+param_Period_R=Período R
+param_Period_S=Período S
+param_Period_Signal=Señal del período
+param_StyleGroup=Estilo
+param_DATAclr=Color de la línea DATOS
+param_SIGNALclr=Color de la línea SEÑAL
+
+[deu]
+codepage=1252
+param_Name=Stochastik-Momentum-Index
+param_Description=Der Stochastik-Momentum-Index (SMI) zeigt die Position des Schlusskurses relativ zum Mittelpunkt des letzten Hoch/Tief-Intervalls an, verglichen mit dem Schlusswert relativ zum letzten Hoch/Tief mit dem Stochastik-Oszillator.
+param_CalculationGroup=Berechnung
+param_Period_Q=Periode Q
+param_Period_R=Periode R
+param_Period_S=Periode S
+param_Period_Signal=Periodensignal
+param_StyleGroup=Stil
+param_DATAclr=Farbe der DATEN-Linie
+param_SIGNALclr=Farbe der SIGNAL-Linie
+
+[ara]
+codepage=1256
+param_Name=مؤشر زخم الستوكاستيك
+param_Description=يعرض مؤشر زخم الستوكاستيك (SMI) موقع سعر الإغلاق بالنسبة لنقطة الوسط من نطاق الارتفاع/الانخفاض الأخير، مقارنة مع سعر الإغلاق بالنسبة للارتفاع/الانخفاض الأحدث مع مذبذب الستوكاستيك.
+param_CalculationGroup=الحساب
+param_Period_Q=الفترة Q
+param_Period_R=الفترة R
+param_Period_S=الفترة S
+param_Period_Signal=إشارة الفترة
+param_StyleGroup=النمط
+param_DATAclr=لون خط البيانات
+param_SIGNALclr=لون خط الإشارة
+
+[tur]
+codepage=1254
+param_Name=Stokastik Momentum Endeksi
+param_Description=Stokastik Momentum Endeksi (SMI), Stokastik Osilatör ile yakın zamandaki yüksek/düşük şeklindeki duruma göre kapanış ile kıyaslandığında en son yüksek/düşük aralığın orta noktasına göre kapanış fiyatının konumunu gösterir.
+param_CalculationGroup=Hesaplama
+param_Period_Q=Q Periyodu
+param_Period_R=R Periyodu
+param_Period_S=S Periyodu
+param_Period_Signal=Periyot Sinyali
+param_StyleGroup=Biçim
+param_DATAclr=VERİ çizgisinin rengi
+param_SIGNALclr=SİNYAL çizgisinin rengi
+
+[ita]
+codepage=1252
+param_Name=Indice andamento stocastico
+param_Description=L'indicatore di andamento stocastico (SMI) visualizza la posizione del prezzo di chiusura relativa al punto intermedio dell'intervallo alto/basso rispetto alla chiusura relativa all'alto/basso recente con l'oscillatore stocastico.
+param_CalculationGroup=Calcolo
+param_Period_Q=Periodo Q
+param_Period_R=Periodo R
+param_Period_S=Periodo S
+param_Period_Signal=Segnale periodo
+param_StyleGroup=Stile
+param_DATAclr=Colore della linea DATI
+param_SIGNALclr=Colore della linea SEGNALE
+
+[heb]
+codepage=1255
+param_Name=מדד התנופה הסתברותית
+param_Description=מדד התנופה ההסתברותית (SMI) מציג את המיקום של מחיר הסגירה ביחס לנקודת האמצע של טווח השיא\שפל האחרון תוך כדי השוואה עם מחיר הסגירה ביחס לטווח השיא\שפל האחרון בעזרת מתנד ההסתברות.
+param_CalculationGroup=חישוב
+param_Period_Q=תקופה Q
+param_Period_R=תקופה R
+param_Period_S=תקופה S
+param_Period_Signal=אות התקופה
+param_StyleGroup=סגנון
+param_DATAclr=צבע של קו הנתונים
+param_SIGNALclr=צבע של קו האות
+
+[gre]
+codepage=1253
+param_Name=Δείκτης Στοχαστικής Ορμής (Stochastic Momentum Index)
+param_Description=Ο Δείκτης Στοχαστικής Ορμής (Stochastic Momentum Index, SMI) εμφανίζει τη θέση της τιμής κλεισίματος σε σχέση με το μέσο σημείο του εύρους τελευταίου υψηλού/χαμηλού, σε σύγκριση με το κλείσιμο σε σχέση με το πρόσφατο υψηλό/χαμηλό με τον Στοχαστικό Ταλαντωτή.
+param_CalculationGroup=Υπολογισμός
+param_Period_Q=Περίοδος Q
+param_Period_R=Περίοδος R
+param_Period_S=Περίοδος S
+param_Period_Signal=Σήμα περιόδου
+param_StyleGroup=Στυλ
+param_DATAclr=Χρώμα της γραμμής ΔΕΔΟΜΈΝΩΝ
+param_SIGNALclr=Χρώμα της γραμμής ΣΗΜΑΤΟΣ
+
+[cze]
+codepage=1250
+param_Name=Stochastický momentový index
+param_Description=Stochastický momentový index (SMI) zobrazuje umístění uzavírací ceny relativně ke středu posledního vysokého/nízkého rozpětí, v porovnání k uzavření relativnímu k poslednímu vysokému/nízkému rozpětí stochastického oscilátoru.
+param_CalculationGroup=Výpočet
+param_Period_Q=Perioda Q
+param_Period_R=Perioda R
+param_Period_S=Perioda S
+param_Period_Signal=Signál periody
+param_StyleGroup=Styl
+param_DATAclr=Barva DATOVÉ linky
+param_SIGNALclr=Barva SIGNÁLNÍ linky
+
+[por]
+codepage=1252
+param_Name=Índice de impulso estocástico
+param_Description=O índice de impulso estocástico (SMI) apresenta a localização do preço de fecho em relação ao ponto médio do último intervalo alto/baixo, em comparação com o preço de fecho em relação ao alto/baixo recente com o oscilador estocástico.
+param_CalculationGroup=Cálculo
+param_Period_Q=Período Q
+param_Period_R=Período R
+param_Period_S=Período S
+param_Period_Signal=Sinal do período
+param_StyleGroup=Estilo
+param_DATAclr=Cor da linha de DADOS
+param_SIGNALclr=Cor da linha de SINAL
+
+[pol]
+codepage=1250
+param_Name=Indeks dynamiki stochastycznej (SMI)
+param_Description=Indeks dynamiki stochastycznej (SMI) wyświetla lokalizację wartości ceny zamknięcia zbliżonej w odniesieniu do ostatniego przedziału wysokiego/niskiego, w porównaniu do ceny zamknięcia w odniesieniu do ostatniej wartości wysokiej/niskiej z oscylatora stochastycznego.
+param_CalculationGroup=Obliczenie
+param_Period_Q=Okres Q
+param_Period_R=Okres R
+param_Period_S=Okres S
+param_Period_Signal=Sygnał okresu
+param_StyleGroup=Styl
+param_DATAclr=Kolor linii DANE
+param_SIGNALclr=Kolor linii SYGNAŁ
+
+[hun]
+codepage=0
+param_Name=Sztochasztikus momentum index
+param_Description=A sztochasztikus momentum index (SMI) a zárási ár relatív helyét mutatja meg a legutolsó maximum/minimum sáv felezőpontjához képest, összehasonlítva az aktuális maximum/minimumhoz képest vett zárási árral a Sztochasztikus oszcillátor segítségével.
+param_CalculationGroup=Számítás
+param_Period_Q=Q-időszak
+param_Period_R=R-időszak
+param_Period_S=S-időszak
+param_Period_Signal=Periódusjel
+param_StyleGroup=Stílus
+param_DATAclr=Az ADAT vonalának színe
+param_SIGNALclr=A JEL vonalának színe
+

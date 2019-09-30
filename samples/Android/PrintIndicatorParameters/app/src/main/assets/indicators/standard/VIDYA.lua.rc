@@ -1,0 +1,110 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Chande's Variable Index Dynamic Average
+description=Adapts the weighting of the last prices to the volatility of the market.
+param_VIDYA_line_name=Chande's Variable Index Dynamic Average line
+
+[rus]
+codepage=1251
+name=Скользящее среднее с динамическим периодом усреднения Чанде
+description=Адаптирует вес последних цен к волатильности рынка.
+param_VIDYA_line_name=линии скользящего среднего с динамическим периодом усреднения Чанде
+
+[ara]
+codepage=1256
+name=مؤشر تشاند المتغير المتوسط الديناميكي
+description=يتكيف مع أوزان الأسعار الأخير لتقلبات السوق.
+param_VIDYA_line_name=خط مؤشر تشاند المتغير المتوسط الديناميكي
+
+[chs]
+codepage=936
+name=弹性指数动态平均
+description=采用最近的价格相对于市场波动的权重
+param_VIDYA_line_name=弹性指数动态平均线
+
+[cht]
+codepage=950
+name=彈性指數動態平均
+description=採用最近的價格相對於市場波動的權重
+param_VIDYA_line_name=彈性指數動態平均線
+
+[cze]
+codepage=1250
+name=Chande's Variable Index Dynamic Average
+description=Adaptuje váhu poslední ceny na volatilitu trhu.
+param_VIDYA_line_name=linky Chande's Variable Index Dynamic Average
+
+[deu]
+codepage=1252
+name=Chande's Variable Index Dynamic Average
+description=Adaptiert das Gewicht des letzten Preise zur Volatilität des Marktes
+param_VIDYA_line_name=Chandes Variable Index Dynamic Average Linie
+
+[fra]
+codepage=1252
+name=Indice Chande de variable dynamique moyenne
+description=Adapte le poids des derniers prix à la volatilité du marché
+param_VIDYA_line_name=ligne du Chande Variable Index Dynamic Average
+
+[gre]
+codepage=1253
+name=Chande's Variable Index Dynamic Average
+description=Προσαρμόζει το βάρος των τελευταίων τιμών στην μεταβλητότητα της αγοράς.
+param_VIDYA_line_name=γραμμής του Chande's Variable Index Dynamic Average
+
+[heb]
+codepage=1255
+name=האינדיקס הדינמי המשתנה של צ'נדה
+description=משקלל את המחירים האחרונים כדי לאמוד את תנודתיות השוק.
+param_VIDYA_line_name=הקו של האינדיקטור הממוצע הדינמי של שאנדה
+
+[ita]
+codepage=1252
+name=Indice Variabile Chande Dynamic Average
+description=Adatta il peso degli ultimi prezzi alla volatilità del mercato
+param_VIDYA_line_name=linea della Chande's Variable Index Dynamic Average
+
+[jpn]
+codepage=932
+name=VIDYA
+description=最近のプライスを加重化し、市場のボラティリティを考慮した移動平均線です。
+param_VIDYA_line_name=VIDYA ライン
+
+[tur]
+codepage=1254
+name=Chande'nin Değişken Endeksli Dinamik Ortalaması
+description=Son fiyatın ağırlığını piyasa volatilitesine adapte eder.
+param_VIDYA_line_name=Chande'nin Değişken Endeksli Dinamik Ortalamasının çizgi
+
+[pol]
+codepage=1250
+name=Średnia Dynamicznego Indeksu Zmienności Chandego
+description=Przekłada rozkład wagowy ostatnich cen na zmienności rynku.
+param_VIDYA_line_name=Chande's Variable Index Dynamic Average line
+
+[por]
+codepage=1252
+name=Média Dinâmica do Índice Variável de Chande
+description=Adapta a ponderação dos últimos preços à volatilidade do mercado.
+param_VIDYA_line_name=linha da Média Dinâmica do Índice Variável de Chande
+
+[esp]
+codepage=1252
+name=Índice Variable del Promedio Dinámico Chandes
+description=Se adapta a la ponderación de los últimos precios de la volatilidad del mercado
+param_VIDYA_line_name=linea del Indice Dinamico de la Variable Chande
+
+[hun]
+codepage=0
+name=Chande's Variable Index Dynamic Average
+description=Az indikátor az utolsó záróárak súlyozását adaptálja a piac volatilitásához.
+param_VIDYA_line_name=Chande's Variable Index Dynamic Average line
+
+[kor]
+codepage=949
+name=
+description=
+param_VIDYA_line_name=
+

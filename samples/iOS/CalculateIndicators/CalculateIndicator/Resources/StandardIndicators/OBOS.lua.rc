@@ -1,0 +1,223 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Overbought/Oversold Indicator
+description=Shows the overbought and oversold conditions.
+number_of_periods_name=Number of periods
+number_of_periods_description=The number of periods
+UP_Color_name=UP color
+UP_Color_description=The color of UP bars
+DN_Color_name=DN color
+DN_Color_description=The color of DN bars
+OB_Color_name=Overbought/Oversold color
+OB_Color_description=The color of Overbought/Oversold bars
+
+[rus]
+codepage=1251
+name=Индикатор перекупленности и перепроданности
+description=Указывает на ситуацию перекупленности или перепроданности.
+number_of_periods_name=Количество периодов
+number_of_periods_description=Количество периодов
+UP_Color_name=Цвет повышения
+UP_Color_description=Цвет бара с повышением
+DN_Color_name=Цвет понижения
+DN_Color_description=Цвет бара с понижением
+OB_Color_name=Цвет перекупленности и перепроданности
+OB_Color_description=Цвет баров перекупленности или перепроданности
+
+[cht]
+codepage=950
+name=超買/超賣指標
+description=顯示超買和超賣條件。
+number_of_periods_name=時期數目
+number_of_periods_description=時期數目
+UP_Color_name=上升顏色
+UP_Color_description=上升棒線的顏色
+DN_Color_name=下降顏色
+DN_Color_description=下降棒線的顏色
+OB_Color_name=超買/超賣顏色
+OB_Color_description=超買/超賣棒線的顏色
+
+[chs]
+codepage=936
+name=超买/超卖技术指标
+description=显示超买和超卖的条件。
+number_of_periods_name=时期数目
+number_of_periods_description=时期数目
+UP_Color_name=上升颜色
+UP_Color_description=上升棒线颜色
+DN_Color_name=下降颜色
+DN_Color_description=下降棒线颜色
+OB_Color_name=超买/超卖颜色
+OB_Color_description=超买/超卖棒线颜色
+
+[jpn]
+codepage=932
+name=買い持ち/売り持ち指標
+description=買い持ちおよび売り持ち状況を示します。
+number_of_periods_name=期間数
+number_of_periods_description=期間の数
+UP_Color_name=UPの色
+UP_Color_description=UPバーの色
+DN_Color_name=DNの色
+DN_Color_description=DNバーの色
+OB_Color_name=買い持ち/売り持ちの色
+OB_Color_description=買い持ち/売り持ちバーの色
+
+[fra]
+codepage=1252
+name=Indicateur de surachats/surventes
+description=Indique les conditions de surachat et de survente.
+number_of_periods_name=Nombre de périodes
+number_of_periods_description=Le nombre de périodes
+UP_Color_name=Couleur UP
+UP_Color_description=La couleurs des barres UP
+DN_Color_name=Couleur DN
+DN_Color_description=La couleur des barres DN
+OB_Color_name=Couleur des surachats/surventes
+OB_Color_description=La couleur des barres de surachats/surventes
+
+[esp]
+codepage=1252
+name=Indicador de sobrecompra/sobreventa
+description=Mostrar las condiciones de sobrecompra y sobreventa
+number_of_periods_name=Número de periodos
+number_of_periods_description=Número de periodos
+UP_Color_name=Color UP
+UP_Color_description=Color de las barras UP
+DN_Color_name=Color DN
+DN_Color_description=Color de las barras DN
+OB_Color_name=Color Sobrecompra/Sobreventa
+OB_Color_description=El color de las barras Sobrecompra/Sobreventa
+
+[deu]
+codepage=1252
+name=Anzeige für überkauft/überverkauft
+description=Zeigt die Überkauft-/Überverkauft-Bedingungen an.
+number_of_periods_name=Anzahl der Perioden
+number_of_periods_description=Die Anzahl der Perioden
+UP_Color_name=Farbe für AUFWÄRTS
+UP_Color_description=Die Farbe für AUFWÄRTS-Balken
+DN_Color_name=Farbe für ABWÄRTS
+DN_Color_description=Die Farbe für ABWÄRTS-Balken
+OB_Color_name=Farbe für überkauft/überverkauft
+OB_Color_description=Die Farbe für Überkauft-/Überverkauft-Balken
+
+[ara]
+codepage=1256
+name=مؤشر زيادة الشراء/زيادة البيع
+description=يبين حالات زيادة الشراء والبيع.
+number_of_periods_name=عدد فترات
+number_of_periods_description=عدد الفترات
+UP_Color_name=اللون العلوي
+UP_Color_description=لون الأشرطة العلوية
+DN_Color_name=اللون السفلي
+DN_Color_description=لون الأشرطة السفلية
+OB_Color_name=لون مؤشر زيادة الشراء/زيادة البيع
+OB_Color_description=لون أشرطة زيادة الشراء/زيادة البيع
+
+[tur]
+codepage=1254
+name=Aşırı Alış/Aşırı Satış Göstergesi
+description=Aşırı alış ve aşırı satış durumlarını gösterir.
+number_of_periods_name=Periyot sayısı
+number_of_periods_description=Periyot sayısı
+UP_Color_name=ÜST rengi
+UP_Color_description=ÜST çubuklarının rengi
+DN_Color_name=ALT rengi
+DN_Color_description=ALT çubuklarının rengi
+OB_Color_name=Aşırı Alış/Aşırı Satış rengi
+OB_Color_description=Aşırı Alış/Aşırı Satış çubuklarının rengi
+
+[ita]
+codepage=1252
+name=Indicatore iperacquistato/ipervenduto
+description=Mostra le condizioni di iperacquistato e ipervenduto.
+number_of_periods_name=Numero di periodi
+number_of_periods_description=Il numero di periodi
+UP_Color_name=Colore SU
+UP_Color_description=Il colore delle barre SU
+DN_Color_name=Colore GIÙ
+DN_Color_description=Il colore delle barre GIÙ
+OB_Color_name=Colore iperacquistato/ipervenduto
+OB_Color_description=Il colore delle barre iperacquistato/ipervenduto
+
+[heb]
+codepage=1255
+name=אינדיקטור קניית-יתר/מכירת-יתר
+description=מראה תנאי קניית-יתר ומכירת-יתר.
+number_of_periods_name=מספר העמודות
+number_of_periods_description=מספר התקופות
+UP_Color_name=צבע UP
+UP_Color_description=צבע עמודות UP
+DN_Color_name=צבע DN
+DN_Color_description=צבע עמודות DN
+OB_Color_name=צבע קניית-יתר/מכירת-יתר
+OB_Color_description=הצבע של עמודות קניית-יתר/מכירת-יתר
+
+[gre]
+codepage=1253
+name=Δείκτης γραμμής υπεραγοράς/υπερπώλησης
+description=Δείχνει τις συνθήκες γραμμής υπεραγοράς και υπερπώλησης.
+number_of_periods_name=Αριθμός περιόδων
+number_of_periods_description=Ο αριθμός των περιόδων
+UP_Color_name=ΑΝΩ χρώμα
+UP_Color_description=Το χρώμα των ΑΝΩ ράβδων
+DN_Color_name=ΚΑΤΩ χρώμα
+DN_Color_description=Το χρώμα των ΚΑΤΩ ράβδων
+OB_Color_name=Χρώμα γραμμής υπεραγοράς/υπερπώλησης
+OB_Color_description=Το χρώμα των ράβδων υπεραγοράς/υπερπώλησης
+
+[cze]
+codepage=1250
+name=Indikátor překoupení/přeprodání
+description=Zobrazuje podmínky překoupení a přeprodání.
+number_of_periods_name=Počet period
+number_of_periods_description=Počet period
+UP_Color_name=Barva – růst
+UP_Color_description=Barva sloupců s růstem
+DN_Color_name=Barva – pokles
+DN_Color_description=Barva sloupců s poklesem
+OB_Color_name=Barva Překoupení/Přeprodání
+OB_Color_description=Barva sloupců Překoupení/Přeprodání
+
+[por]
+codepage=1252
+name=Indicador de sobrecompra/sobrevenda
+description=Indica as condições de sobrecompra e sobrevenda.
+number_of_periods_name=Número de períodos
+number_of_periods_description=O número de períodos
+UP_Color_name=Cor SBD
+UP_Color_description=A cor das barras SBD
+DN_Color_name=Cor DSC
+DN_Color_description=A cor das barras DSC
+OB_Color_name=Cor de sobrecompra/sobrevenda
+OB_Color_description=A cor das barras de sobrecompra/sobrevenda
+
+[pol]
+codepage=1250
+name=Wskaźnik wykupienia/wyprzedania
+description=Wskazuje stany wykupienia i wyprzedania.
+number_of_periods_name=Liczba okresów
+number_of_periods_description=Liczba okresów
+UP_Color_name=Kolor W górę
+UP_Color_description=Kolor słupków w górę
+DN_Color_name=Kolor W dół
+DN_Color_description=Kolor słupków w dół
+OB_Color_name=Kolor wykupienia/wyprzedania
+OB_Color_description=Kolor słupków wykupienia/wyprzedania
+
+[hun]
+codepage=0
+name=Túlvétel/Túladás jelzése
+description=A túlvételi és túladási feltételeket mutatja.
+number_of_periods_name=Időszakok száma
+number_of_periods_description=Az időszakok száma
+UP_Color_name=FEL szín
+UP_Color_description=A FEL oszlopok színe
+DN_Color_name=LE szín
+DN_Color_description=A LE oszlopok színe
+OB_Color_name=Túlvett/túladott szín
+OB_Color_description=A túlvett/túladott oszlopok színe
+

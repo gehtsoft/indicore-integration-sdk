@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=%R Larry Williams
+description=Uses Stochastics to determine overbought and oversold levels.
+param_RLW_line_name=%R Larry Williams line
+
+[ara]
+codepage=1256
+name=مؤشر لاري وليامس
+description=يستخدم ستوكاستيك ليتعرف على مستويات كثيرة الشراء أو البيع
+param_RLW_line_name=الخط لمؤشر لاري وليامس
+
+[chs]
+codepage=936
+name=威廉指标W%R
+description=使用随机原理判断超买及超卖水平
+param_RLW_line_name=威廉指标W%R线
+
+[cht]
+codepage=950
+name=威廉指標W%R
+description=使用隨機原理判斷超買及超賣水平
+param_RLW_line_name=威廉指標W%R線
+
+[ctt]
+codepage=950
+name=威廉指標W%R
+description=使用隨機原理判斷超買及超賣水平
+param_RLW_line_name=
+
+[deu]
+codepage=1252
+name=Williams %R
+description=Mithilfe von Stochastik werden Ebene von Ueberkaufen und Ueberverkaufen bestimmt
+param_RLW_line_name=%R Larry Williams Linie
+
+[esp]
+codepage=1252
+name=%R Larry Williams
+description=Utiliza análisis estocástico para determinar niveles de sobreventa y sobrecompra.
+param_RLW_line_name=línea de %R Larry Williams
+
+[fra]
+codepage=1252
+name=%R Larry Williams
+description=Utilise les Stochastiques pour déterminer les niveaux de surachetés et de surventes.
+param_RLW_line_name=ligne %R Larry Williams
+
+[jpn]
+codepage=932
+name=ラリー・ウィリアムズ%R 指数
+description=ストキャスティックを使用して買われ過ぎ、売られ過ぎのレベルを判断します
+param_RLW_line_name=%R Larry Williamsライン
+
+[kor]
+codepage=949
+name=RLW (%R Larry Williams)
+description=Stochastics 을 사용하여 overbought 과 oversold 레벨을 측정함
+param_RLW_line_name=
+
+[rus]
+codepage=1251
+name=Процентный диапазон Вильямса
+description=Определяет уровни перекупленности/перепроданности, используя стохастики.
+param_RLW_line_name=линии процентного диапазона Вильямса
+
+[tur]
+codepage=1254
+name=Larry Williams %R
+description=Stokastiği kullanarak aşırı alış ve aşırı satış bölgelerini belirler.
+param_RLW_line_name=Larry Williams %R göstergesi çizgi
+
+[ita]
+codepage=1252
+name=%R Larry Williams
+description=Utilizza gli stocastici per determinare i livelli di ipercomprato e ipervenduto
+param_RLW_line_name=linea %R Larry Williams
+
+[heb]
+codepage=1255
+name=לארי ויליאמס %R
+description=עושה שימוש בסטוכאסטיקה על מנת לזהות מכירת-יתר וקניית-יתר.
+param_RLW_line_name=הקו של מדד לארי ויליאמס %R
+
+[pol]
+codepage=1250
+name=Wiliams %R
+description=Używa stochastyki do określania poziomów wykupienia i wyprzedania
+param_RLW_line_name=linii Wiliams %R
+
+[cze]
+codepage=1250
+name=Williams %R
+description=Používá Stochastics k určení překoupených a přeprodaných úrovní.
+param_RLW_line_name=linky %R Larry Williams
+
+[por]
+codepage=1252
+name=%R Larry Williams
+description=Recorre a análise estocástica para determinar os níveis de sobrecompra e de sobrevenda.
+param_RLW_line_name=Linha de %R Larry Williams
+
+[gre]
+codepage=1253
+name=%R Larry Williams
+description=Χρησιμοποιεί το δείκτη Stochastics για να προσδιορίσει τα υπεραγορασμένα και υπερπουλημένα επίπεδα.
+param_RLW_line_name=γραμμής %R Larry Williams
+
+[hun]
+codepage=0
+name=%R Larry Williams
+description=A túlvett és a túladott szinteket jelző indikátor.
+param_RLW_line_name=%R Larry Williams indikátor
+

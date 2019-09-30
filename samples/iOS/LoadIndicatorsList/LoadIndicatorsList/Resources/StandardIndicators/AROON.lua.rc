@@ -1,0 +1,173 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Aroon
+description=Reveals the beginning of a new trend.
+param_Up_line_name=Up Line
+param_Up_line_desc=up line
+param_Down_line_name=Down Line
+param_Down_line_desc=down line
+
+[ara]
+codepage=1256
+name=أروون
+description=إظهار بداية الاتجاه الجديد
+param_Up_line_name=الخط الأعلى
+param_Up_line_desc=الخط الأعلى
+param_Down_line_name=الخط الأدنى
+param_Down_line_desc=الخط الأدنى
+
+[chs]
+codepage=936
+name=安龙指标
+description=提示新趋势的开始
+param_Up_line_name=上线
+param_Up_line_desc=上线
+param_Down_line_name=下线
+param_Down_line_desc=下线
+
+[cht]
+codepage=950
+name=安龍指標
+description=提示新趨勢的開始
+param_Up_line_name=上線
+param_Up_line_desc=上線
+param_Down_line_name=下線
+param_Down_line_desc=下線
+
+[ctt]
+codepage=950
+name=安龍指標
+description=提示新趨勢的開始
+param_Up_line_name=
+param_Up_line_desc=
+param_Down_line_name=
+param_Down_line_desc=
+
+[deu]
+codepage=1252
+name=Aroon
+description=Leitet eine neue Tendenz ein
+param_Up_line_name=Aufwärtslinie
+param_Up_line_desc=Aufwärtslinie
+param_Down_line_name=Abwärtslinie
+param_Down_line_desc=Abwärtslinie
+
+[esp]
+codepage=1252
+name=Aroon
+description=Revela el comienzo de una tendencia nueva
+param_Up_line_name=línea superior
+param_Up_line_desc=línea superior
+param_Down_line_name=línea inferior
+param_Down_line_desc=línea inferior
+
+[fra]
+codepage=1252
+name=Aroon
+description=Révèle le commencement d'une nouvelle tendance
+param_Up_line_name=ligne du haut
+param_Up_line_desc=ligne du haut
+param_Down_line_name=ligne du bas
+param_Down_line_desc=ligne du bas
+
+[jpn]
+codepage=932
+name=アルーン
+description=トレンドの始まりを明確にします
+param_Up_line_name=ファースト・ライン
+param_Up_line_desc=ファースト・ライン
+param_Down_line_name=ダウンライン
+param_Down_line_desc=ダウンライン
+
+[kor]
+codepage=949
+name=AROON (Aroon)
+description=새로운 경향을 나타냄
+param_Up_line_name=
+param_Up_line_desc=
+param_Down_line_name=
+param_Down_line_desc=
+
+[rus]
+codepage=1251
+name=Арун
+description=Выявляет начало нового тренда.
+param_Up_line_name=линии "вверх"
+param_Up_line_desc=линии "вверх"
+param_Down_line_name=линии "вниз"
+param_Down_line_desc=линии "вниз"
+
+[tur]
+codepage=1254
+name=Aroon
+description=Yeni trend başlangıcını gösterir.
+param_Up_line_name=Üst çizgi
+param_Up_line_desc=Üst çizginin
+param_Down_line_name=Alt çizgi
+param_Down_line_desc=Alt çizginin
+
+[ita]
+codepage=1252
+name=Aroon
+description=Mostra l'inizio di un nuovo trend
+param_Up_line_name=linea rialzista
+param_Up_line_desc=linea rialzista
+param_Down_line_name=linea ribassista
+param_Down_line_desc=linea ribassista
+
+[heb]
+codepage=1255
+name=Aroon
+description=מזהה את המגמה בתחילתה.
+param_Up_line_name=קו עולה
+param_Up_line_desc=הקו העולה
+param_Down_line_name=קו יורד
+param_Down_line_desc=הקו היורד
+
+[pol]
+codepage=1250
+name=Aroon
+description=Pokazuje początek nowego trendu
+param_Up_line_name=linii górnej
+param_Up_line_desc=linii górnej
+param_Down_line_name=linii dolnej
+param_Down_line_desc=linii dolnej
+
+[cze]
+codepage=1250
+name=Aroon
+description=Ukazuje začátek nového trendu.
+param_Up_line_name=horní linky
+param_Up_line_desc=horní linky
+param_Down_line_name=spodní linky
+param_Down_line_desc=spodní linky
+
+[por]
+codepage=1252
+name=Aroon
+description=Revela o início de uma nova tendência.
+param_Up_line_name=Linha de subida
+param_Up_line_desc=linha de subida
+param_Down_line_name=Linha de descida
+param_Down_line_desc=linha de descida
+
+[gre]
+codepage=1253
+name=Aroon
+description=Αποκαλύπτει την αρχή μιας νέας τάσης.
+param_Up_line_name=επάνω γραμμής
+param_Up_line_desc=επάνω γραμμής
+param_Down_line_name=κάτω γραμμής
+param_Down_line_desc=κάτω γραμμής
+
+[hun]
+codepage=0
+name=Aroon
+description=Új trend kezdetét jelzi
+param_Up_line_name=Up Line
+param_Up_line_desc=up line
+param_Down_line_name=Down Line
+param_Down_line_desc=down line
+

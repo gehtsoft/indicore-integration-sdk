@@ -1,0 +1,249 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Stochastic Fast
+description=Shows the location of the current close relative to the high/low range over a set number of periods.
+param_K_name=Number of periods for %K
+param_K_description=The number of periods for %K.
+param_D_name=Number of periods for %D
+param_D_description=The number of periods for %D.
+param_K_line_name=%K line
+param_D_line_name=%D line
+param_K_line_desc=%K line
+param_D_line_desc=%D line
+
+[ara]
+codepage=1256
+name=ستوكاستيك السريع
+description=يقارن سعر الاغلاق مع أعلى/أدنى سعر خلال فترة محددة
+param_K_name=عدد فترات الـ %K
+param_K_description=عدد فترات الـ %K
+param_D_name=عدد فترات الـ %D
+param_D_description=عدد فترات الـ %D
+param_K_line_name=الخط %K
+param_D_line_name=الخط %D
+param_K_line_desc=الخط %K
+param_D_line_desc=الخط %D
+
+[chs]
+codepage=936
+name=快速随机指标
+description=通过一系列的时期显示当前最接近的最高/最低范围的关系
+param_K_name=%K时期
+param_K_description=%K时期
+param_D_name=%D时期
+param_D_description=%D时期
+param_K_line_name=%K线
+param_D_line_name=%D线
+param_K_line_desc=%K线
+param_D_line_desc=%D线
+
+[cht]
+codepage=950
+name=快速隨機指標
+description=通過一系列的時期顯示當前最接近的最高/最低範圍的關係
+param_K_name=%K時期
+param_K_description=%K時期
+param_D_name=%D時期
+param_D_description=%D時期
+param_K_line_name=%K線
+param_D_line_name=%D線
+param_K_line_desc=%K線
+param_D_line_desc=%D線
+
+[ctt]
+codepage=950
+name=快速隨機指標
+description=通過一系列的時期顯示當前最接近的最高/最低範圍的關係
+param_K_name=%K時期
+param_K_description=%K時期
+param_D_name=%D時期
+param_D_description=%D時期
+param_K_line_name=
+param_D_line_name=
+param_K_line_desc=
+param_D_line_desc=
+
+[deu]
+codepage=1252
+name=Stochastik schnell
+description=Stellt bezüglich der Kursspanne die Position des aktuellen Schlusspreises über eine bestimmte Anzahl von Perioden dar.
+param_K_name=Period für %K
+param_K_description=Period für %K
+param_D_name=Period für %D
+param_D_description=Period für %D
+param_K_line_name=Linie %K
+param_D_line_name=Linie %D
+param_K_line_desc=Linie %K
+param_D_line_desc=Linie %D
+
+[esp]
+codepage=1252
+name=Estocástico Rápido
+description=Muestra el lugar del cierre actual con respecto al rango de alto/bajo sobre un número de periodos determinado.
+param_K_name=Período para %K
+param_K_description=El número de periodos para %K
+param_D_name=Período para %D
+param_D_description=El número de periodos para %D
+param_K_line_name=línea %K
+param_D_line_name=línea %D
+param_K_line_desc=línea %K
+param_D_line_desc=línea %D
+
+[fra]
+codepage=1252
+name=Stochastique rapide
+description=Montre l'emplacement des clôtures en cours par rapport à la gamme de au Haut/bas sur le nombre de périodes.
+param_K_name=Nombre de périodes pour %K
+param_K_description=Le nombre de périodes pour %K.
+param_D_name=Nombre de périodes pour %D
+param_D_description=Le nombre de périodes pour %D.
+param_K_line_name=ligne %K
+param_D_line_name=ligne %D
+param_K_line_desc=ligne %K
+param_D_line_desc=ligne %D
+
+[jpn]
+codepage=932
+name=ファスト・ストキャスティック
+description=指定された期間の高値・安値レンジに関連した現在のクローズの場所を表示します。
+param_K_name=%K ライン算出の期間
+param_K_description=%K ライン算出の期間
+param_D_name=%D ライン算出の期間
+param_D_description=%D ライン算出の期間
+param_K_line_name=%Kライン
+param_D_line_name=%Dライン
+param_K_line_desc=%Kライン
+param_D_line_desc=%Dライン
+
+[kor]
+codepage=949
+name=빠른 스토케스틱 (Stochastic Fast)
+description=주어진 기간의 하이와 로우에 따른 현재 클로즈 장소을 표시
+param_K_name=%K의 기간
+param_K_description=%K의 기간
+param_D_name=%D의 기간
+param_D_description=%D의 기간
+param_K_line_name=
+param_D_line_name=
+param_K_line_desc=
+param_D_line_desc=
+
+[rus]
+codepage=1251
+name=Быстрый стохастик
+description=Показывает положение текущей цены закрытия относительно диапазона минимумов/максимумов за заданное количество периодов.
+param_K_name=Количество периодов для %K
+param_K_description=Количество периодов для %K.
+param_D_name=Количество периодов для %D
+param_D_description=Количество периодов для %D.
+param_K_line_name=линии %K
+param_D_line_name=линии %D
+param_K_line_desc=линии %K
+param_D_line_desc=линии %D
+
+[tur]
+codepage=1254
+name=Hızlı Stokastik
+description=Mevcut kapanışın belli bir periyottaki en yüksek/en düşük seviyelere göre yerini gösterir.
+param_K_name=%K periyot sayısı
+param_K_description=%K'nın periyot sayısı.
+param_D_name=%D periyot sayısı
+param_D_description=%D'nin periyot sayısı.
+param_K_line_name=%K çizgi
+param_D_line_name=%D çizgi
+param_K_line_desc=%K çizgisinin
+param_D_line_desc=%D çizgisinin
+
+[ita]
+codepage=1252
+name=Stochastic Fast
+description=Mostra il posizionamento del close corrente in relazione al range high/low di un determinato numero di periodi
+param_K_name=Numero di periodi della %K
+param_K_description=Il numero di periodi della %K
+param_D_name=Numero di periodi della %D
+param_D_description=Il numero di periodi della %K
+param_K_line_name=linea %K
+param_D_line_name=linea %D
+param_K_line_desc=linea %K
+param_D_line_desc=linea %D
+
+[heb]
+codepage=1255
+name=סטוכסטיקה מהירה
+description=מציג את מיקום מחיר הנעילה הנוכחי ביחס לשיא\שפל של הטווח בתקופה נתונה.
+param_K_name=מספר תקופות של %K
+param_K_description=מספר התקופות של %K.
+param_D_name=מספר תקופות של %D
+param_D_description=מספר התקופות של %D.
+param_K_line_name=קו %K
+param_D_line_name=קו %D
+param_K_line_desc=הקו %K
+param_D_line_desc=הקו %D
+
+[pol]
+codepage=1250
+name=Oscylator stochastyczny szybki
+description=Pokazuje położenie aktualnej ceny zamknięcia w relacji do zakresu pomiędzy najniższa i najwyższą ceną w danym okresie
+param_K_name=Liczba okresów dla %K
+param_K_description=Liczba okresów dla %K
+param_D_name=Liczba okresów dla %D
+param_D_description=Liczba okresów dla %D
+param_K_line_name=linii %K
+param_D_line_name=linii %D
+param_K_line_desc=linii %K
+param_D_line_desc=linii %D
+
+[cze]
+codepage=1250
+name=Rychlý stochastic
+description=Zobrazuje umístění poslední závěrečné hodnoty ve vztahu k úrovním minima a maxima za zvolené období .
+param_K_name=Počet period pro %K
+param_K_description=Počet period pro %K.
+param_D_name=Počet period pro %D.
+param_D_description=Počet period pro %D.
+param_K_line_name=%K linka
+param_D_line_name=%D linky
+param_K_line_desc=%K linka
+param_D_line_desc=%D linky
+
+[por]
+codepage=1252
+name=Estocástico Rápido
+description=Mostra o lugar do fecho atual em relação ao intervalo de máximo/mínimo ao longo de um número definido de períodos.
+param_K_name=Número de períodos para %K
+param_K_description=O número de períodos para %K.
+param_D_name=Número de períodos para %D
+param_D_description=O número de períodos para %D.
+param_K_line_name=Linha %K
+param_D_line_name=Linha %D
+param_K_line_desc=linha %K
+param_D_line_desc=linha %D
+
+[gre]
+codepage=1253
+name=Stochastic Fast
+description=Δείχνει τη θέση της τρέχουσας τιμής κλεισίματος σε σχέση με τα όρια υψηλών/χαμηλών σε συγκεκριμένο αριθμό περιόδων.
+param_K_name=Αριθμός περιόδων για %K
+param_K_description=Ο αριθμός περιόδων για %K.
+param_D_name=Αριθμός περιόδων για %D
+param_D_description=Ο αριθμός περιόδων για %D.
+param_K_line_name=γραμμής %Κ
+param_D_line_name=γραμμής %D
+param_K_line_desc=γραμμής για %K
+param_D_line_desc=γραμμής για %D
+
+[hun]
+codepage=0
+name=Gyors Stochastic
+description=Összehasonlítja az árfolyam helyzetét x periódusok maximumok és minimumok értékével.
+param_K_name=%K periódus
+param_K_description=Beállíthatja a %K periódusainak számát.
+param_D_name=%D periódus
+param_D_description=Beállíthatja a %D periódusainak számát.
+param_K_line_name=%K vonal
+param_D_line_name=%D vonal
+param_K_line_desc=%K vonal
+param_D_line_desc=%D vonal
+

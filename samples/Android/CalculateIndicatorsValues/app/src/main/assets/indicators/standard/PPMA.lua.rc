@@ -1,0 +1,116 @@
+include=common.lua.rc
+default=enu
+[enu]
+codepage=1252
+name=Pivot Point Moving Average
+description=Uses the pivot point calculation as the input into a simple moving average.
+param_PPMA_line_name=Pivot Point Moving Average line
+
+[ara]
+codepage=1256
+name=معدل المتحرك للبيفوت بوينت
+description=يستخدم حساب نقاط البيفوت كمدخلات في المتوسط المتحرك البسيط
+param_PPMA_line_name=خط المعدل المتحرك للبيفوت بوينت.
+
+[chs]
+codepage=936
+name=枢纽水平移动平均线
+description=加入枢纽水平计算的移动平均线
+param_PPMA_line_name=枢纽水平移动平均线
+
+[cht]
+codepage=950
+name=樞紐水平移動平均線
+description=加入樞紐水平計算的移動平均線
+param_PPMA_line_name=樞紐水平移動平均線
+
+[ctt]
+codepage=950
+name=樞紐水平移動平均線
+description=加入樞紐水平計算的移動平均線
+param_PPMA_line_name=
+
+[deu]
+codepage=1252
+name=Pivot-point Moving Average
+description=Leitet der einfache gleitende Durchschnitt aus der Pivot-Punkt Kalkulation her.
+param_PPMA_line_name=Pivot Punkt Gleitender Durchschnittslinie
+
+[esp]
+codepage=1252
+name=Media Móvil de Puntos-Pivote
+description=Utiliza el cálculo de Puntos Pivote como base para calcular la media móvil simple.
+param_PPMA_line_name=línea del Promedio de los Puntos Pivote
+
+[fra]
+codepage=1252
+name=Moyenne mobile point-pivot
+description=Utilise le calcul de point-pivot comme données dans une moyenne mobile simple.
+param_PPMA_line_name=ligne de moyenne mobile de point pivot
+
+[jpn]
+codepage=932
+name=ピボット・ポイント移動平均線
+description=ピボット・ポイント計算式を単純移動平均のデータとして使用します。
+param_PPMA_line_name=Pivot Point Moving Averageライン
+
+[kor]
+codepage=949
+name=피벗 포인트 이동평균
+description=단순 이동평균 에 피봇포인트 계산을 넣음.
+param_PPMA_line_name=
+
+[rus]
+codepage=1251
+name=Среднее скользящее разворотных точек
+description=Рассчитывает простое скользящее среднее на основе разворотных точек.
+param_PPMA_line_name=линии среднего скользящего разворотных точек
+
+[tur]
+codepage=1254
+name=Pivot Seviye Hareketli Ortalama
+description=Pivot seviyeleri kullanarak hesaplanan basit hareketli ortalama.
+param_PPMA_line_name=Pivot Seviye Hareketli Ortalama çizgi
+
+[ita]
+codepage=1252
+name=Media Mobile del Pivot Point
+description=Utilizza i calcoli dei pivot point come input in una simple moving average
+param_PPMA_line_name=linea Pivot Point Moving Average
+
+[heb]
+codepage=1255
+name=ממוצע נע של נקודות ציר
+description=ממוצע נע פשוט של נקודות הציר.
+param_PPMA_line_name=הקו של ממוצע נע נקודות ציר
+
+[pol]
+codepage=1250
+name=Średnia krocząca pivot points
+description=Do formuły zwykłej średniej kroczącej użyte są pivoty
+param_PPMA_line_name=linii średniej kroczącej pivot points
+
+[cze]
+codepage=1250
+name=Klouzavý průměr pivotu
+description=Používá pivotní bod kalkulace jako vstup pro jednoduchý klouzavý průměr.
+param_PPMA_line_name=linky klouzavého průměru pivotu
+
+[por]
+codepage=1252
+name=Média Móvel de Pontos de Pivô
+description=Utiliza o cálculo de pontos de pivô como base para calcular a média móvel simples.
+param_PPMA_line_name=Linha da Média Móvel de Pontos de Pivô
+
+[gre]
+codepage=1253
+name=Pivot Point Moving Average
+description=Χρησιμοποιεί τον υπολογισμό Pivot Point ως πληροφορία μέσα σε έναν απλό κινητό μέσο όρο.
+param_PPMA_line_name=γραμμής Pivot Point Moving Average
+
+[hun]
+codepage=0
+name=Pivot Pont Mozgóátlag
+description=A pivot pontok számítási módját alkalmazó egyszerű mozgóátlag.
+param_PPMA_line_name=Pivot Point Mozgóátlag vonal
+

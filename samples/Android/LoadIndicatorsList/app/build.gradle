@@ -1,0 +1,73 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.fxtsmobile.printindicatorparameters"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "x86_64", "arm64-v8a"
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+/*
+
+Gradle has a bug on the Unix platform. In case of the "Failed to create directory" error, do the following:
+
+1. Remove the following lines from this Gradle script:
+
+project.afterEvaluate {
+    preBuild.dependsOn(copyindicore, copyjniLibs)
+}
+
+task copyindicore(type: Copy) {
+    from '../../../java/'
+    into '/libs/'
+}
+
+task copyjniLibs(type: Copy) {
+    from '../../../libs/'
+    into '/src/main/jniLibs'
+}
+
+2. Copy 'indicore3.jar' from 'IndicoreSDK-3.4-Android/java' to 'IndicoreSDK-3.4-Android/CalculateIndicatorsValues/app/libs/'
+3. Copy the directories 'armeabi' and 'armeabi-v7a' from 'IndicoreSDK-3.4-Android/libs' to 'IndicoreSDK-3.4-Android/CalculateIndicatorsValues/app/src/main/jniLibs/'
+4. Sync Gradle and build the app.
+
+*/
+
+project.afterEvaluate {
+    preBuild.dependsOn(copyindicore, copyjniLibs)
+}
+
+task copyindicore(type: Copy) {
+    from '../../../java/'
+    into '/libs/'
+}
+
+task copyjniLibs(type: Copy) {
+    from '../../../libs/'
+    into '/src/main/jniLibs'
+}
+
+dependencies {
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support:design:26.1.0'
+}
