@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<project default="build" basedir=".">
+    <property file="build.properties" />
+    <property name="name" value="LoadIndicatorsList" />
+    <property name="src.dir" location="${basedir}/src" />
+    <property name="build" location="${basedir}/build" />
+    <property name="build.classes" location="${build}/classes" />
+
+    <target name="checkos">
+        <condition property="bin.dir" value="${basedir}/../../../bin">
+          <os family="windows" />
+        </condition>                      
+        <condition property="bin.dir" value="${basedir}/../../../lib">
+          <os family="unix" />
+        </condition>    
+    </target>
+    
+    <!-- App build -->
+    <target name="build" depends="checkos" description="Builds the ${name} application">
+        <!-- Creating directory -->
+        <mkdir dir="${build.classes}" />
+
+        <!-- Compiling sources -->
+        <javac srcdir="${src.dir}"
+               destdir="${build.classes}"
+               includeAntRuntime="false"
+               debug="${build.debug}"
+               deprecation="true"
+               verbose="false"
+               optimize="true"
+               classpath="${bin.dir}/java/indicore3.jar" >
+        </javac>
+
+        <!-- Creating JAR-file -->
+        <jar jarfile="${build}/${name}.jar">
+            <fileset dir="${build.classes}" />
+            <manifest>
+                <attribute name="Main-Class" value="com.gehtsoft.indicore3.LoadIndicatorsList.Main" />
+                <attribute name="Class-Path" value="indicore3.jar" />
+            </manifest>
+        </jar>
+    </target>
+
+    <target name="rebuild" depends="clean, build" description="Rebuilds project" />
+
+    <!-- Clean -->
+    <target name="clean" description="Removes all temporary files">
+        <!-- Deleting files -->
+        <delete dir="${build}" />
+    </target>
+
+    <target name="run" depends="checkos" description="Rebuilds and run ${name}">
+        <copy file="${bin.dir}/java/indicore3.jar" tofile="${build}/indicore3.jar" overwrite="true" />
+        <java jar="${build}/${name}.jar" fork="true" failonerror='true' dir="${bin.dir}">
+            <jvmarg value="-Djava.library.path=${java.library.path}${path.separator}${bin.dir}${path.separator}${bin.dir}/java" />
+            <arg line="--indicators_path {INDICATORS_PATH}" />
+        </java>
+    </target>
+
+</project>
