@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<project default="build" basedir=".">
+    <property file="build.properties" />
+    <property name="name" value="RunStrategy" />
+    <property name="src.dir" location="${basedir}/src" />
+    <property name="build" location="${basedir}/build" />
+    <property name="build.classes" location="${build}/classes" />
+
+    <target name="checkos">
+        <condition property="bin.dir" value="${basedir}/../../../bin">
+          <os family="windows" />
+        </condition>                      
+        <condition property="bin.dir" value="${basedir}/../../../lib">
+          <os family="unix" />
+        </condition>    
+    </target>
+    
+    <!-- App build -->
+    <target name="build" depends="checkos" description="Builds the ${name} application">
+        <!-- Creating directory -->
+        <mkdir dir="${build.classes}" />
+
+        <!-- Compiling sources -->
+        <javac srcdir="${src.dir}"
+               destdir="${build.classes}"
+               includeAntRuntime="false"
+               debug="${build.debug}"
+               deprecation="true"
+               verbose="false"
+               optimize="true"
+               classpath="${bin.dir}/java/indicore3.jar" >
+        </javac>
+
+        <!-- Creating JAR-file -->
+        <jar jarfile="${build}/${name}.jar">
+            <fileset dir="${build.classes}" />
+            <manifest>
+                <attribute name="Main-Class" value="com.gehtsoft.indicore3.RunStrategy.Main" />
+                <attribute name="Class-Path" value="indicore3.jar" />
+            </manifest>
+        </jar>
+
+        <!-- Create bin folder -->
+        <copy todir="${user.dir}/bin">
+             <fileset dir="${bin.dir}">
+                  <include name="*"/>
+                  <type type="file"/>
+             </fileset>
+             <fileset dir="${bin.dir}/java"/>
+             <fileset dir="${user.dir}/build">
+                  <include name="*.jar"/>
+             </fileset>
+         </copy>
+         <copy todir="${user.dir}/bin/strategies">
+             <fileset dir="${user.dir}/../../../strategies"/>
+         </copy>
+         <copy todir="${user.dir}/bin/indicators">
+             <fileset dir="${user.dir}/../../../indicators"/>
+         </copy>
+         <copy todir="${user.dir}/bin/data">
+             <fileset dir="${user.dir}/../../../data"/>
+         </copy>
+    </target>
+
+    <target name="rebuild" depends="clean, build" description="Rebuilds project" />
+
+    <!-- Clean -->
+    <target name="clean" description="Removes all temporary files">
+        <!-- Deleting files -->
+        <delete dir="${build}" />
+    </target>
+
+    <target name="run" depends="checkos" description="Rebuilds and run ${name}">
+        <java jar="${user.dir}/bin/${name}.jar" fork="true" failonerror='true' dir="${user.dir}/bin">
+         <jvmarg value="-Djava.library.path=${java.library.path}${path.separator}${user.dir}/bin" />
+            <arg line="-i {INDICATORS_PATH}" />
+            <arg line="-s {STRATEGIES_PATH}" />
+            <arg line="-p {PRICE_DATA_PATH}" />
+            <arg line="-n {STRATEGYID}" />
+        </java>
+    </target>
+
+</project>
